@@ -53,7 +53,18 @@ pageTitle:
   labelDivider: '. '
 
 pdf:
-  filename: getty-research-journal-19
+  filename: 'getty-research-journal-20'
+  outputDir: '/_assets/downloads' 
+  pagePDF:
+    accessLinks:
+      - header: true 
+        label: 'PDF'
+      - footer: true
+        label: 'Download this page'
+    coverPage: true
+    output: false
+  publicationPDF:
+    output: true
 
 ref:
   sequenceTransition: 30

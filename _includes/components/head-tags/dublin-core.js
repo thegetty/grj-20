@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Update and clean-up handling for social sharing
+//
 const path = require('path')
 
 /**

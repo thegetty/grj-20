@@ -33,6 +33,7 @@ module.exports = {
         menu_link: data.menu_link,
         object: data.object,
         order: data.order,
+        page_pdf_output: data.page_pdf_output,
         short_title: data.short_title,
         subtitle: data.subtitle,
         summary: data.summary,
