@@ -9,7 +9,8 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://www.getty.edu/publications/grj/19'
+# url: 'https://www.getty.edu/publications/getty-research-journal/20/'
+url: 'http://localhost:8080'
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -26,11 +27,11 @@ description:
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2024-05-14 # YYYY-MM-DD
+pub_date: 2025-06-17 # YYYY-MM-DD
 language: en
 pub_type: journal-periodical # book | journal-periodical | other
 
-series_issue_number: 19
+series_issue_number: 20
 
 series_editors:
   - Doris Chon, *Executive Editor*
@@ -39,23 +40,21 @@ series_editors:
 series_editorial_board: "Scott Allan, LeRonn Brooks, Maristella Casciato, Anne‑Lise Desmas, Tom Learner, Mary E. Miller, Rebecca Peabody, Andrew Perchuk, Richard Rand, David Saunders, Alexa Sekyra, and Naoko Takahatake"
 
 project_team:
-  - Elizabeth Asborno, Lauren Gendler, Jonathan Smit, Annalisa&nbsp;Zox‑Weaver, *Manuscript Editors*
-  - Joseph Tumolo, *Editorial Assistant*
-  - Michelle Deemer, *Production*
-  - Jeffrey Cohen, *Cover Design*
-  - Greg Albers, *Digital Manager*
-  - Erin Cecele Dunigan, Kate Justement, *Digital Assistants*
+  # - Elizabeth Asborno, Lauren Gendler, Jonathan Smit, Annalisa&nbsp;Zox‑Weaver, *Manuscript Editors*
+  # - Jenny Park, *Production*
+  # - Jon Grizzle, *Cover Design*
+  # - Greg Albers, *Digital Manager*
 
 
 identifier:
-  doi: https://doi.org/10.59491/LFCW7179
-  isbn:
-  isbn_html: 978-1-60606-898-4
-  isbn_pdf: 978-1-60606-896-0
-  isbn_epub: 978-1-60606-897-7
-  isbn_paperback: 978-1-60606-895-3
-  issn: 1944-8740
-  e_issn: 2329-1249
+  # doi: https://doi.org/10.59491/LFCW7179
+  # isbn:
+  # isbn_html: 978-1-60606-898-4
+  # isbn_pdf: 978-1-60606-896-0
+  # isbn_epub: 978-1-60606-897-7
+  # isbn_paperback: 978-1-60606-895-3
+  # issn: 1944-8740
+  # e_issn: 2329-1249
 
 publisher:
   - name: Getty Research Institute
@@ -90,7 +89,7 @@ contributor:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2024 J. Paul Getty Trust
+copyright: © 2025 J. Paul Getty Trust
 
 license:
   name: Creative Commons Attribution‑NonCommercial 4.0 International License
@@ -107,17 +106,17 @@ resource_link:
     name: PDF (5.2 MB)
     media_type: application/pdf
     link_relation: alternate
-    url: /_assets/downloads/getty-research-journal-19.pdf
+    url: /_assets/downloads/getty-research-journal-20.pdf
   - type: other-format
     name: EPUB (41.4 MB)
     media_type: application/epub+zip
     link_relation: alternate
-    url: /_assets/downloads/getty-research-journal-19.epub
+    url: /_assets/downloads/getty-research-journal-20.epub
   - type: other-format
     name: Paperback
     media_type: print
     link_relation: alternate
-    url: https://shop.getty.edu/products/getty-research-journal-no-19-978-1606068953
+    url: https://shop.getty.edu/
   - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy
@@ -153,7 +152,7 @@ subject:
     name: ART / Collections, Catalogs, Exhibitions / Permanent Collections
     identifier: ART006020
   - type: keyword
-    name: "open-access, Quire, Kufic Quran, Early Abbasid, Grande Chartreuse, Jane Dieulafoy, Ilkhanid monuments, Emamzadeh Yahya, plundered tomb, Iraq, Polish painters, Baghdad, East Germany, samizdat, artist book"
+    name: ""
 
 # ------------------------------------------------------------------------------
 # Revision History
@@ -161,13 +160,13 @@ subject:
 
 
 revision_history:
-  - date: May 14, 2024
+  - date: June 17, 2025
     summary:
       - First edition
 
-revision_statement: "Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com/thegetty/grj-19](https://github.com/thegetty/grj-19), where a more detailed version history is available. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here."
+revision_statement: "Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com/thegetty/grj-20](https://github.com/thegetty/grj-20), where a more detailed version history is available. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here."
 
-repository_url: https://github.com/thegetty/grj-19
+repository_url: https://github.com/thegetty/grj-20
 
 # ------------------------------------------------------------------------------
 # Promo Image
