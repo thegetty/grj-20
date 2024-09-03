@@ -10,7 +10,7 @@
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
 # url: 'https://www.getty.edu/publications/getty-research-journal/20/'
-url: 'http://localhost:8080'
+url: 'https://main--grj-20.netlify.app'
 
 # ------------------------------------------------------------------------------
 # Title & Description
