@@ -1,0 +1,54 @@
+{%- if contributor.length == 1 -%}
+{%- capture chicagoContributor %}{{ contributor[0].first_name }} {{ contributor[0].last_name }}{%- endcapture -%}
+{%- capture mlaContributor %}{{ contributor[0].last_name }}, {{ contributor[0].first_name }}{% endcapture -%}
+{%- elsif contributor.length == 2 -%}
+{%- capture chicagoContributor %}{{ contributor[0].first_name }} {{ contributor[0].last_name }} and {{ contributor[1].first_name }} {{ contributor[1].last_name }}{% endcapture -%}
+{%- capture mlaContributor %}{{ contributor[0].last_name }}, {{ contributor[0].first_name }}, and {{ contributor[1].first_name }} {{ contributor[1].last_name }}{% endcapture -%}
+{%- else -%}
+{%- endif -%}
+<section class="quire-page__content page-tools" aria-label="Article download, abstract, and citation" data-outputs-exclude="epub,pdf">
+  <div class="container">
+    <div class="content">
+      {% if pdf_download %} 
+      <div id='#section-download'>
+        <a href="/_assets/downloads/{{ config.pdf.filename }}{{ page.filePathStem | replace: "/", "-" }}.pdf">PDF {% icon type="download", description="Download the PDF" %}</a>
+      </div>
+      {% endif %}
+      {% if abstract %}
+      {% accordion 'Abstract' %}
+
+      {% if straight_quotes %}
+      {{ abstract }}
+      {% else %}
+      {{ abstract | markdownify }} 
+      {% endif %}
+
+      {% if keywords %}
+
+      Keywords {.page-tools__heading}
+      
+      {% if straight_quotes %}
+      {{ keywords }}
+      {% else %}
+      {{ keywords | markdownify }}
+      {% endif %}
+
+      {% endif %}
+
+      {% endaccordion %}
+      {% endif %}
+      {% if doi %}
+      {% accordion 'Cite' %}
+    
+      **Chicago**
+      {{ chicagoContributor }}, “{% pageTitle title=title subtitle=subtitle %},” *{{ publication.title }}*, no. {{ publication.series_issue_number }} ({{ publication.pub_date | date: "%Y" }}), {{ doi }}.
+      
+      **MLA**
+      {{ mlaContributor }}. “{% pageTitle title=title subtitle=subtitle %}.” *{{ publication.title }}*, no. {{ publication.series_issue_number }}, {{ publication.pub_date | date: "%Y" }}, {{ doi }}.
+      
+      {{ copyright | markdownify }}
+      {% endaccordion %}
+      {% endif %}
+    </div>
+  </div>
+</section>

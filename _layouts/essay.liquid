@@ -1,0 +1,44 @@
+---
+## CUSTOMIZED FILE
+## Feed filePathStem, short_title, and contributors to page header to allow for section naming and PDF footers
+##
+classes:
+  - quire-essay
+layout: base.11ty.js
+description: Essay layout. This layout describes a single-page template that has been augmented with the ability to display a frontmatter-defined abstract (in markdown format) as well as bibliography references.
+---
+
+{% pageHeader
+  byline_format=byline_format,
+  contributor=contributor,
+  filePathStem=page.filePathStem,
+  image=image,
+  label=label,
+  pageContributors=pageContributors,
+  short_title=short_title,
+  subtitle=subtitle,
+  title=title
+%}
+
+{% if content %}
+{% include 'page-tools' %}
+<section class="section quire-page__content">
+  <div class="container">
+    <div class="content">
+      {% if copyright %}
+      <section class="quire-page__content page-tools__copyright" data-outputs-exclude="html">
+      {{ copyright | markdownify }}
+      </section>
+      {% endif %}
+      {{ content }}
+      {% bibliography citations %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<section class="section quire-page__content">
+  <div class="container">
+    {% pageButtons pagination=pagination %}
+  </div>
+</section>
