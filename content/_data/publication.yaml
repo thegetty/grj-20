@@ -10,9 +10,9 @@
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
 # url: 'https://www.getty.edu/publications/getty-research-journal/20/'
-url: 'https://main--grj-20.netlify.app'
+url: 'https://first-pages--grj-20.netlify.app'
 
-# ------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # Title & Description
 title: Getty Research Journal
 subtitle:
