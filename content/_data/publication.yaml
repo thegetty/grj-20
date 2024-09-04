@@ -47,14 +47,14 @@ project_team:
 
 
 identifier:
-  # doi: https://doi.org/10.59491/LFCW7179
-  # isbn:
-  # isbn_html: 978-1-60606-898-4
-  # isbn_pdf: 978-1-60606-896-0
-  # isbn_epub: 978-1-60606-897-7
-  # isbn_paperback: 978-1-60606-895-3
-  # issn: 1944-8740
-  # e_issn: 2329-1249
+  doi: 
+  isbn:
+  isbn_html: 978-1-60606-960-8
+  isbn_pdf: 978-1-60606-958-5
+  isbn_epub: 978-1-60606-959-2
+  isbn_paperback: 978-1-60606-957-8
+  issn: 1944-8740
+  e_issn: 2329-1249
 
 publisher:
   - name: Getty Research Institute
