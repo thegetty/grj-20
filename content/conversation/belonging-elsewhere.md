@@ -17,7 +17,7 @@ keywords: "TK, TK, TK, TK, TK, TK"
 doi: ""
 ---
 
-\[Introductory blurb TK.\] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[Introductory blurb TK.] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (**[figs. 1–3]**).
 
@@ -29,11 +29,11 @@ Laura G. Gutiérrez: I've been thinking a lot about our visit to Chicago last Se
 
 Felipe Baeza: Meeting you in Chicago felt amazing—a familiar landscape that each of us has a different set of connections and attachments to. It was beautiful to share that space with you, so much so that we forgot to record our conversation on the ground that day! We were just in the moment, so many things happening simultaneously. . . .
 
-> My parents drove me to the Mexican Fine Arts Center \[now known as the National Museum of Mexican Art\] before we met, and somehow, we ended up inside the museum. I didn’t share this with you at the time, but that was the first time I had ever been to a museum with my parents. And just seeing how uncomfortable they were in that space, despite the fact that it's a Mexican museum in an immigrant neighborhood and they live nearby and know that building well—it threw me off.
+> My parents drove me to the Mexican Fine Arts Center [now known as the National Museum of Mexican Art] before we met, and somehow, we ended up inside the museum. I didn’t share this with you at the time, but that was the first time I had ever been to a museum with my parents. And just seeing how uncomfortable they were in that space, despite the fact that it's a Mexican museum in an immigrant neighborhood and they live nearby and know that building well—it threw me off.
 >
 > But even so, that building has so many memories for me. It was probably the first museum I ever went to as a kid growing up in Pilsen. So they dropped me off, and then they left. And then we met, and we decided not to walk the museum, if I remember.
 
-Laura: Yeah, I think the people working at the museum were a little thrown off. Because I walked in to join you, and then we walked out together! \[*laughter*\]
+Laura: Yeah, I think the people working at the museum were a little thrown off. Because I walked in to join you, and then we walked out together! [*laughter*]
 
 Felipe: But yeah, I completely forgot to share that. Because I was just very thrown off by that. And I think everything happened organically then. Because then we walk to the first bus shelter, they're showcasing the Public Art Fund Project (**[figs. 4, 5]**). And I think it was walking in a landscape that I have, obviously, a lot of memories from. I think it was just a full circle of going back there. And then eventually we went to the same block where I grew up. And I remember we walked through every house that I grew up in.
 
@@ -51,7 +51,7 @@ Felipe: Oh right, because your family used to live there too?
 
 Laura: It’s so wild! I forgot to tell you, I verified that my aunt and uncle's house was across the street from your childhood home! So I probably was there when you were a little kid, I was already—
 
-Felipe: —causing trouble? \[*laughter*\]
+Felipe: —causing trouble? [*laughter*]
 
 Laura: But that was the moment in which we were so immersed in the conversation that we forgot to record. Because we were walking through the different houses where you had lived, and your memories of them.
 
@@ -75,7 +75,7 @@ Felipe: So many layers! That's why it feels so surreal, because I don't have the
 
 Laura: But also you were walking through streets you once knew well; you were in front of Orozco Academy, which is kitty-corner to two bus stops where your work is currently installed. Let’s talk about that?
 
-Felipe: I’m sure those bus stops have always been there, but to see my work in there was \[*pauses*\]. … It still hasn't hit me; I'm not sure how to feel about it! Even though the project was also installed in New York, I had only seen pictures sent by friends or sent through social media before that trip to Chicago. It was beautiful that the first time I saw it was with my parents when they drove me to the museum to meet you that day. It was surreal to see it through their eyes, and it’s hard to describe that feeling or what that meant at the time. But I couldn’t help imagining seven- or eight-year-old Felipe walking in those streets and being able to see something like those bus shelters. Even now that I've seen it a couple of times in New York, I haven't found the words yet, beyond it feeling a bit cringey. \[*laughter*\]
+Felipe: I’m sure those bus stops have always been there, but to see my work in there was [*pauses*]. … It still hasn't hit me; I'm not sure how to feel about it! Even though the project was also installed in New York, I had only seen pictures sent by friends or sent through social media before that trip to Chicago. It was beautiful that the first time I saw it was with my parents when they drove me to the museum to meet you that day. It was surreal to see it through their eyes, and it’s hard to describe that feeling or what that meant at the time. But I couldn’t help imagining seven- or eight-year-old Felipe walking in those streets and being able to see something like those bus shelters. Even now that I've seen it a couple of times in New York, I haven't found the words yet, beyond it feeling a bit cringey. [*laughter*]
 
 > From that bus shelter I recall we went to a well-known neighborhood coffee shop, Jumping Bean, that was the site of my first job.
 
@@ -85,11 +85,11 @@ Felipe: Like you, I was also someone who was very much interested in making, eve
 
 Laura: I used to drive to Pilsen from the North Side, just to go to that coffee shop, because it was the coolest one in Chicago.
 
-Felipe: There were so many writers and artists hanging out there. And as a ten-year-old, that was my only aspiration: I want to work here one day. I owe a lot to that neighborhood in many ways. I'm sure you remember the Mexican Fine Arts Center Museum used to have a program called Yollocalli \[Arts Reach\], which I think still exists?
+Felipe: There were so many writers and artists hanging out there. And as a ten-year-old, that was my only aspiration: I want to work here one day. I owe a lot to that neighborhood in many ways. I'm sure you remember the Mexican Fine Arts Center Museum used to have a program called Yollocalli [Arts Reach], which I think still exists?
 
 Laura: Oh, community radio for youth?
 
-Felipe: Yes, Radio Arte. And it used to be on the corner of Blue Island and 18th, literally a block away. And I was part of both. I think I was part of Radio Arte for a minute, thinking that I wanted to be a radio DJ, but that never happened. \[*laughter*\] But Yollocalli was such a transformative space for me and so many kids in the neighborhood. I took my first art class there, in photography, an interest that later evolved into many other creative languages. It was thriving; there was a huge population of young kids who were all taking art classes there, making together, and participating in Radio Arte. There was another community center up the block called Casa Aztlan.
+Felipe: Yes, Radio Arte. And it used to be on the corner of Blue Island and 18th, literally a block away. And I was part of both. I think I was part of Radio Arte for a minute, thinking that I wanted to be a radio DJ, but that never happened. [*laughter*] But Yollocalli was such a transformative space for me and so many kids in the neighborhood. I took my first art class there, in photography, an interest that later evolved into many other creative languages. It was thriving; there was a huge population of young kids who were all taking art classes there, making together, and participating in Radio Arte. There was another community center up the block called Casa Aztlan.
 
 Laura: Oh yeah, I remember Casa Aztlan.
 
@@ -107,9 +107,9 @@ Felipe: So many layers to this, which I didn't realize until later!
 
 > It’s surreal to go back to a place that has impacted my life in so many ways and see it again through a very different lens. And to return with you this time, travel down memory lane with the added layer of seeing my own work in that space—and try to comprehend, what is going on? I mean, that whole day was a lot of layers. Going with my parents to a museum for the first time and seeing them walking and interacting with that space.
 >
-> It was quite emotional because I think they just felt uncomfortable. And then I wonder where that's coming from, but I do know where that's coming from, right? A lot of us feel unwelcomed by those spaces, not really knowing how to navigate them. I remember the first time I went to the MCA \[Museum of Contemporary Art\] in Chicago—I must have been eleven. I went by myself and had to figure out, “Wait, how do I get in? Do I pay?” It was intimidating.
+> It was quite emotional because I think they just felt uncomfortable. And then I wonder where that's coming from, but I do know where that's coming from, right? A lot of us feel unwelcomed by those spaces, not really knowing how to navigate them. I remember the first time I went to the MCA [Museum of Contemporary Art] in Chicago—I must have been eleven. I went by myself and had to figure out, “Wait, how do I get in? Do I pay?” It was intimidating.
 
-Laura: For me, it was the Art Institute \[of Chicago\]. As a child, I wanted to go, but I was scared to. I had the same feelings as you, I think in large part because both of our families migrated to Chicago from rural Mexico for economic reasons. Going to museums was not part of what we did. The arts were not supposed to be part of our trajectories. But to start seeking those spaces as kids, I'm going to venture out and say something: Speaking for myself at that age, I knew I was weird. But I didn't know I was queer in terms of sexuality. I was seeking out the kinds of images that more or less fit with this little developing queer in me; I was trying to find spaces.
+Laura: For me, it was the Art Institute [of Chicago]. As a child, I wanted to go, but I was scared to. I had the same feelings as you, I think in large part because both of our families migrated to Chicago from rural Mexico for economic reasons. Going to museums was not part of what we did. The arts were not supposed to be part of our trajectories. But to start seeking those spaces as kids, I'm going to venture out and say something: Speaking for myself at that age, I knew I was weird. But I didn't know I was queer in terms of sexuality. I was seeking out the kinds of images that more or less fit with this little developing queer in me; I was trying to find spaces.
 
 Felipe: That was true for my weird queer self too as a kid. For me it was a sort of doubleness. And by that, I mean dealing with my status—that I had to come out as undocumented, and also as queer. As kids we feel weird and wonder, “Why am I feeling this way?” We don’t know how to name it. But also there's some shame in it as a recovering Catholic.
 
@@ -141,13 +141,13 @@ Laura: Were you aware then that it was a self-portrait?
 
 Felipe: No, definitely not! I learned that later on. As a child, I didn’t know that he was queer; there was just something in the image that attracted me.
 
-Laura: I'm totally geeking out here! \[*laughter*\]
+Laura: I'm totally geeking out here! [*laughter*]
 
 Felipe: Those images still have a very powerful impact on me—especially in their representation of a body and the possibilities of a body; that is important to my work. Also the idea of queerness as fragmentation, as incompleteness. We will never be complete individuals, but the process of this life is to find those pieces and maybe shed other pieces away. I could say that I acquired many pieces of myself growing up in Pilsen.
 
 Laura: I wanted to ask about the title of your Public Art Fund project, *Unruly Forms,* because what you’ve been saying makes me think of those two words together. When we think of the word *form,* we think of something that is perhaps fully formed with strict contours and definition, and yet, when you put *unruly* in front, it becomes unwieldy, right? What are your thoughts around unruly bodies and queerness?
 
-Felipe: Well, the title came in some way from Gayatri Gopinath’s book, *Unruly Visions: The Aesthetic Practices of Queer Diaspora* \[Duke University Press, 2018\]. My language to describe what I’m interested in has changed over the years, even though the terms are very much connected. In the beginning, I embraced the idea of illegality. Then, I began to work through the idea of fugitivity and later modes of suspension, though fugitivity is also a mode of suspension. And then I explored waywardness. And now, I’m investigating the unruly, though they are all very much the same in many ways.
+Felipe: Well, the title came in some way from Gayatri Gopinath’s book, *Unruly Visions: The Aesthetic Practices of Queer Diaspora* [Duke University Press, 2018]. My language to describe what I’m interested in has changed over the years, even though the terms are very much connected. In the beginning, I embraced the idea of illegality. Then, I began to work through the idea of fugitivity and later modes of suspension, though fugitivity is also a mode of suspension. And then I explored waywardness. And now, I’m investigating the unruly, though they are all very much the same in many ways.
 
 Laura: They’re all connected.
 
@@ -171,11 +171,11 @@ Laura: Or perhaps just remain illegible. Not to romanticize that, but I don't re
 
 Felipe: It's true. Definitely—beyond opacity, I think we're refusing to be legible in the way the state, the law, and even society demands. To be legible only to those that you care about. That’s been a learning process for me as I've grown up in this country, where I’m forever foreign. I went back to Mexico for the first time in 2016, when I was thirty, after having left when I was seven. So that was surreal to experience, to go back to a place to which I never thought I was going to return and see family I thought I was never going to see again.
 
-> I bring this up because I also felt extremely foreign there. But I've gone back many times recently, and every time, it’s felt more like home—whatever home is! \[*laughter*\] But it felt comfortable; I didn't have to justify my existence to anybody there. Maybe the process is to reject the idea of belonging and legibility, and refuse to be coherent for others.
+> I bring this up because I also felt extremely foreign there. But I've gone back many times recently, and every time, it’s felt more like home—whatever home is! [*laughter*] But it felt comfortable; I didn't have to justify my existence to anybody there. Maybe the process is to reject the idea of belonging and legibility, and refuse to be coherent for others.
 
 Laura: Yeah, I am all for that! When my family migrated across the border, I was two weeks short of nine and remained undocumented for a few years after that. But my circumstances were different than yours because at that moment, we still had the Family Reunification Act. Because my youngest sister was an anchor baby born in Chicago, my family could get our green cards. So for me, it's about choosing to stay in that limbo, not because I love Mexico or want to be binational, but I embrace that in-between space. It is a privileged limbo space since my green card allows me mobility, but I also give the government the power to track me as I cross borders and move around. Nevertheless I embrace my resident-alien status—I love being a resident alien.
 
-Felipe: I want to become a resident alien! \[*laughter*\]
+Felipe: I want to become a resident alien! [*laughter*]
 
 Laura: When my friends get residency, I always say “Welcome to resident alienation!” I didn't choose that status; my parents embarked on the process for me, and choosing to stay has been important for many reasons. But I’ve consciously chosen not to become a US citizen because the American dream is bankrupt for me—
 
@@ -201,9 +201,9 @@ Laura: That is beautiful though, and equally sad.
 
 Felipe: True, it's beautiful in so many ways, but also sad that she spent a significant part of her life working and worrying about other things. Now she's at the stage where she has some time to attend to herself. And I'm seeing that with my dad, too. Obviously, their bodies are changing. I left Chicago when I was eighteen, and I feel that I’ve missed out on so many things in their lives. Every time I see them, they've gotten older. Ultimately, my only responsibility is to give them the best life possible. Right? Because I don't think the answer for them is returning to Mexico, to a landscape that is very unknown to them now. And selfishly, I don't want them to return; I just want them in close proximity to me. But that's where I'm coming from, my only responsibility is to my parents and otherwise I really have nothing to lose.
 
-Laura: \[*Pauses*\] Wow—
+Laura: [*Pauses*] Wow—
 
-Felipe: That was a lot! \[*laughter*\]
+Felipe: That was a lot! [*laughter*]
 
 Laura: I've been thinking a lot about my own parents in relation to these questions and have much more to say.
 
@@ -229,7 +229,7 @@ Felipe: It’s such a violent extraction. This project attempts to imagine a lib
 
 Laura: Your work is quite literally layered, and also very minute in the details.
 
-Felipe: A lot of the work that I've been doing has addressed an erasure that removes voices from a history of making. I’m deeply interested in archaeology, which is an extremely problematic discipline. One example of this is the Mexican National Anthropology Museum \[Museo Nacional de Antropología\]: a violent, nationalist project that has extracted so many objects from communities that are still thriving across Mexico into a single location.
+Felipe: A lot of the work that I've been doing has addressed an erasure that removes voices from a history of making. I’m deeply interested in archaeology, which is an extremely problematic discipline. One example of this is the Mexican National Anthropology Museum [Museo Nacional de Antropología]: a violent, nationalist project that has extracted so many objects from communities that are still thriving across Mexico into a single location.
 
 Laura: For those communities, the “artifact” is not an artifact but a living object with a spiritual function in the community. It’s not meant to be in a museum, part of a national project.
 
@@ -249,9 +249,9 @@ Felipe: Well, I want to return to what you said about the work’s format and sc
 
 > And that was also my feeling when I first opened the proofs—like your niece, I was like, “These are so scary!,” but also beautiful in how they take up space and have agency, as if it to reclaim space: I'm here, and you're forced to deal with me. And I think that's also why it was hard to encounter them at first, hard to know how to respond to them. I wondered if they were taking up too much space. . . .
 
-Laura: Because you're a quiet person who likes to hide in the corner! \[*laughter*\]
+Laura: Because you're a quiet person who likes to hide in the corner! [*laughter*]
 
-Felipe: I mean, that’s true! Because I thought, “Oh my God, they're out there. And they're living and they're taking up space in a very different way than they have in the studio!” In the studio they're just so intimate; only one person is able to view them at a time. But on the subject of scale, this project situated in the spaces of public transit felt important for me to do because that's also how I experienced Chicago and how I continue to move around. I don't drive; I never had a desire to learn how to drive. So public transportation has always been my mode of getting around, of learning my landscape and discovering new ones. There’s a cycle of mobility and waiting built into that experience, of riding one bus and then waiting for the next one, pausing and then resuming movement again. It’s a mode of bodily suspension. Hopefully I'm not scaring a lot of individuals while they are waiting for the bus! \[*laughter*\]
+Felipe: I mean, that’s true! Because I thought, “Oh my God, they're out there. And they're living and they're taking up space in a very different way than they have in the studio!” In the studio they're just so intimate; only one person is able to view them at a time. But on the subject of scale, this project situated in the spaces of public transit felt important for me to do because that's also how I experienced Chicago and how I continue to move around. I don't drive; I never had a desire to learn how to drive. So public transportation has always been my mode of getting around, of learning my landscape and discovering new ones. There’s a cycle of mobility and waiting built into that experience, of riding one bus and then waiting for the next one, pausing and then resuming movement again. It’s a mode of bodily suspension. Hopefully I'm not scaring a lot of individuals while they are waiting for the bus! [*laughter*]
 
 Laura: I loved observing passengers inhabiting the bus shelter and moving through space—not just because I’m interested in the body’s movement as performance studies but also because I have a deep love and appreciation for you and your work. As I stood there, I observed people sitting on benches, standing, and leaning against the shelters, and engaging with your images in various ways until the bus arrived and they started piling onto it. It felt deeply ritualistic, almost like I was attending church. Through this project, you’re not just enacting new myths but also new rituals.
 
@@ -263,7 +263,7 @@ Felipe: Wow, thank you for that! I would say that what I'm trying to do not just
 
 > I don't work in a traditional manner; it’s a layered process that I don't fully comprehend and can't control. When I walk into the studio, I’m not in a comfortable state because it’s always a space of failure. But I enjoy that failure because it allows for so many surprises to happen. The studio practice is fairly new to me. Every day, I confront that fear of not having or knowing what freedom is. For a long time, I couldn’t name it. And I was like wait, this is what I'm able to do now. This is my space. I don't have to respond to anybody. I can just come to the studio and lose track of anything and fully absorb myself in the making. And yeah, and I'm still trying to figure that out for myself. And I think sometimes there's also that guilt, feeling like it's such a selfish practice.
 
-Laura: Recovering Catholics! \[*laughter*\]
+Laura: Recovering Catholics! [*laughter*]
 
 Felipe: Guilt is still very much embedded in there! Guilt that I get to do this, and trying to sit comfortably with that. So yeah, there's a lot of figuring out happening.
 
@@ -271,7 +271,7 @@ Laura: OK, maybe this is a good moment to pause.
 
 Felipe: Thank you so much for that.
 
-[\[**Design: place unnumbered fig. here, above bios**.\]]
+[[**Design: place unnumbered fig. here, above bios**.]]
 
 Captions
 
@@ -287,7 +287,7 @@ Captions
 
 **Fig. 6. — Graciela Iturbide (Mexican, b. 1942).** *Magnolia, Juchitán, Oaxaca,* 1986 (negative); 2005 (print). Gelatin silver print, 44.5 × 31.5 cm. Los Angeles, J. Paul Getty Museum, 2007.65.25. Gift of Susan Steinhauser and Daniel Greenberg. © Graciela Iturbide.
 
-**Figs. 7a–c. — Nahum B. Zenil (Mexican, b. 1947).** ¡*Oh, santa bandera! (A Enrique Guzmán)* (Oh, Holy Flag! \[For Enrique Guzmán\]), 1996, ink, acrylic, and oil on paper, triptych: [\[**dimensions TK**]\]. Mexico City, Museo Universitario Arte Contemporáneo, acquisition with funds from the Presupuesto de Egresos de la Federación, 2013.
+**Figs. 7a–c. — Nahum B. Zenil (Mexican, b. 1947).** ¡*Oh, santa bandera! (A Enrique Guzmán)* (Oh, Holy Flag! [For Enrique Guzmán]), 1996, ink, acrylic, and oil on paper, triptych: [[**dimensions TK**]]. Mexico City, Museo Universitario Arte Contemporáneo, acquisition with funds from the Presupuesto de Egresos de la Federación, 2013.
 
 **Fig. 8. — Nahum B. Zenil (Mexican, b. 1947).** *Original-language title TK* (Self-Portrait with Thorns), 1992, oil on wood, 70 × 50 cm. Private collection.
 
@@ -303,6 +303,6 @@ Captions
 
 **Fig. 14. — Felipe Baeza (Mexican, b. 1987, active in the US).** *Confined but still intoxicated with freedom*, 2022, ink, graphite, varnish, and cut paper on panel, 35.6 × 27.9 cm (14 × 11 in.). © Felipe Baeza. Courtesy Maureen Paley, London; kurimanzutto, Mexico City / New York. Photograph courtesy the Getty Research Institute, Los Angeles.
 
-**\[Unnumbered fig. caption:\]**
+**[Unnumbered fig. caption:]**
 
 **Felipe Baeza and Laura G. Gutiérrez at a bus shelter located at the intersection of S. Damen Avenue and W. 18th Street in the Pilsen neighborhood of Chicago featuring Baeza’s *to shape, shape self* (2023), part of the installation *Unruly Forms*.** Photo by Laura G. Gutiérrez.

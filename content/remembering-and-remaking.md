@@ -84,7 +84,7 @@ The most ambitious texts went far beyond documenting works produced between 1800
 
 Beginning in the Roman Empire and the Middle Ages, the text describes the historical uses of fine metalwork, its techniques, and its patrons. It moves quickly to the eighteenth century—by page forty of the first volume. Volumes two and three comprise the period of 1800–1900, with the Second Empire straddling these accounts. The story of the Christofle firm is integrated into this history, and images of its output dominate the illustrations of the final two volumes. Some of the text is identical to sections published elsewhere under Champier’s name and drafts in his archive. These include the critical selections on Christofle that Champier, rather than Bouilhet, penned.[^45] Bouilhet’s history of French *orfèvrerie* exploited images and the possibilities of photomechanical reproduction. The three volumes present a lavishly illustrated history, incorporating line drawings, wood engravings, and photographs. Along with an extensive description of the commission for the Tuileries and Hôtel de Ville centerpieces, the catalog includes images of these works in numerous successive full-page photographs (**[fig. 12]**). The images of the Hôtel de Ville centerpiece are identical to those that appear in the albums. The project of writing a history of design in images and objects therefore preoccupied the leaders of the Christofle firm who repossessed, remade, and ordered the historical accounts of their objects.
 
-\- - -
+- - -
 
 Bouilhet’s efforts to write the history of his own métier dovetailed with efforts to preserve French prestige in the final years of the nineteenth century. From the vantage point of 1900, with its resplendent art nouveau exhibits, the historical trajectory of French metalwork seemed destined for an optimistic future. Yet, even while reassuring readers and exhibition viewers of continuity, the visceral upset of the devastation of the 1870–71 era is unmistakable in the account of fine metalwork production from the third volume of *L’orfèvrerie française*:
 
@@ -98,13 +98,13 @@ As artifactual witnesses, the two centerpieces and their material journey can be
 
 Captions
 
-**Fig. 1. — Foldout six-part photographic panorama and hand-colored plan from *Surtout de table de la Ville de Paris, éxecuté par Mrs. Christofle et Cie d’après les dessins de Mr. Vor Baltard, member de l’Institut, et détruit dans l’incendie de l’Hôtel de Ville en mai 1871,* ca. 1872, albumen \[[and TK]\] prints and watercolor.** Los Angeles, Getty Research Institute, 2023.R.7.
+**Fig. 1. — Foldout six-part photographic panorama and hand-colored plan from *Surtout de table de la Ville de Paris, éxecuté par Mrs. Christofle et Cie d’après les dessins de Mr. Vor Baltard, member de l’Institut, et détruit dans l’incendie de l’Hôtel de Ville en mai 1871,* ca. 1872, albumen [[and TK]] prints and watercolor.** Los Angeles, Getty Research Institute, 2023.R.7.
 
 **Fig. 2. — Charles Marville (French, 1816–79).** *Interior of the Hotel de Ville, l’escalier à double révolution de la cour Louis XIV* (axial stair of the Louis XIV courtyard), ca. 1865, albumen print from wet collodion negative, 27 × 36.5 cm. Williamstown, Massachusetts, Clark Art Institute, lent by the Troob Family Foundation, TR TR2012.36.1.
 
-**Fig. 3. — Charles Gumery (French, 1827–71), sculptor.** *La Ville de Paris* (The city of Paris), **\[[type of photograph print TK\]]**[,] from *Surtout de table de la Ville de Paris, éxecuté par Mrs. Christofle et Cie d’après les dessins de Mr. Vor Baltard, member de l’Institut, et détruit dans l’incendie de l’Hôtel de Ville en mai 1871,* ca. 1872. Los Angeles, Getty Research Institute, 2023.R.7.
+**Fig. 3. — Charles Gumery (French, 1827–71), sculptor.** *La Ville de Paris* (The city of Paris), **[[type of photograph print TK]]**[,] from *Surtout de table de la Ville de Paris, éxecuté par Mrs. Christofle et Cie d’après les dessins de Mr. Vor Baltard, member de l’Institut, et détruit dans l’incendie de l’Hôtel de Ville en mai 1871,* ca. 1872. Los Angeles, Getty Research Institute, 2023.R.7.
 
-**Fig. 4. — Jacques Maillet (French, 1823–94), sculptor.** *La Seine (face antérieure)* (Seine River \[front side\]), from *Surtout de table de la Ville de Paris, éxecuté par Mrs. Christofle et Cie d’après les dessins de Mr. Vor Baltard, member de l’Institut, et détruit dans l’incendie de l’Hôtel de Ville en mai 1871*, ca. 1872. Los Angeles, Getty Research Institute, 2023.R.7.
+**Fig. 4. — Jacques Maillet (French, 1823–94), sculptor.** *La Seine (face antérieure)* (Seine River [front side]), from *Surtout de table de la Ville de Paris, éxecuté par Mrs. Christofle et Cie d’après les dessins de Mr. Vor Baltard, member de l’Institut, et détruit dans l’incendie de l’Hôtel de Ville en mai 1871*, ca. 1872. Los Angeles, Getty Research Institute, 2023.R.7.
 
 **Fig. 5. — Mathurin Moreau (French, 1822–1912), sculptor.** *Triton à la conque* (Triton with a conch), from *Surtout de table de la Ville de Paris, éxecuté par Mrs. Christofle et Cie d’après les dessins de Mr. Vor Baltard, member de l’Institut, et détruit dans l’incendie de l’Hôtel de Ville en mai 1871,* ca. 1872. Los Angeles, Getty Research Institute, 2023.R.7.
 
@@ -190,7 +190,7 @@ Captions
 
 [^32]: Debora L. Silverman, *Art Nouveau in Fin-de-Siècle France: Politics, Psychology and Style* (Berkeley, CA: University of California Press, 1989), 109–33.
 
-[^33]: Stéphane Dervillé quoted in Henri Bouilhet, *Musée Centennal de la classe 94. L’orfèvrerie française à l’Exposition Universelle Internationale de 1900, à Paris* \[. . .\] *Rapport du Comité d’Installation, M. Henri Bouilhet, rapporteur* (Saint-Cloud: Belin, 1908), 2.
+[^33]: Stéphane Dervillé quoted in Henri Bouilhet, *Musée Centennal de la classe 94. L’orfèvrerie française à l’Exposition Universelle Internationale de 1900, à Paris* [. . .] *Rapport du Comité d’Installation, M. Henri Bouilhet, rapporteur* (Saint-Cloud: Belin, 1908), 2.
 
 [^34]: François Carnot, engineer and cultural administrator, was the son of Sadi Carnot, who was president of the Republic between 1887 and 1894, when he was assassinated.
 
@@ -210,7 +210,7 @@ Captions
 
 [^42]: The final volume, which covered the years 1860 to 1900, was produced and corrected by Bouilhet but was published in 1912, after his death in 1910.
 
-[^43]: Henry Havard, *L’orfèvrerie* (Paris: Delagrave, 1891); Henry Havard, *Histoire de l’orfèvrerie française* (Paris: Quantin, 1896); Paul Mantz’s series “Recherches sur l’histoire de l’Orfèvrerie française,” that was published between 1861 and 1863 in the *Gazette des beaux-arts*; René Ménard, *Histoire artistique du métal* (Paris: Rouam, 1881); and Ferdinand de Lasteyrie, *Histoire de l’orfèvrerie* \[. . .\]. (Paris: Hachette, 1875).
+[^43]: Henry Havard, *L’orfèvrerie* (Paris: Delagrave, 1891); Henry Havard, *Histoire de l’orfèvrerie française* (Paris: Quantin, 1896); Paul Mantz’s series “Recherches sur l’histoire de l’Orfèvrerie française,” that was published between 1861 and 1863 in the *Gazette des beaux-arts*; René Ménard, *Histoire artistique du métal* (Paris: Rouam, 1881); and Ferdinand de Lasteyrie, *Histoire de l’orfèvrerie* [. . .]. (Paris: Hachette, 1875).
 
 [^44]: Victor Champier papers, Los Angeles, GRI, 940020, boxes 3 (manuscripts and notes on “Orfèvrerie”) and 6 (correspondence with Henri and André Bouilhet); see finding aid: http://hdl.handle.net/10020/cifa940020.
 
