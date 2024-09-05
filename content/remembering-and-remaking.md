@@ -14,9 +14,9 @@ keywords: "Christofle; memory; metalwork; Paris Commune"
 doi: ""
 ---
 
-When we concentrate on a material object, whatever its situation, the very act of attention may lead to our involuntarily sinking into the history of that object.
-
-—Vladimir Nabokov, *Transparent Things,* 1972
+> When we concentrate on a material object, whatever its situation, the very act of attention may lead to our involuntarily sinking into the history of that object.
+> 
+> —Vladimir Nabokov, *Transparent Things,* 1972
 
 Late in the second half of the nineteenth century, the Parisian fine metalworking firm Christofle et Cie embarked on a project to remake some of its lost Second Empire objects. This effort to reconstitute artifacts of the recent past joined the firm’s ongoing interest in making goods for a market of new consumers to ensure the commercial and historical legacy of the firm. Although founded in the 1830s by jeweler Charles Christofle, the company flourished in the middle years of the nineteenth century, especially because of its considerable favor under Emperor Napoléon III and his government. The authoritarian and imperialist politics of the Second Empire (1852–70), however, was an anathema in the Third Republic, which was established after the end of the Franco-Prussian War and the Paris Commune. By the end of the nineteenth century, the art of the Second Empire was also aesthetically retardataire. When an installation of Second Empire furniture was exhibited in 1900, one critic challenged mocking spectators: “It is easy to laugh; nothing appears more ridiculous than the styles of our fathers, nothing as old as that which dates back thirty years.”[^1] Why, then, did Christofle lavish attention on the symbols of power of an autocrat who was unseated in a humiliating defeat? I argue that the reconstruction of two of the firm’s most significant Second Empire commissions was both a process of mourning and a mode of historical thinking embedded in larger project of writing a history of design in France. Examining the ways in which the firm remade and remembered its own products reveals the extent to which it understood the agency of the objects to tell their own material histories. I suggest that these works actively negotiated the social memory of the violent end of the Second Empire, forming—in the context of the Third Republic—a collective memory that turned objects into witnesses and secured a place for the firm in the history of design.[^2]
 
@@ -84,7 +84,7 @@ The most ambitious texts went far beyond documenting works produced between 1800
 
 Beginning in the Roman Empire and the Middle Ages, the text describes the historical uses of fine metalwork, its techniques, and its patrons. It moves quickly to the eighteenth century—by page forty of the first volume. Volumes two and three comprise the period of 1800–1900, with the Second Empire straddling these accounts. The story of the Christofle firm is integrated into this history, and images of its output dominate the illustrations of the final two volumes. Some of the text is identical to sections published elsewhere under Champier’s name and drafts in his archive. These include the critical selections on Christofle that Champier, rather than Bouilhet, penned.[^45] Bouilhet’s history of French *orfèvrerie* exploited images and the possibilities of photomechanical reproduction. The three volumes present a lavishly illustrated history, incorporating line drawings, wood engravings, and photographs. Along with an extensive description of the commission for the Tuileries and Hôtel de Ville centerpieces, the catalog includes images of these works in numerous successive full-page photographs (**[fig. 12]**). The images of the Hôtel de Ville centerpiece are identical to those that appear in the albums. The project of writing a history of design in images and objects therefore preoccupied the leaders of the Christofle firm who repossessed, remade, and ordered the historical accounts of their objects.
 
-- - -
+---
 
 Bouilhet’s efforts to write the history of his own métier dovetailed with efforts to preserve French prestige in the final years of the nineteenth century. From the vantage point of 1900, with its resplendent art nouveau exhibits, the historical trajectory of French metalwork seemed destined for an optimistic future. Yet, even while reassuring readers and exhibition viewers of continuity, the visceral upset of the devastation of the 1870–71 era is unmistakable in the account of fine metalwork production from the third volume of *L’orfèvrerie française*:
 
@@ -122,11 +122,15 @@ Captions
 
 **Fig. 12. — “Ensemble du surtout de l’Hôtel de Ville de Paris (Orfèvrerie de Christofle),” from Henri Bouilhet, *L’orfèvrerie française aux XVIIIe et XIXe siècles,* vol. 3, *L’orfèvrerie française aux XIXe siècle: Deuxième période (1860–1900)* (Paris: H. Laurens, 1912), 43.** Los Angeles, Getty Research Institute, NK7149.B76.
 
-[^1]: Notes
+{% for person in contributor %}
+{{ person.bio | markdownify }} {.grj-contributor-bio}
+{% endfor %}
 
-    I began thinking about the material afterlife of the Second Empire as a scholar at the Getty Research Institute (GRI) in fall 2015 and thank the GRI Scholars Program for that opportunity. Note on the translation: All translations from the French are mine.
+## Notes {.notes-heading}
 
-    *Musée Centennal des Classes 66, 69, 70, 71, 97: Mobilier et Decoration à l’Exposition Universelle Internationale de 1900 à Paris; Rapport de la Commission de l’Installation* (Saint-Cloud: Belin, ca. 1900), 51, https://archive.org/details/gri_33125009323458/mode/2up.
+I began thinking about the material afterlife of the Second Empire as a scholar at the Getty Research Institute (GRI) in fall 2015 and thank the GRI Scholars Program for that opportunity. Note on the translation: All translations from the French are mine. {.backmatter}
+
+[^1]: *Musée Centennal des Classes 66, 69, 70, 71, 97: Mobilier et Decoration à l’Exposition Universelle Internationale de 1900 à Paris; Rapport de la Commission de l’Installation* (Saint-Cloud: Belin, ca. 1900), 51, https://archive.org/details/gri_33125009323458/mode/2up.
 
 [^2]: Maurice Halbwachs, “The Reconstruction of the Past,” *On Collective Memory*, ed. and trans. Lewis A. Coser (Chicago: University of Chicago Press, 1992), 46–51; and Éric Brian, “A Theorist of Collective Memory,” in *The Anthem Companion to Maurice Halbwachs*, ed. Robert Leroux and Jean-Christophe Marcel (London: Anthem, 2021), 5–16.
 

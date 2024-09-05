@@ -136,11 +136,15 @@ Figure Captions
 
 **Fig. 17. — Photocopies in the author’s possession from collectors’ provenance dossier (current location of original dossier unknown) supporting the misattribution of Bennett Buck’s *Good Neighbor Policy* to José Clemente Orozco.**
 
-[^1]: Notes
+{% for person in contributor %}
+{{ person.bio | markdownify }} {.grj-contributor-bio}
+{% endfor %}
 
-    I wrote the first draft of this essay in Mexico City in July 2020 in the depths of the COVID-19 pandemic. I thank Jeffrey Collins and Bonnie Gossels for their generous and careful comments on earlier drafts, the two anonymous readers for the *Getty Research Journal* for pushing me to refine my arguments, and Lauren Gendler at the Getty Research Institute for her sharp copyediting and fact-checking.
+## Notes {.notes-heading}
 
-    James Oles, with an essay by Karen Cordero Reiman, *South of the Border: Mexico in the American Imagination, 1914*–*1947*, exh. cat. (Washington, DC: Smithsonian Institution Press, 1993). Some of these ideas were revisited and expanded in *Vida Americana: Mexican Muralists Remake American Art, 1925–1945*, ed. Barbara Haskell, exh. cat. (New York: Whitney Museum of American Art, 2020). See also James Oles, review of “Vida Americana,” *Panorama: Journal of the Association of Historians of American Art* 6, no. 2 (Fall 2020), https://doi.org/10.24926/24716839.10732.
+I wrote the first draft of this essay in Mexico City in July 2020 in the depths of the COVID-19 pandemic. I thank Jeffrey Collins and Bonnie Gossels for their generous and careful comments on earlier drafts, the two anonymous readers for the *Getty Research Journal* for pushing me to refine my arguments, and Lauren Gendler at the Getty Research Institute for her sharp copyediting and fact-checking. {.backmatter}
+
+[^1]: James Oles, with an essay by Karen Cordero Reiman, *South of the Border: Mexico in the American Imagination, 1914*–*1947*, exh. cat. (Washington, DC: Smithsonian Institution Press, 1993). Some of these ideas were revisited and expanded in *Vida Americana: Mexican Muralists Remake American Art, 1925–1945*, ed. Barbara Haskell, exh. cat. (New York: Whitney Museum of American Art, 2020). See also James Oles, review of “Vida Americana,” *Panorama: Journal of the Association of Historians of American Art* 6, no. 2 (Fall 2020), https://doi.org/10.24926/24716839.10732.
 
 [^2]: There are actually two versions of this painting in Mexico’s national collections: a smaller one in the Museo de Arte Moderno (dated 1930 by the museum but is certainly later) and a larger one dated 1944 by the Museo de Arte Carrillo Gil. Both revisit the central figure in Orozco’s mural at Pomona College (*Prometheus,* 1930, Frary Hall), but reduce multitudes to just two flanking figures. For images, see *La colección permanente: Museo de Arte Moderno de México* (Mexico City: Consejo Nacional para la Cultura y las Artes, 2006), 54; and Justino Fernández, *Obras de José Clemente Orozco en la colección Carrillo Gil, México* (Mexico City: n.p., 1949), 39, pl. 59.
 

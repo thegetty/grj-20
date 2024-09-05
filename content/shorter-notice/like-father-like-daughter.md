@@ -78,11 +78,15 @@ Figure captions
 
 **Fig. 12.— Rosa Bonheur (French, 1822–99).** Pencil drawings of a cradle scythe from sketchbook shared by Rosa Bonheur and Raymond Bonheur (1796–1849), ca. 1835–55, 37v and 38r. Los Angeles, Getty Research Institute, 850837.
 
-[^1]: Notes
+{% for person in contributor %}
+{{ person.bio | markdownify }} {.grj-contributor-bio}
+{% endfor %}
 
-    I thank Naina Saligram for her insightful reading and intellectual generosity. Unless otherwise noted, translations are mine. When the sketchbook was first digitized, there were two minor errors in the pagination. Leaf 26r jumps to leaf 27v, eliding leaves 26v and 27r; leaves 41v and 42r repeat leaves 40v and 41r. The pages referenced above and reproduced as illustrations from the Bonheur sketchbook reflect its corrected pagination.
+## Notes {.notes-heading}
 
-    The sale at Galerie Georges Petit began Wednesday, 30 May 1900, and ended Friday, 8 June 1900. See Léon Roger-Milès, *Atelier Rosa Bonheur* 2 vols. (Paris: Georges Petit, 1900). For contemporary press coverage of the sale, see La Rivaudière, “Notes d’un curieux: Les aquarelles et les dessins de Rosa Bonheur,” *Le Gaulois,* 3 June 1900, 3; and “Vente de l’atelier Rosa Bonheur,” *Le Radical,* 3 June 1900, 2.
+I thank Naina Saligram for her insightful reading and intellectual generosity. Unless otherwise noted, translations are mine. When the sketchbook was first digitized, there were two minor errors in the pagination. Leaf 26r jumps to leaf 27v, eliding leaves 26v and 27r; leaves 41v and 42r repeat leaves 40v and 41r. The pages referenced above and reproduced as illustrations from the Bonheur sketchbook reflect its corrected pagination. {.backmatter}
+
+[^1]: The sale at Galerie Georges Petit began Wednesday, 30 May 1900, and ended Friday, 8 June 1900. See Léon Roger-Milès, *Atelier Rosa Bonheur* 2 vols. (Paris: Georges Petit, 1900). For contemporary press coverage of the sale, see La Rivaudière, “Notes d’un curieux: Les aquarelles et les dessins de Rosa Bonheur,” *Le Gaulois,* 3 June 1900, 3; and “Vente de l’atelier Rosa Bonheur,” *Le Radical,* 3 June 1900, 2.
 
 [^2]: Bonheur’s estate planning was the primary subject of one of her biography’s final chapters. Bonheur told the sole inheritor of her estate, Anna Klumpke, not to organize a public sale; she advised selling a study if money was scarce. Anna Klumpke, *Rosa Bonheur: Sa vie, son oeuvre* (Paris: Flammarion, 1908), 394.
 

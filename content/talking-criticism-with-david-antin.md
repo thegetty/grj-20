@@ -152,13 +152,17 @@ Captions
 
 **Fig. 8. — Gregg Bordowitz delivering improvised talk piece at Bridget Donahue Gallery, New York, 2019.** Photo by Oto Gillen. Courtesy the artist.
 
-[^1]: Notes
+{% for person in contributor %}
+{{ person.bio | markdownify }} {.grj-contributor-bio}
+{% endfor %}
 
-    I talked to many wonderful people while working on this essay, including Charles Bernstein, Ann Lauterbach, and Robert Slifkin.
+## Notes {.notes-heading}
 
-    Epigraph: letter dated 27 May 1976, sent from David Antin to Leo Steinberg for a panel held on “The Goals of Criticism” at the College Art Association annual conference in Los Angeles in February 1977. David Antin papers, 1956–2006, Los Angeles, Getty Research Institute (GRI), 2008.M.56, box 27, folder 10. Italics for emphasis mine.
+I talked to many wonderful people while working on this essay, including Charles Bernstein, Ann Lauterbach, and Robert Slifkin. {.backmatter}
 
-    David Antin, “A Few Words,” *Selected Poems: 1963–1973* (Los Angeles: Sun & Moon, 1991), 13–14. Antin’s early books include *Definitions* (Caterpillar, 1967), *Code of Flag Behavior* (Black Sparrow Press, 1968), and *Meditations* (Black Sparrow Press, 1971).
+Epigraph: letter dated 27 May 1976, sent from David Antin to Leo Steinberg for a panel held on “The Goals of Criticism” at the College Art Association annual conference in Los Angeles in February 1977. David Antin papers, 1956–2006, Los Angeles, Getty Research Institute (GRI), 2008.M.56, box 27, folder 10. Italics for emphasis mine. {.backmatter}
+
+[^1]: David Antin, “A Few Words,” *Selected Poems: 1963–1973* (Los Angeles: Sun & Moon, 1991), 13–14. Antin’s early books include *Definitions* (Caterpillar, 1967), *Code of Flag Behavior* (Black Sparrow Press, 1968), and *Meditations* (Black Sparrow Press, 1971).
 
 [^2]: David Antin, “Grey Paint: Robert Morris,” *Art News* (April 1966): 22.
 

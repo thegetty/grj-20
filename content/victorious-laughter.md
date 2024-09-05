@@ -126,11 +126,15 @@ Figure captions
 
 **Fig. 10. — Aleksandr Zhitomirsky (Russian, 1907–93).** “There are lucky devils and unlucky ones,” cover of *Front-Illustrierte*, no. 10, April 1943. Prague, Ne Boltai! Collection. Art © Vladimir Zhitomirsky
 
-[^1]: Notes
+{% for person in contributor %}
+{{ person.bio | markdownify }} {.grj-contributor-bio}
+{% endfor %}
 
-    This paper benefited enormously from an exchange with Jindřich Toman at a panel for the Association for Slavic, East European, and Eurasian Studies (ASEEES) Annual Convention in 2017, where I delivered a very early draft. Since then, many conversations with Maggie Innes have deepened my understanding of the issues addressed here. Unless otherwise noted, all translations of quoted material from the Russian are mine and use the Library of Congress system to romanize Cyrillic letters. In the case of proper names, I have followed the simplified transliterations introduced by previous authors, eliminating soft signs and substituting “y” for “i” when it occurs in the terminal position.
+## Notes {.notes-heading}
 
-    “Sezon teatra Krasnoi presni,” *Vecherniaia Moskva*, 22 August 1934, 3. For a brief overview of Koretsky’s career, see Erika Wolf, *Koretsky: The Soviet Photo Poster: 1930–1984* (New York: The New Press, 2012). Knoblok began a long and successful career in the theater after the breakup of Brigade KGK, while Gitsevich continued to design posters under her own name into the late 1940s.
+This paper benefited enormously from an exchange with Jindřich Toman at a panel for the Association for Slavic, East European, and Eurasian Studies (ASEEES) Annual Convention in 2017, where I delivered a very early draft. Since then, many conversations with Maggie Innes have deepened my understanding of the issues addressed here. Unless otherwise noted, all translations of quoted material from the Russian are mine and use the Library of Congress system to romanize Cyrillic letters. In the case of proper names, I have followed the simplified transliterations introduced by previous authors, eliminating soft signs and substituting “y” for “i” when it occurs in the terminal position. {.backmatter}
+
+[^1]: “Sezon teatra Krasnoi presni,” *Vecherniaia Moskva*, 22 August 1934, 3. For a brief overview of Koretsky’s career, see Erika Wolf, *Koretsky: The Soviet Photo Poster: 1930–1984* (New York: The New Press, 2012). Knoblok began a long and successful career in the theater after the breakup of Brigade KGK, while Gitsevich continued to design posters under her own name into the late 1940s.
 
 [^2]: Mikhail Karasik, *The Soviet Photobook, 1920–1941*, ed. Manfred Heiting (Göttingen: Steidl, 2015), 30–31, 552–53.
 

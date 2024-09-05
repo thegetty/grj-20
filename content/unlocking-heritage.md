@@ -122,9 +122,13 @@ Figure Captions
 
 **Fig. 10. — Ted Shelton (US American, b. 1969) and Tricia Stuth (US American, b. 1973).** View of *Point—Counterpoint* (2005) from cell five, looking out to cellblock ten. Courtesy of Ted Shelton and Tricia Stuth. Photograph © Frank Laquinta / Halkin Photography.
 
-[^1]: Notes
+{% for person in contributor %}
+{{ person.bio | markdownify }} {.grj-contributor-bio}
+{% endfor %}
 
-    Eastern State Penitentiary Historic Site mission statement, https://www.easternstate.org/about-eastern-state.
+## Notes {.notes-heading}
+
+[^1]: Eastern State Penitentiary Historic Site mission statement, https://www.easternstate.org/about-eastern-state.
 
 [^2]: Eastern State mission statement.
 

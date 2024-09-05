@@ -306,3 +306,7 @@ Captions
 **[Unnumbered fig. caption:]**
 
 **Felipe Baeza and Laura G. Gutiérrez at a bus shelter located at the intersection of S. Damen Avenue and W. 18th Street in the Pilsen neighborhood of Chicago featuring Baeza’s *to shape, shape self* (2023), part of the installation *Unruly Forms*.** Photo by Laura G. Gutiérrez.
+
+{% for person in contributor %}
+{{ person.bio | markdownify }} {.grj-contributor-bio}
+{% endfor %}
