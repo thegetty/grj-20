@@ -17,21 +17,13 @@
       {% if abstract %}
       {% accordion 'Abstract' %}
 
-      {% if straight_quotes %}
-      {{ abstract }}
-      {% else %}
       {{ abstract | markdownify }} 
-      {% endif %}
 
       {% if keywords %}
 
       Keywords {.page-tools__heading}
-      
-      {% if straight_quotes %}
-      {{ keywords }}
-      {% else %}
+
       {{ keywords | markdownify }}
-      {% endif %}
 
       {% endif %}
 
