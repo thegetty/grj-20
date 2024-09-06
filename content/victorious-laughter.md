@@ -104,28 +104,6 @@ When *From the 16th to the 17th Congress* appeared, however, their position was 
 
 To a certain degree, art history has been the willing inheritor of the conservative Soviet impulse to canonize Heartfield as the paterfamilias of political photomontage. But in many respects, a focus on comic genres rather than on than individual style grants a more accurate view of the photomontage tradition. In his late writings, Lunacharsky affirmed that “laughter is a tool—and a very serious tool—for the social self-discipline of a class, or for [the exertion of] pressure from one class onto other classes.”[^62] For him, satire was especially complex because it testified as much to the insignificance of its target (always something laughable, after all) as to the serious threat that the target represents. Reflecting on the example of the European bourgeoisie, Lunacharsky concluded that laughter is supremely important in the infancy of a class, when both self-discipline and merciless mockery of the class enemy are paramount. When Brigade KGK created *From the 16th to the 17th Congress*, the final victory of the working class appeared imminent, but only in the territories of the USSR, where the Bolsheviks’ enemies were increasingly spectral and ideological. The effect of the pure photographic distortion—at once captivatingly elusive and utterly dehumanizing, as Lunacharsky pointed out[^63]—suited the political needs of the moment. In subsequent years, when internal threats had been eliminated, the techniques devised to represent them were refashioned for use in the international sphere, where the battle lines were still very clearly drawn.
 
-Figure captions
-
-**Fig. 1. — Brigade KGK (Viktor Koretsky [1909–98], Vera Gitsevich [1897–1976], and Boris Knoblok [1903–84]).** “We had to overcome among the people in charge of trade the unhealthy habit of distributing goods mechanically; we had to put a stop to their indifference to the demand for a greater range of goods and to the requirements of the consumers.” *From the 16th to the 17th Congress of the All-Union Communist Party (Bolsheviks)*, 1934, no. 57, gelatin silver print, 22.7 × 17 cm. Los Angeles, Getty Research Institute, 2014.R.25.
-
-**Fig. 2. — Brigade KGK (Viktor Koretsky [1909–1998], Vera Gitsevich [1897–1976], and Boris Knoblok [1903–1984]).** “There is still among a section of Communists a supercilious, disdainful attitude toward trade in general, and toward Soviet trade in particular. These Communists, so-called, look upon Soviet trade as a matter of secondary importance, not worth bothering about.” *From the 16th to the 17th Congress of the All-Union Communist Party (Bolsheviks)*, 1934, no. 56, gelatin silver print, 22.7 × 17 cm. Los Angeles, Getty Research Institute, 2014.R.25.
-
-**Fig. 3. — Aleksandr Rodchenko (Russian, 1890–1956).** Draft illustration for Vladimir Mayakovsky’s poem “Pro eto,” accompanied by the lines “And the century stands / Unwhipped / the mare of *byt* won't budge,” 1923, cut-and-pasted printed papers and gelatin-silver photographs, 42.5 × 32.5 cm. Moscow, State Mayakovsky Museum. Art © 2024 Estate of Alexander Rodchenko / UPRAVIS, Moscow / ARS, NY. Photo: Art Resource.
-
-**Fig. 4. — Boris Klinch (Russian, 1892–1946)***. “Krovovaia sobaka,” Noske* (“The bloody dog,” Noske), photomontage, 1932. From *Proletarskoe foto,* no. 11 (1932): 29. Los Angeles, Getty Research Institute, 85-S956.
-
-**Fig. 5. — Brigade KGK (Viktor Koretsky [1909–98], Vera Gitsevich [1897–1976], and Boris Knoblok [1903–84]).** “We have smashed the enemies of the Party, the opportunists of all shades, the nationalist deviators of all kinds. But remnants of their ideology still live in the minds of individual members of the Party, and not infrequently they find expression.” *From the 16th to the 17th Congress of the All-Union Communist Party (Bolsheviks)*, 1934, no. 62, gelatin silver print, 22.7 × 17 cm. Los Angeles, Getty Research Institute, 2014.R.25.
-
-**Fig. 6. — Brigade KGK (Viktor Koretsky [1909–98], Vera Gitsevich [1897–1976], and Boris Knoblok [1903–84]).** “There are two other types of executive who retard our work, hinder our work, and hold up our advance. . . . People who have become bigwigs, who consider that Party decisions and Soviet laws are not written for them, but for fools. . . . And . . . honest windbags (*laughter*), people who are honest and loyal to Soviet power, but who are incapable of leadership, incapable of organizing anything.” *From the 16th to the 17th Congress of the All-Union Communist Party (Bolsheviks)*, 1934, no. 70, gelatin silver print, 22.7 × 17 cm. Los Angeles, Getty Research Institute, 2014.R.25.
-
-**Fig. 7. — Artist unknown.** “The Social Democrat Grzesinski,” from *Proletarskoe foto,* no. 3 (1932): 7. Los Angeles, Getty Research Institute, 85-S956.
-
-**Figs. 8a–c. — Pavel Petrov-Bytov (Russian, 1895–1960), director***.* Screen captures from the film *Cain and Artem*, 1929. Images courtesy University of California, Berkeley, Berkeley Art Museum and Pacific Film Archive Library.
-
-**Fig. 9. — Herbert George Ponting (English, 1870–1935).** *Camera Caricature*, ca. 1927, gelatin-silver prints mounted on card, 49.5 × 35.6 cm (grid). London, Victoria and Albert Museum, RPS.3336–2018. Image © Royal Photographic Society Collection / Victoria and Albert Museum, London.
-
-**Fig. 10. — Aleksandr Zhitomirsky (Russian, 1907–93).** “There are lucky devils and unlucky ones,” cover of *Front-Illustrierte*, no. 10, April 1943. Prague, Ne Boltai! Collection. Art © Vladimir Zhitomirsky
-
 {% for person in contributor %}
 {{ person.bio | markdownify }} {.grj-contributor-bio}
 {% endfor %}

@@ -100,28 +100,6 @@ All this is perhaps not so novel to curators who have long focused on object-cen
 
 The depth of preparedness that a visit to Eastern State Petitionary provides to the participant in the conversation on criminal justice is notable. The building and grounds memorialize the lived experiences of solitary confinement and provide material evidence for visitors to take into account in their judgments on issues of imprisonment and criminal justice. The audio guide frames and contextualizes the evidence. The art installations turn the evidence over, looking for truths about the prison life and system held by the building and grounds. This discovery process is then brought to bear on the rulings made in the interpretation center. Therefore, the conversation on criminal justice at Eastern State does not begin in the interpretation center. It starts by stepping onto the grounds and looking at the material remains of the penitentiary along a path through the site, finding its denouement in the interpretation center. Heritage sites, it seems, are integral to an open society. If the point of an open society is to commend critical reflection and dialogue on matters of value, then preparedness for such reflection and dialogue through direct encounters with heritage is indispensable.
 
-Figure Captions
-
-**Fig. 1.** — **Aerial view (looking east) of Eastern State Penitentiary, 2125 Fairmount Avenue, Philadelphia, Pennsylvania, after 1933**. Photograph by Jack E. Boucher for the Historic American Buildings Survey. Courtesy of the Library of Congress Prints and Photographs Division, HABS PA–1729.
-
-**Fig. 2. — 1920s entrance facade with cars, before the addition of a vestibule.** Photograph courtesy of Eastern State Penitentiary Historic Site, Philadelphia, PA.
-
-**Fig. 3. — Cellblock seven at the Eastern State Penitentiary in Philadelphia, Pennsylvania.** Photograph by Carol M. Highsmith, 2019. Courtesy of the Library of Congress Prints and Photographs Division, Carol M. Highsmith Archive, LC-DIG-highsm-56325.
-
-**Fig. 4. — Cindy Stockton Moore (US American, b. 1975).** Installation view of *Other Absences*, 2014, ink wash portraits on mylar and ledger on pedestal. Photograph by Jaime Alvarez, 2014. Art © Cindy Stockton Moore. Image courtesy of Eastern State Penitentiary Historic Site, Philadelphia, PA.
-
-**Fig. 5. — Exhibition didactic titled “Mass Incarceration Isn’t Working,” part of the permanent exhibition *Prisons Today: Questions in the Age of Mass Incarceration,* Philadelphia, Eastern State Penitentiary Historic Site, 2016–present.** Photograph by Darryl Moran, 2016. Courtesy of Eastern State Penitentiary Historic Site, Philadelphia, PA.
-
-**Fig. 6. — Exhibition didactic titled “Have you ever broken the law?,” part of the permanent exhibition *Prisons Today: Questions in the Age of Mass Incarceration,* Philadelphia, Eastern State Penitentiary Historic Site, 2016–present.** Photograph by Darryl Moran, 2016. Courtesy of Eastern State Penitentiary Historic Site, Philadelphia, PA.
-
-**Fig. 7. — Exhibition didactic titled “What Are Prisons For?,” part of the permanent exhibition *Prisons Today: Questions in the Age of Mass Incarceration,* Philadelphia, Eastern State Penitentiary Historic Site, 2016–present.** Photograph by Interactive Mechanics, n.d. Courtesy of Eastern State Penitentiary Historic Site, Philadelphia, PA.
-
-**Fig. 8. — *The Big Graph* installed in the prison yard adjacent to cellblock 4, seen from the northeast, Philadelphia, Eastern State Penitentiary Historic Site, 2014–present.** Powder-coated plate steel, 16’ × 24’ × 3’. Courtesy of Eastern State Penitentiary Historic Site, Philadelphia, PA.
-
-**Fig. 9. —Ted Shelton (US American, b. 1969) and Tricia Stuth (US American, b. 1973).** Installation plan, 2005, for *Point—Counterpoint* (2005). Courtesy of Ted Shelton and Tricia Stuth.
-
-**Fig. 10. — Ted Shelton (US American, b. 1969) and Tricia Stuth (US American, b. 1973).** View of *Point—Counterpoint* (2005) from cell five, looking out to cellblock ten. Courtesy of Ted Shelton and Tricia Stuth. Photograph © Frank Laquinta / Halkin Photography.
-
 {% for person in contributor %}
 {{ person.bio | markdownify }} {.grj-contributor-bio}
 {% endfor %}

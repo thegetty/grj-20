@@ -52,32 +52,6 @@ Ultimately, both paintings cemented Rosa’s position in the art world. *The Hor
 
 The sketchbook linking Rosa’s two works attests to the artistic proximity between father and daughter at the end of Raymond’s life during what were arguably the most important years of Rosa’s career. Its jointly authored pages complicate enduring narratives of artistic inheritance and Rosa’s own lore, which she sought to perpetuate in her final years and posthumously through Klumpke. Father and daughter emerge as creative confidantes, whose relationship foregrounded Rosa’s success and renown. As the only shared album known to have survived, the restored dual attribution of the sketchbook opens new lines of inquiry for the study of Raymond’s and Rosa’s respective oeuvres, particularly her works *The Horse Fair* and *Haymaking in the Auvergne*. The identification and recontextualization of their shared undertaking show how the first thoughts for some of Rosa’s best-known works were drafted on the pages of a sketchbook, side by side.
 
-Figure captions
-
-**Fig. 1.—. Cover of a shared sketchbook belonging to Raymond Bonheur (French, 1796–1849) and Rosa Bonheur (French, 1822–99), ca. 1835–55.** Los Angeles, Getty Research Institute, 850837.
-
-**Fig. 2.— Rosa Bonheur (French, 1822–99) and Raymond Bonheur (French, 1796–1849).** Shared sketchbook, ca. 1835–55, 4v and 5r. Los Angeles, Getty Research Institute, 850837.
-
-**Fig. 3.— Raymond Bonheur (French, 1796–1849).** Ink-and-wash drawing of trees, a mountainscape, and clouds from sketchbook shared by Rosa Bonheur (1822–99) and Raymond Bonheur, ca. 1835–55, 81v. Los Angeles, Getty Research Institute, 850837.
-
-**Fig. 4.— Raymond Bonheur (French, 1796–1849).** Ink-and-pencil drawing of a crouching figure from sketchbook shared by Rosa Bonheur (1822–99) and Raymond Bonheur, ca. 1835–55, 80v. Los Angeles, Getty Research Institute, 850837.
-
-**Fig. 5.—Raymond Bonheur (French, 1796–1849).** *Portrait of Rosa and Auguste Bonheur as Children*, 1826, oil on canvas, 94.8 × 80.6 cm. Bordeaux, Musée des Beaux-arts, Bx E 1168. Image © Mairie de Bordeaux, Musée des Beaux-Arts, photo: F. Deval.
-
-**Fig. 6.—Auguste Bonheur (French, 1824–84).** *Portrait of Rosa Bonheur*, 1848, oil on canvas, 130.5 × 98.3 cm. Bordeaux, Musée des Beaux-arts, Bx E 1169. Image © Mairie de Bordeaux, Musée des Beaux-Arts, photo: F. Deval.
-
-**Fig. 7.— Rosa Bonheur (French, 1822–99).** Pencil drawing of two seated figures from sketchbook shared by Rosa Bonheur and Raymond Bonheur (1796–1849), ca. 1835–55, 2r. Los Angeles, Getty Research Institute, 850837.
-
-**Fig. 8.— Rosa Bonheur (French, 1822–99).** Watercolor and pencil drawing of a bird, with annotations for color, from sketchbook shared by Rosa Bonheur and Raymond Bonheur (1796–1849), ca. 1835–55, 15r. Los Angeles, Getty Research Institute, 850837.
-
-**Fig. 9.— Rosa Bonheur (French, 1822–99).** Pencil drawing of horses from sketchbook shared by Rosa Bonheur and Raymond Bonheur (1796–1849), ca. 1835–55, 43v. Los Angeles, Getty Research Institute, 850837.
-
-**Fig. 10.—Rosa Bonheur (French, 1822–99).** Sheet of studies for *The Horse Fair*, ca. 1850, black chalk and graphite on paper, 18.4 × 41.1 cm. New York, Metropolitan Museum of Art, 1991.463. Gift of Alexander Johnson and Roberta Olson, in honor of Jacob Bean, 1991.
-
-**Fig. 11.— Rosa Bonheur (French, 1822–99).** Pencil drawing of a horse and cart with additional studies from sketchbook shared by Rosa Bonheur and Raymond Bonheur (1796–1849), ca. 1835–55, leaves 47v and 48r.
-
-**Fig. 12.— Rosa Bonheur (French, 1822–99).** Pencil drawings of a cradle scythe from sketchbook shared by Rosa Bonheur and Raymond Bonheur (1796–1849), ca. 1835–55, 37v and 38r. Los Angeles, Getty Research Institute, 850837.
-
 {% for person in contributor %}
 {{ person.bio | markdownify }} {.grj-contributor-bio}
 {% endfor %}

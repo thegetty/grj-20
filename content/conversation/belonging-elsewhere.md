@@ -273,40 +273,6 @@ Felipe: Thank you so much for that.
 
 [[**Design: place unnumbered fig. here, above bios**.]]
 
-Captions
-
-**Fig. 1. — Installation view of Felipe Baeza’s *Unruly Forms* in Querétaro, Mexico, 2023.** *Unruly Forms,* presented by Public Art Fund, is an exhibition on more than four hundred JCDecaux bus shelters and street furniture in New York, Boston, and Chicago in the United States, and Mexico City, León, and Querétaro in Mexico, 9 August–19 November 2023. Photograph by Ramiro Chaves, courtesy Public Art Fund, NY.
-
-**Fig. 2. — Installation view of Felipe Baeza’s *Unruly Forms* in Boston, 2023.** *Unruly Forms,* presented by Public Art Fund, is an exhibition on more than four hundred JCDecaux bus shelters and street furniture in New York, Boston, and Chicago in the United States, and Mexico City, León, and Querétaro in Mexico, 9 August–19 November 2023. Photograph by Mel Taing, courtesy Public Art Fund, NY.
-
-**Fig. 3. — Installation view of Felipe Baeza’s *Unruly Forms* in New York, 2023.** *Unruly Forms,* presented by Public Art Fund, is an exhibition on more than four hundred JCDecaux bus shelters and street furniture in New York, Boston, and Chicago in the United States and Mexico City, León, and Querétaro in Mexico, 9 August–19 November 2023. Photograph by Nicholas Knight, courtesy Public Art Fund, NY.
-
-**Fig. 4. — Felipe Baeza viewing a bus shelter located at the intersection of S. Damen and S. Blue Island Avenues in the Pilsen neighborhood of Chicago featuring Baeza’s *Let yourself fall* (2023), part of the installation *Unruly Forms*.** Photograph by Laura G. Gutiérrez, September 2023.
-
-**Fig. 5. — Felipe Baeza at a bus shelter located at the intersection of S. Damen Avenue and W. 18th Street in the Pilsen neighborhood of Chicago featuring Baeza’s *to shape, shape self* (2023), part of the installation *Unruly Forms.*** Photograph by Laura G. Gutiérrez, September 2023.
-
-**Fig. 6. — Graciela Iturbide (Mexican, b. 1942).** *Magnolia, Juchitán, Oaxaca,* 1986 (negative); 2005 (print). Gelatin silver print, 44.5 × 31.5 cm. Los Angeles, J. Paul Getty Museum, 2007.65.25. Gift of Susan Steinhauser and Daniel Greenberg. © Graciela Iturbide.
-
-**Figs. 7a–c. — Nahum B. Zenil (Mexican, b. 1947).** ¡*Oh, santa bandera! (A Enrique Guzmán)* (Oh, Holy Flag! [For Enrique Guzmán]), 1996, ink, acrylic, and oil on paper, triptych: [[**dimensions TK**]]. Mexico City, Museo Universitario Arte Contemporáneo, acquisition with funds from the Presupuesto de Egresos de la Federación, 2013.
-
-**Fig. 8. — Nahum B. Zenil (Mexican, b. 1947).** *Original-language title TK* (Self-Portrait with Thorns), 1992, oil on wood, 70 × 50 cm. Private collection.
-
-**Fig. 9. — Felipe Baeza working in his studio at the Getty Research Institute, 2022.** Photograph courtesy the Getty Research Institute, Los Angeles.
-
-**Fig. 10. — Felipe Baeza in his studio at the Getty Research Institute, 2022.** Photograph courtesy the Getty Research Institute, Los Angeles.
-
-**Fig. 11. — Codex-style plate, Maya, late classic period, 640–740 CE, earthenware; red and black on cream slip paint, diam.: 5.8 × 32 cm.** Boston, Museum of Fine Arts, 1993.565, gift of Landon T. Clay. Photograph © 2025 Museum of Fine Arts, Boston.
-
-**Fig. 12. — Felipe Baeza (Mexican, b. 1987, active in the US).** *to shape, shape self*, 2023, ink, acrylic, graphite, varnish, and cut paper on panel, 40.6 × 30.5 cm (16 × 12 in.). © Felipe Baeza. Courtesy Maureen Paley, London; kurimanzutto, Mexico City / New York. Photograph by Brad Farwell.
-
-**Fig. 13. — Felipe Baeza (Mexican, b. 1987, active in the US).** *Our shadows merging*, 2023, ink, graphite, varnish, and cut paper on panel, 40.6 × 30.5 cm (16 × 12 in.). © Felipe Baeza. Courtesy Maureen Paley, London; kurimanzutto, Mexico City / New York. Photograph by Brad Farwell.
-
-**Fig. 14. — Felipe Baeza (Mexican, b. 1987, active in the US).** *Confined but still intoxicated with freedom*, 2022, ink, graphite, varnish, and cut paper on panel, 35.6 × 27.9 cm (14 × 11 in.). © Felipe Baeza. Courtesy Maureen Paley, London; kurimanzutto, Mexico City / New York. Photograph courtesy the Getty Research Institute, Los Angeles.
-
-**[Unnumbered fig. caption:]**
-
-**Felipe Baeza and Laura G. Gutiérrez at a bus shelter located at the intersection of S. Damen Avenue and W. 18th Street in the Pilsen neighborhood of Chicago featuring Baeza’s *to shape, shape self* (2023), part of the installation *Unruly Forms*.** Photo by Laura G. Gutiérrez.
-
 {% for person in contributor %}
 {{ person.bio | markdownify }} {.grj-contributor-bio}
 {% endfor %}

@@ -136,34 +136,6 @@ As it turns out, the very feature that photographic portfolios were designed to 
 
 “Over the years,” writes Richard Blodgett in his book *Photographs: A Collector’s Guide* of 1979, “photographers have typically made prints only in direct response to demand, and for that reason vintage prints of most photographers’ work are scarce. . . . This is one of the great ironies of the photography market: that a process which is theoretically limitless actually has resulted in works of considerable rarity.”[^78] Both Sander and Lunn eventually agreed. “After Lisette died,” Gerd recounts, “I had access to the vintage prints and that was what the market asked for.”[^79] In the late 1980s, Lunn expressed a similar sentiment: “Vintage is sacred. . . . the finest vintage examples of an artist’s work have increased in price by a significant degree [more] than later prints of the same image.”[^80] Perhaps it was finally fair to say that photography had been accepted by the market as art, with rarity as its north star.
 
-Figure Captions
-
-**Fig. 1. — Gerd Sander at the opening of *Lisette Model Photographs* (September 25—October 30, 1976), Sander Gallery, Washington, D.C., September 1976.** Photographer unknown. Cologne, Germany, August Sander Stiftung. Art © The Lisette Model Foundation, Inc. (1983). Used by permission.
-
-**Fig. 2. — Price list for works in the exhibition *Lisette Model Photographs*, Sander Gallery, Washington, DC, 25 September 1976**. Cologne, Germany, August Sander Stiftung.
-
-**Fig. 3. — *Lisette Model: Twelve Photographs* (Washington, D.C.: Graphics International, 1976).** Washington, D.C., National Gallery of Art, 2002.152.9–20. Gift of Mr. and Mrs. David C. Ruttenberg courtesy of the Ruttenberg Arts Foundation. © The Lisette Model Foundation, Inc. (1983). Used by permission.
-
-**Fig. 4. — Lisette Model (US American, b. Austria, 1901–83)**. *Woman with Veil, San Francisco*, 1949, gelatin silver print, 34.9 × 27 cm. Los Angeles, J. Paul Getty Museum, 84.XM.153.13. © Estate of Lisette Model, courtesy Baudoin Lebon / Keitelman.
-
-**Fig. 5. — Cataloging card for the eleven-by-fourteen-inch print of Lisette Model’s *Coney Island* (1941) acquired in 1943 by the Museum of Modern Art, New York, 32.1943.** Department of Photography files, Museum of Modern Art, New York. Digital Image © 2024 The Museum of Modern Art, New York. Art © The Lisette Model Foundation, Inc. (1983). Used by permission.
-
-**Fig. 6. —** **Cataloging card for the sixteen-by-twenty-inch replacement print of Lisette Model’s *Coney Island* (1941) produced by the artist in 1964 for the collection of the Museum of Modern Art, New York, 1206.1964.** Department of Photography files, Museum of Modern Art, New York. Digital Image © 2024 The Museum of Modern Art, New York. Art © The Lisette Model Foundation, Inc. (1983). Used by permission.
-
-**Fig. 7. — Lisette Model’s work printed by Gerd Sander in 1976, installed in the exhibition, *Lisette Model Photographs* (25 September 30—October 1976), Sander Gallery, Washington, DC, 1976.** Photographer unknown. Cologne, Germany, August Sander Stiftung. Art © The Lisette Model Foundation, Inc. (1983). Used by permission.
-
-**Fig. 8. — Harry Lunn (*left*) with Lisette Model (*center*), ca. 1975, gelatin silver print.** Photographer unknown. Cologne, Germany, August Sander Stiftung.
-
-**Fig. 9. — *Lisette Model: Twelve Photographs* (Washington, DC: Graphics International, 1976).** Washington, DC, National Gallery of Art, 2002.152.9–20. Gift of Mr. and Mrs. David C. Ruttenberg courtesy of the Ruttenberg Arts Foundation. © The Lisette Model Foundation, Inc. (1983). Used by permission.
-
-**Fig. 10. —** **Hans Namuth (US American, 1915­–90).** Untitled (Barnett Newman), 1951, **[media TK, dims TK]**. © 1991 Hans Namuth Estate, Courtesy Center for Creative Photography.
-
-**Fig. 11. — Lisette Model (US American, b. Austria, 1901–83)**. *Blind Man Walking, Paris*, 1933–38, gelatin silver print on newspaper mount, 30.4 × 25.2 cm (mount). Washington, DC, National Gallery of Art, 2016.109.1. Pepita Milmore Memorial Fund. © The Lisette Model Foundation, Inc. (1983). Used by permission.
-
-**Fig. 12. — Cover of Michel Seuphor, *Lecture élémentaire: Algèbre des facilités et tout le roman des lettres* (Paris: Les Ecrivains réunis, 1928).** Based on a painting by Evsa Model (US American, b. Russia, 1899–1976).
-
-**Fig. 13. — Price sheet for *Lisette Model: Twelve Photographs* (1976), issued by Graphics International, Washington, DC, late 1977.** Los Angeles, Getty Research Institute, Harry Lunn papers, 2004.M.17.
-
 {% for person in contributor %}
 {{ person.bio | markdownify }} {.grj-contributor-bio}
 {% endfor %}

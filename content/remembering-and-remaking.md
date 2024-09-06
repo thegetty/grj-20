@@ -96,32 +96,6 @@ The industry, whose history we have attempted to trace, and the fluctuations of 
 
 As artifactual witnesses, the two centerpieces and their material journey can be read alongside this statement. The damaged relics testified to the ostentatious fashion and historicizing taste of their era as well as to the smaller phenomena of specific artistic collaborations, and finally to the brutal historical vicissitudes that ultimately required remaking them once again. By remembering and remaking Second Empire objects, whether in metal, in photographic albums, or in text, Bouilhet and his colleagues reclaimed not only the objects themselves but also their testimonial value. They then deployed them to tell a history of their production that made larger claims for a splendid French tradition of design and craftsmanship, which they expected to persist. For the Christofle company and for later scholars, a deliberative regard—in line with the one evoked in this article’s epigraph by Vladimir Nabokov—reveals how the circuitous histories of material objects continue, like a mise en abîme, to inform our own attempts to analyze and write histories of objects and eras.
 
-Captions
-
-**Fig. 1. — Foldout six-part photographic panorama and hand-colored plan from *Surtout de table de la Ville de Paris, éxecuté par Mrs. Christofle et Cie d’après les dessins de Mr. Vor Baltard, member de l’Institut, et détruit dans l’incendie de l’Hôtel de Ville en mai 1871,* ca. 1872, albumen [[and TK]] prints and watercolor.** Los Angeles, Getty Research Institute, 2023.R.7.
-
-**Fig. 2. — Charles Marville (French, 1816–79).** *Interior of the Hotel de Ville, l’escalier à double révolution de la cour Louis XIV* (axial stair of the Louis XIV courtyard), ca. 1865, albumen print from wet collodion negative, 27 × 36.5 cm. Williamstown, Massachusetts, Clark Art Institute, lent by the Troob Family Foundation, TR TR2012.36.1.
-
-**Fig. 3. — Charles Gumery (French, 1827–71), sculptor.** *La Ville de Paris* (The city of Paris), **[[type of photograph print TK]]**[,] from *Surtout de table de la Ville de Paris, éxecuté par Mrs. Christofle et Cie d’après les dessins de Mr. Vor Baltard, member de l’Institut, et détruit dans l’incendie de l’Hôtel de Ville en mai 1871,* ca. 1872. Los Angeles, Getty Research Institute, 2023.R.7.
-
-**Fig. 4. — Jacques Maillet (French, 1823–94), sculptor.** *La Seine (face antérieure)* (Seine River [front side]), from *Surtout de table de la Ville de Paris, éxecuté par Mrs. Christofle et Cie d’après les dessins de Mr. Vor Baltard, member de l’Institut, et détruit dans l’incendie de l’Hôtel de Ville en mai 1871*, ca. 1872. Los Angeles, Getty Research Institute, 2023.R.7.
-
-**Fig. 5. — Mathurin Moreau (French, 1822–1912), sculptor.** *Triton à la conque* (Triton with a conch), from *Surtout de table de la Ville de Paris, éxecuté par Mrs. Christofle et Cie d’après les dessins de Mr. Vor Baltard, member de l’Institut, et détruit dans l’incendie de l’Hôtel de Ville en mai 1871,* ca. 1872. Los Angeles, Getty Research Institute, 2023.R.7.
-
-**Fig. 6. — “Fête de l’Hôtel-de-Ville, donnée en l’honneur de LL. MM. L’Empereur de Russie et le Roi de Prusse. Arrivée de LL. MM. à la table de souper,” wood engraving from *L’Illustration*, 22 June 1867, 399.** Los Angeles, Getty Research Institute, 84-S259.
-
-**Fig. 7. — Jules Andrieu (French, 1816–after 1876).** *Disasters of the war, City Hall, Galerie des Fêtes,* ca. 1870–71, albumen silver print, 29.2 × 37.4 cm. Ottawa, National Gallery of Canada, purchased 1975, inv. 20755.
-
-**Fig. 8. — Cover of *Surtout de table de la Ville de Paris, éxecuté par Mrs. Christofle et Cie d’après les dessins de Mr. Vor Baltard, member de l’Institut, et détruit dans l’incendie de l’Hôtel de Ville en mai 1871*, ca. 1872.** Los Angeles, Getty Research Institute, 2023.R.7.
-
-**Fig. 9. — Central Group with France Distributing the Wreaths of Glory, from the one-hundred place *surtout de table* of Napoléon III, 1852–58, galvanic bronze and silvered galvanic bronze.** Produced by Christofle et Cie. Paris, Musée des Arts Décoratifs, 7023.A. © Les Arts Décoratifs/ Jean Tholance, madparis.fr.
-
-**Fig. 10. — Candelabre, Les arts (Candelabra with allegory of the Arts), from the one-hundred place *surtout de table* of Napoléon III, 1852–58, bronze and silvered galvanic bronze.** Produced by Christofle et Cie. Paris, Musée des Arts Décoratifs, 7023.E. © Les Arts Décoratifs/ Jean Tholance, madparis.fr.
-
-**Fig. 11. — “Musée centennale de 1900. Époque Napoléon III—Fannière, Christofle, Froment-Meurice fils,” from Henri Bouilhet, *L’orfèvrerie française aux XVIIIe et XIXe siècles,* vol. 1, *L’orfèvrerie française aux XVIIe siècle (1700–1789)* (Paris: H. Laurens, 1908), 21.** Los Angeles, Getty Research Institute, NK7149.B76.
-
-**Fig. 12. — “Ensemble du surtout de l’Hôtel de Ville de Paris (Orfèvrerie de Christofle),” from Henri Bouilhet, *L’orfèvrerie française aux XVIIIe et XIXe siècles,* vol. 3, *L’orfèvrerie française aux XIXe siècle: Deuxième période (1860–1900)* (Paris: H. Laurens, 1912), 43.** Los Angeles, Getty Research Institute, NK7149.B76.
-
 {% for person in contributor %}
 {{ person.bio | markdownify }} {.grj-contributor-bio}
 {% endfor %}

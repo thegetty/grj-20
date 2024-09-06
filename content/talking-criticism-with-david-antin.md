@@ -134,24 +134,6 @@ The relevance of Antin’s work today might have something to do with its relati
 
 The public might have had its day—born in coffeehouses and riddled with exclusions, it was always a fiction. It’s hard for me to say this, because its broad sweep and dream of coherence still has a powerful appeal. The clique, coterie, and community, with their varying degrees of boundedness, have their problems. There’s the cohort, but that sounds too statistical. I’m not sure how I feel about the mass or swarm—too irrational, electric. I am trying to find another word that might break and rearrange the ranks of identity and class, a word or phrase that might help construct an audience. I keep drifting toward *interested parties*. It has a glimmer of festivity and a touch of political organization. Perhaps it is a way of building up to something like a public, little by little, rather than taking its existence for granted as something already there and in place.
 
-Captions
-
-**Fig. 1. — Cover of *Artforum* 11, no. 1 (September 1972).**
-
-**Fig. 2. — Telegram sent by John Coplans to David Antin, 2 June 1972.** Los Angeles, Getty Research Institute, 2008.M.56. © The John Coplans Trust.
-
-**Fig. 3. — Douglas Huebler (American, 1924–97).** *Duration Piece, No. 15 Global*, 1969, [**[medium TK]]**. © 2023 Estate of Douglas Huebler / Artists Rights Society (ARS), New York. Courtesy Paula Cooper Gallery, New York
-
-**Fig. 4. — Fred Lonidier (American, b. 1942).** Photograph of David Antin, 1973. Courtesy the artist.
-
-**Figs. 5a, 5b. — Postcard, front and back, of David Antin delivering the talk “Figures of Thought or Figures of Thinking,” 80 Langton Street, San Francisco, California, 13 May 1978.**
-
-**Fig. 6. — Les Levine (Irish, b. 1935).** Photographs shot from the video version of *Critic*, 1966. Courtesy the artist.
-
-**Fig. 7. — Cover of David Antin, *talking at the boundaries* (New York: New Directions, 1976).**
-
-**Fig. 8. — Gregg Bordowitz delivering improvised talk piece at Bridget Donahue Gallery, New York, 2019.** Photo by Oto Gillen. Courtesy the artist.
-
 {% for person in contributor %}
 {{ person.bio | markdownify }} {.grj-contributor-bio}
 {% endfor %}

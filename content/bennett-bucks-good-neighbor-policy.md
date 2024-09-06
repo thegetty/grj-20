@@ -100,42 +100,6 @@ For the value of a work must also be measured in the tales that it tells. The po
 
 The most egregious fakes are often laughable, but even obvious ones cast doubt, damaging an artist’s reputation, as in the case of a pseudoacademic publication that slandered Frida Kahlo a few years ago.[^55] And yet, it is very difficult to talk or write openly about fake or even questionable paintings in an interconnected art world, mainly because in so doing, we risk angering stakeholders whose generosity we may need for future projects.[^56] A broader discussion of this topic or a catalog of problematic works is well beyond the contours of this essay. But I close by noting that although very few false Kahlos or Riveras have actually deceived leading curators or art historians,[^57] the case for Orozco is more complicated, partly because scholarship on his paintings remains comparatively limited, and partly because his expressionist style is rather easy to imitate. The same is also true for late (and sometimes sloppy) works by Siqueiros; by contrast, Rivera’s precisionist brushwork is almost impossible to duplicate convincingly. Besides the younger artists who sincerely copied Orozco’s expressionist style—aside from those discussed above, Will Barnet and Arnold Belkin come to mind—and whose work might be mistaken for their mentor’s, there is evidence of at least one skilled forger out there whose hand can be seen in paintings that have passed through the most reputable auction houses, and that in some cases remain ascribed to Orozco in both public and private collections. Less ignoble are other cases of mistaken identity, such as a brightly colored drawing of two men in the collection of the Philadelphia Museum of Art, dated 1933 and donated to the museum in 2019, that is old but definitely not by Orozco.[^58] I leave it to my readers who jump to the endnote and follow the link to judge if this account of Bennett Buck’s *Good Neighbor Policy* might serve, ultimately, as a cautionary tale.
 
-Figure Captions
-
-**Fig. 1. — Bennett Buck (US American, 1900–1982).** *Good Neighbor Policy,* 1938, oil on canvas, 150 × 90 cm. Private collection.
-
-**Fig. 2. — José Clemente Orozco (Mexican, 1883–1947).** Panel 13, *Anglo-America,* from *The Epic of American Civilization*, 1932–34, fresco, 304.8 × 261.6 cm. Hanover, New Hampshire, Hood Museum of Art, Dartmouth College, P.934.13.15. Commissioned by the Trustees of Dartmouth College.
-
-**Fig. 3. — José Clemente Orozco (Mexican, 1883–1947).** Panel 14, *Hispano-America*, from *The Epic of American Civilization*, 1932–34, fresco, 304.8 × 302.3 cm. Hanover, New Hampshire, Hood Museum of Art, Dartmouth College, P.934.13.16. Commissioned by the Trustees of Dartmouth College.
-
-**Fig. 4. — José Clemente Orozco (Mexican, 1883–1947**). Panel 1, *Migration*, from *The Epic of American Civilization*, 1932–34, fresco, 321.3 × 266.7 cm. Hanover, New Hampshire, Hood Museum of Art, Dartmouth College, P.934.13.1. Commissioned by the Trustees of Dartmouth College.
-
-**Fig. 5. — José Clemente Orozco (Mexican, 1883–1947).** *The Maguey*, 1928, lithograph, 25.1 × 40.5 cm. Colección Museo de Arte Carrillo Gil, INBAL, Mexico City. Courtesy Colección Museo de Arte Carrillo Gil / INBAL / SC. © Heirs of José Clemente Orozco, 2025. Reproduction authorized by the Instituto Nacional de Bellas Artes y Literatura, 2024.
-
-**Fig. 6. — Installation view of *South of the Border: Mexico in the American Imagination, 1914–1947,*” with works by Bennett Buck, David Alfaro Siqueiros, and Isamu Noguchi (reproduction), September 1993, Yale University Art Gallery.**
-
-**Fig. 7. — Cover of *1938: Dedicated to the New Deal* (New York: A. C. A. Gallery, 1938).** The Wolfsonian–FIU, Gift of Francis Xavier Luca and Clara Helena Palacio Luca, XC2014.03.1.9
-
-**Figs. 8a, 8b. —** ***Good Neighbor* *Policy* (1938) by Bennett Buck (US American, 1900–82) and *Filibuster Over the Senate* (ca. 1938, now lost) by Harry Sternberg (US American, 1904–2001) from *1938: Dedicated to the New Deal* (New York: A.C.A. Gallery, 1938).** The Wolfsonian–FIU, Gift of Francis Xavier Luca and Clara Helena Palacio Luca, XC2014.03.1.9.
-
-**Fig. 9. — Joe Jones (US American, 1909–63).** *A Worker Again—On WPA* (Self-Portrait), ca. 1938, oil on canvas, 68.6 × 83.8 cm. From the Collections of the St. Louis Mercantile Library at the University of Missouri-St. Louis.
-
-**Fig. 10. — Bennett Buck (US American, 1900–82).** *Untitled (Hitch Hikers),* 1935, drypoint, 16.3 × 18.2 cm (image). Washington, DC, National Gallery of Art, 2008.115.1096. Reba and Dave Williams Collection, Gift of Reba and Dave Williams.
-
-**Fig. 11. — Bennett Buck (US American, 1900–82).** *Bar Room*, 1935, drypoint, 16.3 × 18.2 cm (image). Washington, DC, National Gallery of Art, 2008.115.1097. Reba and Dave Williams Collection, Gift of Reba and Dave Williams.
-
-**Fig. 12. — Bennett Buck (US American, 1900–82).** *The Color Line*, ca. 1936, from *Puerto Rico: Twelve Reproductions of Original Drawings by Bennett Buck* (New York: A.C.A. Gallery, 1936), 5. New Orleans, Louisiana, Tulane University, Rare Books Collections, Latin American Library. Image courtesy of the Latin American Library, Tulane University.
-
-**Fig. 13. — Photograph showing (*left to right*) E. Gould Chalker, Bennett Buck, David (last name illegible), and Aldis B. Browne at the Essex Art Association, Essex, Connecticut, 1960s.** Photographer unknown. Courtesy Essex Art Association.
-
-**Fig. 14. — Rufino Tamayo (Mexican, 1899–1991). *Fascism,* 1936, ink wash on paper, 22.9 × 35 cm.** Syracuse, New York, Everson Museum of Art. Gift of H. Bennett Buck, PC 77.86.40. [**ARS credit line TK**.]
-
-**Fig. 15. — *Planning & Construction* (1938, now lost) by Mervin Jules (US American, 1912–94) from *1938: Dedicated to the New Deal* (New York: A.C.A. Gallery, 1938).** The Wolfsonian–FIU, Gift of Francis Xavier Luca and Clara Helena Palacio Luca, XC2014.03.1.9.
-
-**Fig. 16. — *Unemployed* (1938, now lost) by Axel Horn (US American, 1913–2001) and *W.P.A.* (1938, now lost) by Theodore G. Haupt US American, 1902–90) from *1938: Dedicated to the New Deal* (New York: A.C.A. Gallery, 1938).** The Wolfsonian–FIU, Gift of Francis Xavier Luca and Clara Helena Palacio Luca, XC2014.03.1.9.
-
-**Fig. 17. — Photocopies in the author’s possession from collectors’ provenance dossier (current location of original dossier unknown) supporting the misattribution of Bennett Buck’s *Good Neighbor Policy* to José Clemente Orozco.**
-
 {% for person in contributor %}
 {{ person.bio | markdownify }} {.grj-contributor-bio}
 {% endfor %}
