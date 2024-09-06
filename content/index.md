@@ -4,7 +4,7 @@ layout: cover
 order: 1
 menu: false
 toc: false
-image: figures/horakova-poggi-02.jpg
+image: figures/cover.jpg
 classes:
   - masthead
 outputs:

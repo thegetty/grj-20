@@ -1,7 +1,11 @@
 :root {
-  --accent-color: #813436; /* same as $accent-color in variables.scss */
+  /* --accent-color: #813436;
   --accent-color-midtone: #ff7070;
-  --accent-color-highlight: #ffa8a8;
+  --accent-color-highlight: #ffa8a8; */
+
+  --accent-color: #795772; /* same as $accent-color in variables.scss */
+  --accent-color-midtone: #897306;
+  --accent-color-highlight: #f8cf0c;
 
   --sidebar-light: #f1f0ee;
   --sidebar-midtone: #e3e1dd;
@@ -151,7 +155,7 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
 /* COVER
 ============================================================================= */
 .quire-cover__overlay {
-  background-position-y: top;
+  background-position-y: 10%;
 }
 .hero-body .container.is-fluid {
   right: 0;
@@ -164,7 +168,7 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   bottom: auto;
 }
 .hero-body .container.is-fluid .title {
-  color: var(--accent-color);
+  color: var(--accent-color-highlight);
   font-size: 3.5rem;
   font-weight: 300;
   margin: 0;
