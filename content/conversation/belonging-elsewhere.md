@@ -145,11 +145,7 @@ Laura: Do you remember what Nahum image you saw as a nine- or ten-year-old? Beca
 
 Felipe: Well, there’s two that I remember. One is a triptych of him being double penetrated by the Mexican flag ([**[figs. 7a–c]**](#fig-8-7a-FPO)).
 
-{% figure 'fig-8-7a-FPO' %}
-
-{% figure 'fig-8-7b-FPO' %}
-
-{% figure 'fig-8-7c-FPO' %}
+{% figuregroup '1' 'fig-8-7a-FPO, fig-8-7b-FPO, fig-8-7c-FPO' '<span class="q-figure__label-text">Figs. 7a, 7b, 7c. — </span>**Nahum B. Zenil (Mexican, b. 1947).** ¡*Oh, santa bandera! (A Enrique Guzmán)* (Oh, Holy Flag! [For Enrique Guzmán]), 1996, ink, acrylic, and oil on paper, triptych: [[**dimensions TK**]]. Mexico City, Museo Universitario Arte Contemporáneo, acquisition with funds from the Presupuesto de Egresos de la Federación, 2013.'%}
 
 Laura: That’s the image that came to my mind when you mentioned his name.
 

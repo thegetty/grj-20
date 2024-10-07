@@ -478,21 +478,17 @@ figure_list:
     longdesc: ''
     alt: ''
   - id: "fig-4-5-a"
-    label: "Fig. 5a. —"
+    label: " "
     src: figures/fig-4-5-a.jpg
     zoom: true
-    caption: "**Postcard, front and back, of David Antin delivering the talk “Figures of
-      Thought or Figures of Thinking,” 80 Langton Street, San Francisco,
-      California, 13 May 1978.**"
+    caption: 
     longdesc: ''
     alt: ''
   - id: "fig-4-5-b"
-    label: "Fig. 5b. —"
+    label: " "
     src: figures/fig-4-5-b.jpg
     zoom: true
-    caption: "**Postcard, front and back, of David Antin delivering the talk “Figures of
-      Thought or Figures of Thinking,” 80 Langton Street, San Francisco,
-      California, 13 May 1978.**"
+    caption: 
     longdesc: ''
     alt: ''
   - id: "fig-4-6"
@@ -932,25 +928,21 @@ figure_list:
     longdesc: ''
     alt: ''
   - id: "fig-8-7a-FPO"
-    label: "Fig. 7. —"
+    label: ""
     src: figures/fig-8-7a-FPO.png
     zoom: true
-    caption: "**Nahum B. Zenil (Mexican, b. 1947).** ¡*Oh, santa bandera! (A Enrique
-      Guzmán)* (Oh, Holy Flag! [For Enrique Guzmán]), 1996, ink, acrylic, and oil
-      on paper, triptych: [[**dimensions TK**]]. Mexico City, Museo Universitario
-      Arte Contemporáneo, acquisition with funds from the Presupuesto de Egresos
-      de la Federación, 2013."
+    caption: ""
     longdesc: ''
     alt: ''
   - id: "fig-8-7b-FPO"
-    label: ". —"
+    label: ""
     src: figures/fig-8-7b-FPO.png
     zoom: true
     caption: ""
     longdesc: ''
     alt: ''
   - id: "fig-8-7c-FPO"
-    label: ". —"
+    label: ""
     src: figures/fig-8-7c-FPO.png
     zoom: true
     caption: ""
