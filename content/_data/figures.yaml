@@ -1,16 +1,16 @@
 figure_list:
 
-  - id: "fig-1-1"
-    label: "Fig. 1. —"
+  - id: "fig-cover-1"
+    label: "Fig. 1. —. —"
     src: cover-promo.jpg
     # zoom: true
     caption: "**Bold text** Normal Text"
     alt: ""
     longdesc: ""
   
-  - id: "fig-2-1"
-    label: "Fig. 1"
-    src: figures/fig-2-1.jpg
+  - id: "fig-1-1"
+    label: "Fig. 1. —"
+    src: figures/fig-1-1.jpg
     zoom: true
     caption: "**Foldout six-part photographic panorama and hand-colored plan from *Surtout
       de table de la Ville de Paris, éxecuté par Mrs. Christofle et Cie d’après
@@ -19,9 +19,9 @@ figure_list:
       prints and watercolor.** Los Angeles, Getty Research Institute, 2023.R.7."
     longdesc: ''
     alt: ''
-  - id: "fig-2-2"
-    label: "Fig. 2"
-    src: figures/fig-2-2.jpg
+  - id: "fig-1-2"
+    label: "Fig. 2. —"
+    src: figures/fig-1-2.jpg
     zoom: true
     caption: "**Charles Marville (French, 1816–79).** *Interior of the Hotel de Ville,
       l’escalier à double révolution de la cour Louis XIV* (axial stair of the
@@ -30,9 +30,9 @@ figure_list:
       Troob Family Foundation, TR TR2012.36.1."
     longdesc: ''
     alt: ''
-  - id: "fig-2-3"
-    label: "Fig. 3"
-    src: figures/fig-2-3.jpg
+  - id: "fig-1-3"
+    label: "Fig. 3. —"
+    src: figures/fig-1-3.jpg
     zoom: true
     caption: "**Charles Gumery (French, 1827–71), sculptor.** *La Ville de Paris* (The
       city of Paris), **[[type of photograph print TK]]**[,] from *Surtout de
@@ -42,9 +42,9 @@ figure_list:
       Institute, 2023.R.7."
     longdesc: ''
     alt: ''
-  - id: "fig-2-4"
-    label: "Fig. 4"
-    src: figures/fig-2-4.jpg
+  - id: "fig-1-4"
+    label: "Fig. 4. —"
+    src: figures/fig-1-4.jpg
     zoom: true
     caption: "**Jacques Maillet (French, 1823–94), sculptor.** *La Seine (face
       antérieure)* (Seine River [front side]), from *Surtout de table de la Ville
@@ -54,9 +54,9 @@ figure_list:
       2023.R.7."
     longdesc: ''
     alt: ''
-  - id: "fig-2-5"
-    label: "Fig. 5"
-    src: figures/fig-2-5.jpg
+  - id: "fig-1-5"
+    label: "Fig. 5. —"
+    src: figures/fig-1-5.jpg
     zoom: true
     caption: "**Mathurin Moreau (French, 1822–1912), sculptor.** *Triton à la conque*
       (Triton with a conch), from *Surtout de table de la Ville de Paris, éxecuté
@@ -65,9 +65,9 @@ figure_list:
       1872. Los Angeles, Getty Research Institute, 2023.R.7."
     longdesc: ''
     alt: ''
-  - id: "fig-2-6"
-    label: "Fig. 6"
-    src: figures/fig-2-6.jpg
+  - id: "fig-1-6"
+    label: "Fig. 6. —"
+    src: figures/fig-1-6.jpg
     zoom: true
     caption: "**“Fête de l’Hôtel-de-Ville, donnée en l’honneur de LL. MM. L’Empereur de
       Russie et le Roi de Prusse. Arrivée de LL. MM. à la table de souper,” wood
@@ -75,18 +75,18 @@ figure_list:
       Research Institute, 84-S259."
     longdesc: ''
     alt: ''
-  - id: "fig-2-7"
-    label: "Fig. 7"
-    src: figures/fig-2-7.jpg
+  - id: "fig-1-7"
+    label: "Fig. 7. —"
+    src: figures/fig-1-7.jpg
     zoom: true
     caption: "**Jules Andrieu (French, 1816–after 1876).** *Disasters of the war, City
       Hall, Galerie des Fêtes,* ca. 1870–71, albumen silver print, 29.2 × 37.4 cm.
       Ottawa, National Gallery of Canada, purchased 1975, inv. 20755."
     longdesc: ''
     alt: ''
-  - id: "fig-2-8"
-    label: "Fig. 8"
-    src: figures/fig-2-8.jpg
+  - id: "fig-1-8"
+    label: "Fig. 8. —"
+    src: figures/fig-1-8.jpg
     zoom: true
     caption: "**Cover of *Surtout de table de la Ville de Paris, éxecuté par Mrs.
       Christofle et Cie d’après les dessins de Mr. Vor Baltard, member de
@@ -94,9 +94,9 @@ figure_list:
       1872.** Los Angeles, Getty Research Institute, 2023.R.7."
     longdesc: ''
     alt: ''
-  - id: "fig-2-9"
-    label: "Fig. 9"
-    src: figures/fig-2-9.jpg
+  - id: "fig-1-9"
+    label: "Fig. 9. —"
+    src: figures/fig-1-9.jpg
     zoom: true
     caption: "**Central Group with France Distributing the Wreaths of Glory, from the
       one-hundred place *surtout de table* of Napoléon III, 1852–58, galvanic
@@ -105,9 +105,9 @@ figure_list:
       madparis.fr."
     longdesc: ''
     alt: ''
-  - id: "fig-2-10"
-    label: "Fig. 10"
-    src: figures/fig-2-10.jpg
+  - id: "fig-1-10"
+    label: "Fig. 10. —"
+    src: figures/fig-1-10.jpg
     zoom: true
     caption: "**Candelabre, Les arts (Candelabra with allegory of the Arts), from the
       one-hundred place *surtout de table* of Napoléon III, 1852–58, bronze and
@@ -115,9 +115,9 @@ figure_list:
       Arts Décoratifs, 7023.E. © Les Arts Décoratifs/ Jean Tholance, madparis.fr."
     longdesc: ''
     alt: ''
-  - id: "fig-2-11"
-    label: "Fig. 11"
-    src: figures/fig-2-11.jpg
+  - id: "fig-1-11"
+    label: "Fig. 11. —"
+    src: figures/fig-1-11.jpg
     zoom: true
     caption: "**“Musée centennale de 1900. Époque Napoléon III—Fannière, Christofle,
       Froment-Meurice fils,” from Henri Bouilhet, *L’orfèvrerie française aux
@@ -126,9 +126,9 @@ figure_list:
       Institute, NK7149.B76."
     longdesc: ''
     alt: ''
-  - id: "fig-2-12"
-    label: "Fig. 12"
-    src: figures/fig-2-12.jpg
+  - id: "fig-1-12"
+    label: "Fig. 12. —"
+    src: figures/fig-1-12.jpg
     zoom: true
     caption: "**“Ensemble du surtout de l’Hôtel de Ville de Paris (Orfèvrerie de
       Christofle),” from Henri Bouilhet, *L’orfèvrerie française aux XVIIIe et
@@ -137,9 +137,9 @@ figure_list:
       Research Institute, NK7149.B76."
     longdesc: ''
     alt: ''
-  - id: "fig-3-1"
-    label: "Fig. 1"
-    src: figures/fig-3-1.jpg
+  - id: "fig-2-1"
+    label: "Fig. 1. —"
+    src: figures/fig-2-1.jpg
     zoom: true
     caption: "**Brigade KGK (Viktor Koretsky [1909–98], Vera Gitsevich [1897–1976], and
       Boris Knoblok [1903–84]).** “We had to overcome among the people in charge
@@ -151,9 +151,9 @@ figure_list:
       2014.R.25."
     longdesc: ''
     alt: ''
-  - id: "fig-3-2"
-    label: "Fig. 2"
-    src: figures/fig-3-2.jpg
+  - id: "fig-2-2"
+    label: "Fig. 2. —"
+    src: figures/fig-2-2.jpg
     zoom: true
     caption: "**Brigade KGK (Viktor Koretsky [1909–1998], Vera Gitsevich [1897–1976], and
       Boris Knoblok [1903–1984]).** “There is still among a section of Communists
@@ -165,9 +165,9 @@ figure_list:
       Angeles, Getty Research Institute, 2014.R.25."
     longdesc: ''
     alt: ''
-  - id: "fig-3-3"
-    label: "Fig. 3"
-    src: figures/fig-3-3.jpg
+  - id: "fig-2-3"
+    label: "Fig. 3. —"
+    src: figures/fig-2-3.jpg
     zoom: true
     caption: "**Aleksandr Rodchenko (Russian, 1890–1956).** Draft illustration for
       Vladimir Mayakovsky’s poem “Pro eto,” accompanied by the lines “And the
@@ -177,18 +177,18 @@ figure_list:
       Rodchenko / UPRAVIS, Moscow / ARS, NY. Photo: Art Resource."
     longdesc: ''
     alt: ''
-  - id: "fig-3-4"
-    label: "Fig. 4"
-    src: figures/fig-3-4.jpg
+  - id: "fig-2-4"
+    label: "Fig. 4. —"
+    src: figures/fig-2-4.jpg
     zoom: true
     caption: "**Boris Klinch (Russian, 1892–1946)**. *“Krovovaia sobaka,” Noske* (“The
       bloody dog,” Noske), photomontage, 1932. From *Proletarskoe foto,* no. 11
       (1932): 29. Los Angeles, Getty Research Institute, 85-S956."
     longdesc: ''
     alt: ''
-  - id: "fig-3-5"
-    label: "Fig. 5"
-    src: figures/fig-3-5.jpg
+  - id: "fig-2-5"
+    label: "Fig. 5. —"
+    src: figures/fig-2-5.jpg
     zoom: true
     caption: "**Brigade KGK (Viktor Koretsky [1909–98], Vera Gitsevich [1897–1976], and
       Boris Knoblok [1903–84]).** “We have smashed the enemies of the Party, the
@@ -200,9 +200,9 @@ figure_list:
       2014.R.25."
     longdesc: ''
     alt: ''
-  - id: "fig-3-6"
-    label: "Fig. 6"
-    src: figures/fig-3-6.jpg
+  - id: "fig-2-6"
+    label: "Fig. 6. —"
+    src: figures/fig-2-6.jpg
     zoom: true
     caption: "**Brigade KGK (Viktor Koretsky [1909–98], Vera Gitsevich [1897–1976], and
       Boris Knoblok [1903–84]).** “There are two other types of executive who
@@ -216,40 +216,44 @@ figure_list:
       Institute, 2014.R.25."
     longdesc: ''
     alt: ''
-  - id: "fig-3-7"
-    label: "Fig. 7"
-    src: figures/fig-3-7.jpg
+  - id: "fig-2-7"
+    label: "Fig. 7. —"
+    src: figures/fig-2-7.jpg
     zoom: true
     caption: "**Artist unknown.** “The Social Democrat Grzesinski,” from *Proletarskoe
       foto,* no. 3 (1932): 7. Los Angeles, Getty Research Institute, 85-S956."
     longdesc: ''
     alt: ''
-  - id: "fig-3-8-a"
-    label: "Figs. 8a–c"
-    src: figures/fig-3-8-a.png
+  - id: "fig-2-8-a"
+    label: "Fig. 8a. —"
+    src: figures/fig-2-8-a.png
     zoom: true
     caption: "**Pavel Petrov-Bytov (Russian, 1895–1960), director.** Screen captures from
       the film *Cain and Artem*, 1929. Images courtesy University of California,
       Berkeley, Berkeley Art Museum and Pacific Film Archive Library."
     longdesc: ''
     alt: ''
-  - id: "fig-3-8-b"
-    label: ""
-    src: figures/fig-3-8-b.png
+  - id: "fig-2-8-b"
+    label: "Fig. 8b. —"
+    src: figures/fig-2-8-b.png
     zoom: true
-    caption: ""
+    caption: "**Pavel Petrov-Bytov (Russian, 1895–1960), director.** Screen captures from
+      the film *Cain and Artem*, 1929. Images courtesy University of California,
+      Berkeley, Berkeley Art Museum and Pacific Film Archive Library."
     longdesc: ''
     alt: ''
-  - id: "fig-3-8-c"
-    label: ""
-    src: figures/fig-3-8-c.png
+  - id: "fig-2-8-c"
+    label: "Fig. 8c. —"
+    src: figures/fig-2-8-c.png
     zoom: true
-    caption: ""
+    caption: "**Pavel Petrov-Bytov (Russian, 1895–1960), director.** Screen captures from
+      the film *Cain and Artem*, 1929. Images courtesy University of California,
+      Berkeley, Berkeley Art Museum and Pacific Film Archive Library."
     longdesc: ''
     alt: ''
-  - id: "fig-3-9"
-    label: "Fig. 9"
-    src: figures/fig-3-9.jpg
+  - id: "fig-2-9"
+    label: "Fig. 9. —"
+    src: figures/fig-2-9.jpg
     zoom: true
     caption: "**Herbert George Ponting (English, 1870–1935).** *Camera Caricature*, ca.
       1927, gelatin-silver prints mounted on card, 49.5 × 35.6 cm (grid). London,
@@ -257,26 +261,26 @@ figure_list:
       Society Collection / Victoria and Albert Museum, London."
     longdesc: ''
     alt: ''
-  - id: "fig-3-10"
-    label: "Fig. 10"
-    src: figures/fig-3-10.jpg
+  - id: "fig-2-10"
+    label: "Fig. 10. —"
+    src: figures/fig-2-10.jpg
     zoom: true
     caption: "**Aleksandr Zhitomirsky (Russian, 1907–93).** “There are lucky devils and
       unlucky ones,” cover of *Front-Illustrierte*, no. 10, April 1943. Prague, Ne
       Boltai! Collection. Art © Vladimir Zhitomirsky"
     longdesc: ''
     alt: ''
-  - id: "fig-4-1"
-    label: "Fig. 1"
-    src: figures/fig-4-1.jpg
+  - id: "fig-3-1"
+    label: "Fig. 1. —"
+    src: figures/fig-3-1.jpg
     zoom: true
     caption: "**Bennett Buck (US American, 1900–1982).** *Good Neighbor Policy,* 1938, oil
       on canvas, 150 × 90 cm. Private collection."
     longdesc: ''
     alt: ''
-  - id: "fig-4-2"
-    label: "Fig. 2"
-    src: figures/fig-4-2.jpg
+  - id: "fig-3-2"
+    label: "Fig. 2. —"
+    src: figures/fig-3-2.jpg
     zoom: true
     caption: "**José Clemente Orozco (Mexican, 1883–1947).** Panel 13, *Anglo-America,*
       from *The Epic of American Civilization*, 1932–34, fresco, 304.8 × 261.6 cm.
@@ -284,9 +288,9 @@ figure_list:
       Commissioned by the Trustees of Dartmouth College."
     longdesc: ''
     alt: ''
-  - id: "fig-4-3"
-    label: "Fig. 3"
-    src: figures/fig-4-3.jpg
+  - id: "fig-3-3"
+    label: "Fig. 3. —"
+    src: figures/fig-3-3.jpg
     zoom: true
     caption: "**José Clemente Orozco (Mexican, 1883–1947).** Panel 14, *Hispano-America*,
       from *The Epic of American Civilization*, 1932–34, fresco, 304.8 × 302.3 cm.
@@ -294,9 +298,9 @@ figure_list:
       Commissioned by the Trustees of Dartmouth College."
     longdesc: ''
     alt: ''
-  - id: "fig-4-4"
-    label: "Fig. 4"
-    src: figures/fig-4-4.jpg
+  - id: "fig-3-4"
+    label: "Fig. 4. —"
+    src: figures/fig-3-4.jpg
     zoom: true
     caption: "**José Clemente Orozco (Mexican, 1883–1947**). Panel 1, *Migration*, from
       *The Epic of American Civilization*, 1932–34, fresco, 321.3 × 266.7 cm.
@@ -304,9 +308,9 @@ figure_list:
       Commissioned by the Trustees of Dartmouth College."
     longdesc: ''
     alt: ''
-  - id: "fig-4-5"
-    label: "Fig. 5"
-    src: figures/fig-4-5.jpg
+  - id: "fig-3-5"
+    label: "Fig. 5. —"
+    src: figures/fig-3-5.jpg
     zoom: true
     caption: "**José Clemente Orozco (Mexican, 1883–1947).** *The Maguey*, 1928,
       lithograph, 25.1 × 40.5 cm. Colección Museo de Arte Carrillo Gil, INBAL,
@@ -315,9 +319,9 @@ figure_list:
       Instituto Nacional de Bellas Artes y Literatura, 2024."
     longdesc: ''
     alt: ''
-  - id: "fig-4-6"
-    label: "Fig. 6"
-    src: figures/fig-4-6.jpg
+  - id: "fig-3-6"
+    label: "Fig. 6. —"
+    src: figures/fig-3-6.jpg
     zoom: true
     caption: "**Installation view of *South of the Border: Mexico in the American
       Imagination, 1914–1947,*” with works by Bennett Buck, David Alfaro
@@ -325,18 +329,18 @@ figure_list:
       Art Gallery.**"
     longdesc: ''
     alt: ''
-  - id: "fig-4-7"
-    label: "Fig. 7"
-    src: figures/fig-4-7.jpg
+  - id: "fig-3-7"
+    label: "Fig. 7. —"
+    src: figures/fig-3-7.jpg
     zoom: true
     caption: "**Cover of *1938: Dedicated to the New Deal* (New York: A. C. A. Gallery,
       1938).** The Wolfsonian–FIU, Gift of Francis Xavier Luca and Clara Helena
       Palacio Luca, XC2014.03.1.9"
     longdesc: ''
     alt: ''
-  - id: "fig-4-8-a"
-    label: "Fig. 8"
-    src: figures/fig-4-8-a.jpg
+  - id: "fig-3-8"
+    label: "Fig. 8. —"
+    src: figures/fig-3-8.jpg
     zoom: true
     caption: "***Good Neighbor Policy* (1938) by Bennett Buck (US American, 1900–82) and
       *Filibuster Over the Senate* (ca. 1938, now lost) by Harry Sternberg (US
@@ -345,16 +349,16 @@ figure_list:
       Clara Helena Palacio Luca, XC2014.03.1.9."
     longdesc: ''
     alt: ''
-  - id: "fig-4-8-b"
-    label: ""
-    src: figures/fig-4-8-b.jpg
+  - id: "fig-3-8-b"
+    label: ". —"
+    src: figures/fig-3-8-b.jpg
     zoom: true
     caption: ""
     longdesc: ''
     alt: ''
-  - id: "fig-4-9"
-    label: "Fig. 9"
-    src: figures/fig-4-9.jpg
+  - id: "fig-3-9"
+    label: "Fig. 9. —"
+    src: figures/fig-3-9.jpg
     zoom: true
     caption: "**Joe Jones (US American, 1909–63).** *A Worker Again—On WPA*
       (Self-Portrait), ca. 1938, oil on canvas, 68.6 × 83.8 cm. From the
@@ -362,9 +366,9 @@ figure_list:
       Missouri-St. Louis."
     longdesc: ''
     alt: ''
-  - id: "fig-4-10"
-    label: "Fig. 10"
-    src: figures/fig-4-10.jpg
+  - id: "fig-3-10"
+    label: "Fig. 10. —"
+    src: figures/fig-3-10.jpg
     zoom: true
     caption: "**Bennett Buck (US American, 1900–82).** *Untitled (Hitch Hikers),* 1935,
       drypoint, 16.3 × 18.2 cm (image). Washington, DC, National Gallery of Art,
@@ -372,18 +376,18 @@ figure_list:
       Williams."
     longdesc: ''
     alt: ''
-  - id: "fig-4-11"
-    label: "Fig. 11"
-    src: figures/fig-4-11.jpg
+  - id: "fig-3-11"
+    label: "Fig. 11. —"
+    src: figures/fig-3-11.jpg
     zoom: true
     caption: "**Bennett Buck (US American, 1900–82).** *Bar Room*, 1935, drypoint, 16.3 ×
       18.2 cm (image). Washington, DC, National Gallery of Art, 2008.115.1097.
       Reba and Dave Williams Collection, Gift of Reba and Dave Williams."
     longdesc: ''
     alt: ''
-  - id: "fig-4-12"
-    label: "Fig. 12"
-    src: figures/fig-4-12.jpg
+  - id: "fig-3-12"
+    label: "Fig. 12. —"
+    src: figures/fig-3-12.jpg
     zoom: true
     caption: "**Bennett Buck (US American, 1900–82).** *The Color Line*, ca. 1936, from
       *Puerto Rico: Twelve Reproductions of Original Drawings by Bennett Buck*
@@ -392,9 +396,9 @@ figure_list:
       of the Latin American Library, Tulane University."
     longdesc: ''
     alt: ''
-  - id: "fig-4-13"
-    label: "FIg. 13"
-    src: figures/fig-4-13.jpg
+  - id: "fig-3-13"
+    label: "FIg. 13. —"
+    src: figures/fig-3-13.jpg
     zoom: true
     caption: "**Photograph showing (*left to right*) E. Gould Chalker, Bennett Buck, David
       (last name illegible), and Aldis B. Browne at the Essex Art Association,
@@ -402,18 +406,18 @@ figure_list:
       Association."
     longdesc: ''
     alt: ''
-  - id: "fig-4-14"
-    label: "Fig. 14"
-    src: figures/fig-4-14.jpg
+  - id: "fig-3-14"
+    label: "Fig. 14. —"
+    src: figures/fig-3-14.jpg
     zoom: true
     caption: "**Rufino Tamayo (Mexican, 1899–1991). *Fascism,* 1936, ink wash on paper,
       22.9 × 35 cm.** Syracuse, New York, Everson Museum of Art. Gift of H.
       Bennett Buck, PC 77.86.40. [**ARS credit line TK**.]"
     longdesc: ''
     alt: ''
-  - id: "fig-4-15"
-    label: "Fig. 15"
-    src: figures/fig-4-15.jpg
+  - id: "fig-3-15"
+    label: "Fig. 15. —"
+    src: figures/fig-3-15.jpg
     zoom: true
     caption: "***Planning & Construction* (1938, now lost) by Mervin Jules (US American,
       1912–94) from *1938: Dedicated to the New Deal* (New York: A.C.A. Gallery,
@@ -421,9 +425,9 @@ figure_list:
       Palacio Luca, XC2014.03.1.9."
     longdesc: ''
     alt: ''
-  - id: "fig-4-16"
-    label: "Fig. 16"
-    src: figures/fig-4-16.jpg
+  - id: "fig-3-16"
+    label: "Fig. 16. —"
+    src: figures/fig-3-16.jpg
     zoom: true
     caption: "***Unemployed* (1938, now lost) by Axel Horn (US American, 1913–2001) and
       *W.P.A.* (1938, now lost) by Theodore G. Haupt US American, 1902–90) from
@@ -432,90 +436,88 @@ figure_list:
       XC2014.03.1.9."
     longdesc: ''
     alt: ''
-  - id: "fig-4-17"
-    label: "Fig. 17"
-    src: figures/fig-4-17.jpg
+  - id: "fig-3-17"
+    label: "Fig. 17. —"
+    src: figures/fig-3-17.jpg
     zoom: true
     caption: "**Photocopies in the author’s possession from collectors’ provenance dossier
       (current location of original dossier unknown) supporting the misattribution
       of Bennett Buck’s *Good Neighbor Policy* to José Clemente Orozco.**"
     longdesc: ''
     alt: ''
-  - id: "fig-5-1"
-    label: "Fig. 1"
-    src: figures/fig-5-1.jpg
+  - id: "fig-4-1"
+    label: "Fig. 1. —"
+    src: figures/fig-4-1.jpg
     zoom: true
     caption: '**Cover of *Artforum* 11, no. 1 (September 1972).**'
     longdesc: ''
     alt: ''
-  - id: "fig-5-2"
-    label: "Fig. 2"
-    src: figures/fig-5-2.jpg
+  - id: "fig-4-2"
+    label: "Fig. 2. —"
+    src: figures/fig-4-2.jpg
     zoom: true
     caption: "**Telegram sent by John Coplans to David Antin, 2 June 1972.** Los Angeles,
       Getty Research Institute, 2008.M.56. © The John Coplans Trust."
     longdesc: ''
     alt: ''
-  - id: "fig-5-3"
-    label: "Fig. 3"
-    src: figures/fig-5-3.jpg
+  - id: "fig-4-3"
+    label: "Fig. 3. —"
+    src: figures/fig-4-3.jpg
     zoom: true
     caption: "**Douglas Huebler (American, 1924–97).** *Duration Piece, No. 15 Global*,
       1969, [**[medium TK]]**. © 2023 Estate of Douglas Huebler / Artists Rights
       Society (ARS), New York. Courtesy Paula Cooper Gallery, New York"
     longdesc: ''
     alt: ''
-  - id: "fig-5-4"
-    label: "Fig. 4"
-    src: figures/fig-5-4.jpg
+  - id: "fig-4-4"
+    label: "Fig. 4. —"
+    src: figures/fig-4-4.jpg
     zoom: true
     caption: "**Fred Lonidier (American, b. 1942).** Photograph of David Antin, 1973.
       Courtesy the artist."
     longdesc: ''
     alt: ''
-  - id: "fig-5-5"
-    label: "Figs. 5a, 5b"
-    src: figures/fig-5-5.jpg
+  - id: "fig-4-5-a"
+    label: " "
+    src: figures/fig-4-5-a.jpg
     zoom: true
-    caption: "**Postcard, front and back, of David Antin delivering the talk “Figures of
-      Thought or Figures of Thinking,” 80 Langton Street, San Francisco,
-      California, 13 May 1978.**"
+    caption: 
     longdesc: ''
     alt: ''
-  - id: "fig-5-5-a"
-    label: ""
-    src: figures/fig-5-5-a.jpg
+  - id: "fig-4-5-b"
+    label: " "
+    src: figures/fig-4-5-b.jpg
     zoom: true
-    caption: ""
+    caption: 
     longdesc: ''
     alt: ''
-  - id: "fig-5-6-b"
-    label: "Fig. 6"
-    src: figures/fig-5-6-b.jpg
+  - id: "fig-4-6"
+    label: "Fig. 6. —"
+    src: figures/fig-4-6.jpg
     zoom: true
     caption: "**Les Levine (Irish, b. 1935).** Photographs shot from the video version of
       *Critic*, 1966. Courtesy the artist."
     longdesc: ''
     alt: ''
-  - id: "fig-5-7"
-    label: "Fig. 7"
-    src: figures/fig-5-7.jpg
+  - id: "fig-4-7"
+    label: "Fig. 7. —"
+    src: figures/fig-4-7.jpg
     zoom: true
     caption: "**Cover of David Antin, *talking at the boundaries* (New York: New
       Directions, 1976).**"
     longdesc: ''
     alt: ''
-  - id: "fig-5-8"
-    label: "Fig. 8"
-    src: figures/fig-5-8.jpg
+  - id: "fig-4-8"
+    label: "Fig. 8. —"
+    src: figures/fig-4-8.jpg
     zoom: true
     caption: "**Gregg Bordowitz delivering improvised talk piece at Bridget Donahue
       Gallery, New York, 2019.** Photo by Oto Gillen. Courtesy the artist."
     longdesc: ''
     alt: ''
-  - id: "fig-6-1"
-    label: "Fig. 1"
-    src: figures/fig-6-1.jpg
+  - id: "fig-5-1"
+    label: "Fig. 1. —"
+    src: figures/fig-5-1.jpg
     zoom: true
     caption: "**Gerd Sander at the opening of *Lisette Model Photographs* (September
       25—October 30, 1976), Sander Gallery, Washington, D.C., September 1976.**
@@ -523,18 +525,18 @@ figure_list:
       Lisette Model Foundation, Inc. (1983). Used by permission."
     longdesc: ''
     alt: ''
-  - id: "fig-6-2"
-    label: "Fig. 2"
-    src: figures/fig-6-2.jpg
+  - id: "fig-5-2"
+    label: "Fig. 2. —"
+    src: figures/fig-5-2.jpg
     zoom: true
     caption: "**Price list for works in the exhibition *Lisette Model Photographs*, Sander
       Gallery, Washington, DC, 25 September 1976**. Cologne, Germany, August
       Sander Stiftung."
     longdesc: ''
     alt: ''
-  - id: "fig-6-3"
-    label: "Fig. 3"
-    src: figures/fig-6-3.jpg
+  - id: "fig-5-3"
+    label: "Fig. 3. —"
+    src: figures/fig-5-3.jpg
     zoom: true
     caption: "***Lisette Model: Twelve Photographs* (Washington, D.C.: Graphics
       International, 1976).** Washington, D.C., National Gallery of Art,
@@ -543,9 +545,9 @@ figure_list:
       Used by permission."
     longdesc: ''
     alt: ''
-  - id: "fig-6-4"
-    label: "Fig. 4"
-    src: figures/fig-6-4.jpg
+  - id: "fig-5-4"
+    label: "Fig. 4. —"
+    src: figures/fig-5-4.jpg
     zoom: true
     caption: "**Lisette Model (US American, b. Austria, 1901–83)**. *Woman with Veil, San
       Francisco*, 1949, gelatin silver print, 34.9 × 27 cm. Los Angeles, J. Paul
@@ -553,9 +555,9 @@ figure_list:
       Lebon / Keitelman."
     longdesc: ''
     alt: ''
-  - id: "fig-6-5"
-    label: "Fig. 5"
-    src: figures/fig-6-5.jpg
+  - id: "fig-5-5"
+    label: "Fig. 5. —"
+    src: figures/fig-5-5.jpg
     zoom: true
     caption: "**Cataloging card for the eleven-by-fourteen-inch print of Lisette Model’s
       *Coney Island* (1941) acquired in 1943 by the Museum of Modern Art, New
@@ -564,9 +566,9 @@ figure_list:
       Lisette Model Foundation, Inc. (1983). Used by permission."
     longdesc: ''
     alt: ''
-  - id: "fig-6-6"
-    label: "Fig. 6"
-    src: figures/fig-6-6.jpg
+  - id: "fig-5-6"
+    label: "Fig. 6. —"
+    src: figures/fig-5-6.jpg
     zoom: true
     caption: "**Cataloging card for the sixteen-by-twenty-inch replacement print of
       Lisette Model’s *Coney Island* (1941) produced by the artist in 1964 for the
@@ -576,9 +578,9 @@ figure_list:
       (1983). Used by permission."
     longdesc: ''
     alt: ''
-  - id: "fig-6-7"
-    label: "Fig. 7"
-    src: figures/fig-6-7.jpg
+  - id: "fig-5-7"
+    label: "Fig. 7. —"
+    src: figures/fig-5-7.jpg
     zoom: true
     caption: "**Lisette Model’s work printed by Gerd Sander in 1976, installed in the
       exhibition, *Lisette Model Photographs* (25 September 30—October 1976),
@@ -587,18 +589,18 @@ figure_list:
       (1983). Used by permission."
     longdesc: ''
     alt: ''
-  - id: "fig-6-8"
-    label: "Fig. 8"
-    src: figures/fig-6-8.jpg
+  - id: "fig-5-8"
+    label: "Fig. 8. —"
+    src: figures/fig-5-8.jpg
     zoom: true
     caption: "**Harry Lunn (*left*) with Lisette Model (*center*), ca. 1975, gelatin
       silver print.** Photographer unknown. Cologne, Germany, August Sander
       Stiftung."
     longdesc: ''
     alt: ''
-  - id: "fig-6-9"
-    label: "Fig. 9"
-    src: figures/fig-6-9.jpg
+  - id: "fig-5-9"
+    label: "Fig. 9. —"
+    src: figures/fig-5-9.jpg
     zoom: true
     caption: "***Lisette Model: Twelve Photographs* (Washington, DC: Graphics
       International, 1976).** Washington, DC, National Gallery of Art,
@@ -607,18 +609,18 @@ figure_list:
       Used by permission."
     longdesc: ''
     alt: ''
-  - id: "fig-6-10"
-    label: "Fig. 10"
-    src: figures/fig-6-10.jpg
+  - id: "fig-5-10"
+    label: "Fig. 10. —"
+    src: figures/fig-5-10.jpg
     zoom: true
     caption: "**Hans Namuth (US American, 1915­–90).** Untitled (Barnett Newman), 1951,
       **[media TK, dims TK]**. © 1991 Hans Namuth Estate, Courtesy Center for
       Creative Photography."
     longdesc: ''
     alt: ''
-  - id: "fig-6-11"
-    label: "Fig. 11"
-    src: figures/fig-6-11.jpg
+  - id: "fig-5-11"
+    label: "Fig. 11. —"
+    src: figures/fig-5-11.jpg
     zoom: true
     caption: "**Lisette Model (US American, b. Austria, 1901–83)**. *Blind Man Walking,
       Paris*, 1933–38, gelatin silver print on newspaper mount, 30.4 × 25.2 cm
@@ -627,27 +629,27 @@ figure_list:
       permission."
     longdesc: ''
     alt: ''
-  - id: "fig-6-12"
-    label: "Fig. 12"
-    src: figures/fig-6-12.jpg
+  - id: "fig-5-12"
+    label: "Fig. 12. —"
+    src: figures/fig-5-12.jpg
     zoom: true
     caption: "**Cover of Michel Seuphor, *Lecture élémentaire: Algèbre des facilités et
       tout le roman des lettres* (Paris: Les Ecrivains réunis, 1928).** Based on a
       painting by Evsa Model (US American, b. Russia, 1899–1976)."
     longdesc: ''
     alt: ''
-  - id: "fig-6-13"
-    label: "Fig. 13"
-    src: figures/fig-6-13.jpg
+  - id: "fig-5-13"
+    label: "Fig. 13. —"
+    src: figures/fig-5-13.jpg
     zoom: true
     caption: "**Price sheet for *Lisette Model: Twelve Photographs* (1976), issued by
       Graphics International, Washington, DC, late 1977.** Los Angeles, Getty
       Research Institute, Harry Lunn papers, 2004.M.17."
     longdesc: ''
     alt: ''
-  - id: "fig-7-1"
-    label: "Fig. 1"
-    src: figures/fig-7-1.jpg
+  - id: "fig-6-1"
+    label: "Fig. 1. —"
+    src: figures/fig-6-1.jpg
     zoom: true
     caption: "**Aerial view (looking east) of Eastern State Penitentiary, 2125 Fairmount
       Avenue, Philadelphia, Pennsylvania, after 1933**. Photograph by Jack E.
@@ -655,18 +657,18 @@ figure_list:
       of Congress Prints and Photographs Division, HABS PA–1729."
     longdesc: ''
     alt: ''
-  - id: "fig-7-2"
-    label: "Fig. 2"
-    src: figures/fig-7-2.jpg
+  - id: "fig-6-2"
+    label: "Fig. 2. —"
+    src: figures/fig-6-2.jpg
     zoom: true
     caption: "**1920s entrance facade with cars, before the addition of a vestibule.**
       Photograph courtesy of Eastern State Penitentiary Historic Site,
       Philadelphia, PA."
     longdesc: ''
     alt: ''
-  - id: "fig-7-3"
-    label: "Fig. 3"
-    src: figures/fig-7-3.jpg
+  - id: "fig-6-3"
+    label: "Fig. 3. —"
+    src: figures/fig-6-3.jpg
     zoom: true
     caption: "**Cellblock seven at the Eastern State Penitentiary in Philadelphia,
       Pennsylvania.** Photograph by Carol M. Highsmith, 2019. Courtesy of the
@@ -674,9 +676,9 @@ figure_list:
       Archive, LC-DIG-highsm-56325."
     longdesc: ''
     alt: ''
-  - id: "fig-7-4"
-    label: "Fig. 4"
-    src: figures/fig-7-4.jpg
+  - id: "fig-6-4"
+    label: "Fig. 4. —"
+    src: figures/fig-6-4.jpg
     zoom: true
     caption: "**Cindy Stockton Moore (US American, b. 1975).** Installation view of *Other
       Absences*, 2014, ink wash portraits on mylar and ledger on pedestal.
@@ -684,9 +686,9 @@ figure_list:
       courtesy of Eastern State Penitentiary Historic Site, Philadelphia, PA."
     longdesc: ''
     alt: ''
-  - id: "fig-7-5"
-    label: "Fig. 5"
-    src: figures/fig-7-5.jpg
+  - id: "fig-6-5"
+    label: "Fig. 5. —"
+    src: figures/fig-6-5.jpg
     zoom: true
     caption: "**Exhibition didactic titled “Mass Incarceration Isn’t Working,” part of the
       permanent exhibition *Prisons Today: Questions in the Age of Mass
@@ -695,9 +697,9 @@ figure_list:
       Penitentiary Historic Site, Philadelphia, PA."
     longdesc: ''
     alt: ''
-  - id: "fig-7-6"
-    label: "Fig. 6"
-    src: figures/fig-7-6.jpg
+  - id: "fig-6-6"
+    label: "Fig. 6. —"
+    src: figures/fig-6-6.jpg
     zoom: true
     caption: "**Exhibition didactic titled “Have you ever broken the law?,” part of the
       permanent exhibition *Prisons Today: Questions in the Age of Mass
@@ -706,9 +708,9 @@ figure_list:
       Penitentiary Historic Site, Philadelphia, PA."
     longdesc: ''
     alt: ''
-  - id: "fig-7-7"
-    label: "Fig. 7"
-    src: figures/fig-7-7.jpg
+  - id: "fig-6-7"
+    label: "Fig. 7. —"
+    src: figures/fig-6-7.jpg
     zoom: true
     caption: "**Exhibition didactic titled “What Are Prisons For?,” part of the permanent
       exhibition *Prisons Today: Questions in the Age of Mass Incarceration,*
@@ -717,9 +719,9 @@ figure_list:
       Penitentiary Historic Site, Philadelphia, PA."
     longdesc: ''
     alt: ''
-  - id: "fig-7-8"
-    label: "Fig. 8"
-    src: figures/fig-7-8.jpg
+  - id: "fig-6-8"
+    label: "Fig. 8. —"
+    src: figures/fig-6-8.jpg
     zoom: true
     caption: "***The Big Graph* installed in the prison yard adjacent to cellblock 4, seen
       from the northeast, Philadelphia, Eastern State Penitentiary Historic Site,
@@ -727,18 +729,18 @@ figure_list:
       Eastern State Penitentiary Historic Site, Philadelphia, PA."
     longdesc: ''
     alt: ''
-  - id: "fig-7-9"
-    label: "Fig. 9"
-    src: figures/fig-7-9.jpg
+  - id: "fig-6-9"
+    label: "Fig. 9. —"
+    src: figures/fig-6-9.jpg
     zoom: true
     caption: "**Ted Shelton (US American, b. 1969) and Tricia Stuth (US American, b.
       1973).** Installation plan, 2005, for *Point—Counterpoint* (2005). Courtesy
       of Ted Shelton and Tricia Stuth."
     longdesc: ''
     alt: ''
-  - id: "fig-7-10"
-    label: "Fig. 10"
-    src: figures/fig-7-10.jpg
+  - id: "fig-6-10"
+    label: "Fig. 10. —"
+    src: figures/fig-6-10.jpg
     zoom: true
     caption: "**Ted Shelton (US American, b. 1969) and Tricia Stuth (US American, b.
       1973).** View of *Point—Counterpoint* (2005) from cell five, looking out to
@@ -746,27 +748,27 @@ figure_list:
       Laquinta / Halkin Photography."
     longdesc: ''
     alt: ''
-  - id: "fig-8-1"
-    label: "Fig. 1"
-    src: figures/fig-8-1.jpg
+  - id: "fig-7-1"
+    label: "Fig. 1. —"
+    src: figures/fig-7-1.jpg
     zoom: true
     caption: "**Cover of a shared sketchbook belonging to Raymond Bonheur (French,
       1796–1849) and Rosa Bonheur (French, 1822–99), ca. 1835–55.** Los Angeles,
       Getty Research Institute, 850837."
     longdesc: ''
     alt: ''
-  - id: "fig-8-2"
-    label: "Fig. 2"
-    src: figures/fig-8-2.jpg
+  - id: "fig-7-2"
+    label: "Fig. 2. —"
+    src: figures/fig-7-2.jpg
     zoom: true
     caption: "**Rosa Bonheur (French, 1822–99) and Raymond Bonheur (French, 1796–1849).**
       Shared sketchbook, ca. 1835–55, 4v and 5r. Los Angeles, Getty Research
       Institute, 850837."
     longdesc: ''
     alt: ''
-  - id: "fig-8-3"
-    label: "Fig. 3"
-    src: figures/fig-8-3.jpg
+  - id: "fig-7-3"
+    label: "Fig. 3. —"
+    src: figures/fig-7-3.jpg
     zoom: true
     caption: "**Raymond Bonheur (French, 1796–1849).** Ink-and-wash drawing of trees, a
       mountainscape, and clouds from sketchbook shared by Rosa Bonheur (1822–99)
@@ -774,9 +776,9 @@ figure_list:
       Institute, 850837."
     longdesc: ''
     alt: ''
-  - id: "fig-8-4"
-    label: "Fig. 4"
-    src: figures/fig-8-4.jpg
+  - id: "fig-7-4"
+    label: "Fig. 4. —"
+    src: figures/fig-7-4.jpg
     zoom: true
     caption: "**Raymond Bonheur (French, 1796–1849).** Ink-and-pencil drawing of a
       crouching figure from sketchbook shared by Rosa Bonheur (1822–99) and
@@ -784,9 +786,9 @@ figure_list:
       850837."
     longdesc: ''
     alt: ''
-  - id: "fig-8-5"
-    label: "Fig. 5"
-    src: figures/fig-8-5.jpg
+  - id: "fig-7-5"
+    label: "Fig. 5. —"
+    src: figures/fig-7-5.jpg
     zoom: true
     caption: "**Raymond Bonheur (French, 1796–1849).** *Portrait of Rosa and Auguste
       Bonheur as Children*, 1826, oil on canvas, 94.8 × 80.6 cm. Bordeaux, Musée
@@ -794,27 +796,27 @@ figure_list:
       photo: F. Deval."
     longdesc: ''
     alt: ''
-  - id: "fig-8-6"
-    label: "Fig. 6"
-    src: figures/fig-8-6.jpg
+  - id: "fig-7-6"
+    label: "Fig. 6. —"
+    src: figures/fig-7-6.jpg
     zoom: true
     caption: "**Auguste Bonheur (French, 1824–84).** *Portrait of Rosa Bonheur*, 1848, oil
       on canvas, 130.5 × 98.3 cm. Bordeaux, Musée des Beaux-arts, Bx E 1169. Image
       © Mairie de Bordeaux, Musée des Beaux-Arts, photo: F. Deval."
     longdesc: ''
     alt: ''
-  - id: "fig-8-7"
-    label: "Fig. 7"
-    src: figures/fig-8-7.jpg
+  - id: "fig-7-7"
+    label: "Fig. 7. —"
+    src: figures/fig-7-7.jpg
     zoom: true
     caption: "**Rosa Bonheur (French, 1822–99).** Pencil drawing of two seated figures
       from sketchbook shared by Rosa Bonheur and Raymond Bonheur (1796–1849), ca.
       1835–55, 2r. Los Angeles, Getty Research Institute, 850837."
     longdesc: ''
     alt: ''
-  - id: "fig-8-8"
-    label: "Fig. 8"
-    src: figures/fig-8-8.jpg
+  - id: "fig-7-8"
+    label: "Fig. 8. —"
+    src: figures/fig-7-8.jpg
     zoom: true
     caption: "**Rosa Bonheur (French, 1822–99).** Watercolor and pencil drawing of a bird,
       with annotations for color, from sketchbook shared by Rosa Bonheur and
@@ -822,18 +824,18 @@ figure_list:
       Institute, 850837."
     longdesc: ''
     alt: ''
-  - id: "fig-8-9"
-    label: "Fig. 9"
-    src: figures/fig-8-9.jpg
+  - id: "fig-7-9"
+    label: "Fig. 9. —"
+    src: figures/fig-7-9.jpg
     zoom: true
     caption: "**Rosa Bonheur (French, 1822–99).** Pencil drawing of horses from sketchbook
       shared by Rosa Bonheur and Raymond Bonheur (1796–1849), ca. 1835–55, 43v.
       Los Angeles, Getty Research Institute, 850837."
     longdesc: ''
     alt: ''
-  - id: "fig-8-10"
-    label: "Fig. 10"
-    src: figures/fig-8-10.jpg
+  - id: "fig-7-10"
+    label: "Fig. 10. —"
+    src: figures/fig-7-10.jpg
     zoom: true
     caption: "**Rosa Bonheur (French, 1822–99).** Sheet of studies for *The Horse Fair*,
       ca. 1850, black chalk and graphite on paper, 18.4 × 41.1 cm. New York,
@@ -841,27 +843,27 @@ figure_list:
       Olson, in honor of Jacob Bean, 1991."
     longdesc: ''
     alt: ''
-  - id: "fig-8-11"
-    label: "Fig. 11"
-    src: figures/fig-8-11.jpg
+  - id: "fig-7-11"
+    label: "Fig. 11. —"
+    src: figures/fig-7-11.jpg
     zoom: true
     caption: "**Rosa Bonheur (French, 1822–99).** Pencil drawing of a horse and cart with
       additional studies from sketchbook shared by Rosa Bonheur and Raymond
       Bonheur (1796–1849), ca. 1835–55, leaves 47v and 48r."
     longdesc: ''
     alt: ''
-  - id: "fig-8-12"
-    label: "Fig. 12"
-    src: figures/fig-8-12.jpg
+  - id: "fig-7-12"
+    label: "Fig. 12. —"
+    src: figures/fig-7-12.jpg
     zoom: true
     caption: "**Rosa Bonheur (French, 1822–99).** Pencil drawings of a cradle scythe from
       sketchbook shared by Rosa Bonheur and Raymond Bonheur (1796–1849), ca.
       1835–55, 37v and 38r. Los Angeles, Getty Research Institute, 850837."
     longdesc: ''
     alt: ''
-  - id: "fig-9-1"
-    label: "Fig. 1"
-    src: figures/fig-9-1.jpg
+  - id: "fig-8-1"
+    label: "Fig. 1. —"
+    src: figures/fig-8-1.jpg
     zoom: true
     caption: "**Installation view of Felipe Baeza’s *Unruly Forms* in Querétaro, Mexico,
       2023.** *Unruly Forms,* presented by Public Art Fund, is an exhibition on
@@ -871,9 +873,9 @@ figure_list:
       courtesy Public Art Fund, NY."
     longdesc: ''
     alt: ''
-  - id: "fig-9-2"
-    label: "Fig. 2"
-    src: figures/fig-9-2.jpg
+  - id: "fig-8-2"
+    label: "Fig. 2. —"
+    src: figures/fig-8-2.jpg
     zoom: true
     caption: "**Installation view of Felipe Baeza’s *Unruly Forms* in Boston, 2023.**
       *Unruly Forms,* presented by Public Art Fund, is an exhibition on more than
@@ -883,9 +885,9 @@ figure_list:
       Art Fund, NY."
     longdesc: ''
     alt: ''
-  - id: "fig-9-3"
-    label: "Fig. 3"
-    src: figures/fig-9-3.jpg
+  - id: "fig-8-3"
+    label: "Fig. 3. —"
+    src: figures/fig-8-3.jpg
     zoom: true
     caption: "**Installation view of Felipe Baeza’s *Unruly Forms* in New York, 2023.**
       *Unruly Forms,* presented by Public Art Fund, is an exhibition on more than
@@ -895,9 +897,9 @@ figure_list:
       Public Art Fund, NY."
     longdesc: ''
     alt: ''
-  - id: "fig-9-4"
-    label: "Fig. 4"
-    src: figures/fig-9-4.jpg
+  - id: "fig-8-4"
+    label: "Fig. 4. —"
+    src: figures/fig-8-4.jpg
     zoom: true
     caption: "**Felipe Baeza viewing a bus shelter located at the intersection of S. Damen
       and S. Blue Island Avenues in the Pilsen neighborhood of Chicago featuring
@@ -905,9 +907,9 @@ figure_list:
       Forms*.** Photograph by Laura G. Gutiérrez, September 2023."
     longdesc: ''
     alt: ''
-  - id: "fig-9-5"
-    label: "Fig. 5"
-    src: figures/fig-9-5.jpg
+  - id: "fig-8-5"
+    label: "Fig. 5. —"
+    src: figures/fig-8-5.jpg
     zoom: true
     caption: "**Felipe Baeza at a bus shelter located at the intersection of S. Damen
       Avenue and W. 18th Street in the Pilsen neighborhood of Chicago featuring
@@ -915,9 +917,9 @@ figure_list:
       Forms.*** Photograph by Laura G. Gutiérrez, September 2023."
     longdesc: ''
     alt: ''
-  - id: "fig-9-6"
-    label: "Fig. 6"
-    src: figures/fig-9-6.jpg
+  - id: "fig-8-6"
+    label: "Fig. 6. —"
+    src: figures/fig-8-6.jpg
     zoom: true
     caption: "**Graciela Iturbide (Mexican, b. 1942).** *Magnolia, Juchitán, Oaxaca,* 1986
       (negative); 2005 (print). Gelatin silver print, 44.5 × 31.5 cm. Los Angeles,
@@ -925,59 +927,55 @@ figure_list:
       Greenberg. © Graciela Iturbide."
     longdesc: ''
     alt: ''
-  - id: "fig-9-7a-FPO"
-    label: "Fig. 7"
-    src: figures/fig-9-7a-FPO.png
-    zoom: true
-    caption: "**Nahum B. Zenil (Mexican, b. 1947).** ¡*Oh, santa bandera! (A Enrique
-      Guzmán)* (Oh, Holy Flag! [For Enrique Guzmán]), 1996, ink, acrylic, and oil
-      on paper, triptych: [[**dimensions TK**]]. Mexico City, Museo Universitario
-      Arte Contemporáneo, acquisition with funds from the Presupuesto de Egresos
-      de la Federación, 2013."
-    longdesc: ''
-    alt: ''
-  - id: "fig-9-7b-FPO"
+  - id: "fig-8-7a-FPO"
     label: ""
-    src: figures/fig-9-7b-FPO.png
+    src: figures/fig-8-7a-FPO.png
     zoom: true
     caption: ""
     longdesc: ''
     alt: ''
-  - id: "fig-9-7c-FPO"
+  - id: "fig-8-7b-FPO"
     label: ""
-    src: figures/fig-9-7c-FPO.png
+    src: figures/fig-8-7b-FPO.png
     zoom: true
     caption: ""
     longdesc: ''
     alt: ''
-  - id: "fig-9-8-FPO"
-    label: "Fig. 8"
-    src: figures/fig-9-8-FPO.jpg
+  - id: "fig-8-7c-FPO"
+    label: ""
+    src: figures/fig-8-7c-FPO.png
+    zoom: true
+    caption: ""
+    longdesc: ''
+    alt: ''
+  - id: "fig-8-8-FPO"
+    label: "Fig. 8. —"
+    src: figures/fig-8-8-FPO.jpg
     zoom: true
     caption: "**Nahum B. Zenil (Mexican, b. 1947).** *Original-language title TK*
       (Self-Portrait with Thorns), 1992, oil on wood, 70 × 50 cm. Private
       collection."
     longdesc: ''
     alt: ''
-  - id: "fig-9-9"
-    label: "Fig. 9"
-    src: figures/fig-9-9.jpg
+  - id: "fig-8-9"
+    label: "Fig. 9. —"
+    src: figures/fig-8-9.jpg
     zoom: true
     caption: "**Felipe Baeza working in his studio at the Getty Research Institute,
       2022.** Photograph courtesy the Getty Research Institute, Los Angeles."
     longdesc: ''
     alt: ''
-  - id: "fig-9-10"
-    label: "Fig. 10"
-    src: figures/fig-9-10.jpg
+  - id: "fig-8-10"
+    label: "Fig. 10. —"
+    src: figures/fig-8-10.jpg
     zoom: true
     caption: "**Felipe Baeza in his studio at the Getty Research Institute, 2022.**
       Photograph courtesy the Getty Research Institute, Los Angeles."
     longdesc: ''
     alt: ''
-  - id: "fig-9-11"
-    label: "Fig. 11"
-    src: figures/fig-9-11.jpg
+  - id: "fig-8-11"
+    label: "Fig. 11. —"
+    src: figures/fig-8-11.jpg
     zoom: true
     caption: "**Codex-style plate, Maya, late classic period, 640–740 CE, earthenware; red
       and black on cream slip paint, diam.: 5.8 × 32 cm.** Boston, Museum of Fine
@@ -985,9 +983,9 @@ figure_list:
       Arts, Boston."
     longdesc: ''
     alt: ''
-  - id: "fig-9-12"
-    label: "Fig. 12"
-    src: figures/fig-9-12.jpg
+  - id: "fig-8-12"
+    label: "Fig. 12. —"
+    src: figures/fig-8-12.jpg
     zoom: true
     caption: "**Felipe Baeza (Mexican, b. 1987, active in the US).** *to shape, shape
       self*, 2023, ink, acrylic, graphite, varnish, and cut paper on panel, 40.6 ×
@@ -995,9 +993,9 @@ figure_list:
       kurimanzutto, Mexico City / New York. Photograph by Brad Farwell."
     longdesc: ''
     alt: ''
-  - id: "fig-9-13"
-    label: "Fig. 13"
-    src: figures/fig-9-13.jpg
+  - id: "fig-8-13"
+    label: "Fig. 13. —"
+    src: figures/fig-8-13.jpg
     zoom: true
     caption: "**Felipe Baeza (Mexican, b. 1987, active in the US).** *Our shadows
       merging*, 2023, ink, graphite, varnish, and cut paper on panel, 40.6 × 30.5
@@ -1005,9 +1003,9 @@ figure_list:
       kurimanzutto, Mexico City / New York. Photograph by Brad Farwell."
     longdesc: ''
     alt: ''
-  - id: "fig-9-14"
-    label: "Fig. 14"
-    src: figures/fig-9-14.jpg
+  - id: "fig-8-14"
+    label: "Fig. 14. —"
+    src: figures/fig-8-14.jpg
     zoom: true
     caption: "**Felipe Baeza (Mexican, b. 1987, active in the US).** *Confined but still
       intoxicated with freedom*, 2022, ink, graphite, varnish, and cut paper on
@@ -1016,9 +1014,9 @@ figure_list:
       Research Institute, Los Angeles."
     longdesc: ''
     alt: ''
-  - id: "fig-9-unnumbered"
+  - id: "fig-8-unnumbered"
     label: ''
-    src: figures/fig-9-unnumbered.jpg
+    src: figures/fig-8-unnumbered.jpg
     zoom: true
     caption: "**Felipe Baeza and Laura G. Gutiérrez at a bus shelter located at the
       intersection of S. Damen Avenue and W. 18th Street in the Pilsen
