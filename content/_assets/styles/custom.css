@@ -308,8 +308,12 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   margin-left: var(--large-indent);
 }
 .quire-page__content .container .content > h2:first-child + p,
-.quire-page__content .container .content > p:first-child {
+.quire-page__content .container .content > p:first-child,
+.quire-page__content .container .content > blockquote:first-child + p {
   text-indent: var(--large-indent);
+}
+.quire-page__content .container .content > blockquote:first-child {
+  margin-left: var(--large-indent);
 }
 @media print {
   .quire-page__content .container .content > h2:first-child,
@@ -481,6 +485,9 @@ strong {
   .quire-page__content .content h3 {
     margin-bottom: 0;
   }
+}
+.quire-page__content .container .content hr::after {
+  color: var(--accent-color);
 }
 
 /* BLOCKQUOTES
@@ -1331,6 +1338,12 @@ table.sahragard-table-01 img {
 }
 #table-3-1 table td > em {
   margin-left: -0.75rem;
+}
+
+/* Blockquotes in talking-criticism-with-david-antin */
+.poetry-tab {
+  display: inline-block;
+  width: 4rem;
 }
 
 /* Fix too wide margins in TOC */

@@ -14,9 +14,9 @@ keywords: "criticism, talking, David Antin, conceptual art, performance, Gregg B
 doi: ""
 ---
 
-What have we been doing? What are we addressing ourselves to, in what way, who do we hope to *talk* to, and in view of what urgencies?
-
-David Antin, letter to Leo Steinberg regarding “The Goals of Criticism”
+> What have we been doing? What are we addressing ourselves to, in what way, who do we hope to *talk* to, and in view of what urgencies?
+> 
+> David Antin, letter to Leo Steinberg regarding “The Goals of Criticism”
 
 In the 1960s, David Antin worked along two parallel tracks. Deeply involved with the New American Poetry, he wrote poems “with prefabricated and readymade materials, recycling texts and fragments of texts, enclosing valuable and used up talk and thought and feeling, hoping to save what was worth saving, liberate it and throw the rest away.”[^1] Alongside poet and translator Jerome Rothenberg, he also edited, between 1965 and 1968, four issues of the poetry journal *some/thing*, which featured work by writers such as Jackson Mac Low and Margaret Randall, and its covers were graced with work by artists including Amy Mendelson, Robert Morris, Andy Warhol, and George Maciunas. The covers point to Antin’s other activity at the time—the writing of art criticism. Antin, in fact, was one of the first critics to seriously consider the output of Morris and Warhol, and he wrote about other important contemporary artists, including Alex Katz and Jean Tinguely, for publications such as *Art News* and *Art and Literature*. On occasion he authored wide-ranging essays on other topics, for example, the influence of corporate money on contemporary art. An early biographical sketch describes his activities this way: “Poet, linguist, critic David Antin is an enthusiastic spectator of new painting and sculpture which he relates to modern ideas in science, philosophy and literature.”[^2]
 
@@ -26,9 +26,9 @@ Dispensing with desk and typewriter, Antin’s talking took shape live, without 
 
 ## orality / audience / community
 
-Radio and gramophone and tape recorder gave us back the poet’s voice as an important dimension of the poetic experience. . . . But TV, with its deep-participation mode, caused young poets suddenly to present their poems in cafés, in public parks, anywhere. After TV, they suddenly felt the need for personal contact with their public.
-
-Marshall McLuhan, *Understanding Media: The Extensions of Man*
+> Radio and gramophone and tape recorder gave us back the poet’s voice as an important dimension of the poetic experience. . . . But TV, with its deep-participation mode, caused young poets suddenly to present their poems in cafés, in public parks, anywhere. After TV, they suddenly felt the need for personal contact with their public.
+> 
+> Marshall McLuhan, *Understanding Media: The Extensions of Man*
 
 I would like to begin with two questions: Why did Antin’s work take the form of talking in the early 1970s? And how did his talking alter the conventions of criticism regarding position and voice? Certainly, Antin belonged to a larger groundswell in poetic thinking. “For poets of the 1950s and 1960s, a new oral impulse served as a corrective to the rhetorically controlled, print-based poetry of high modernism,” scholar Michael Davidson writes.[^8] Influences outside poetics exerted their energies too. Media theorist Marshall McLuhan claimed that a new orality was taking shape in culture at large. If Gutenberg’s press, invented in the fifteenth century, had pushed Western culture into a linear, literate, and visual order, McLuhan believed that new technologies were launching it into acoustic space: “In the electronic age which succeeds the typographic and mechanical era of the past five hundred years, we encounter new shapes and structures of human interdependence and of expression which are ‘oral’ in form even when the components of the situation may be nonverbal,” McLuhan notes in his 1962 treatise *The Gutenberg Galaxy: The Making of Typographic Man*.[^9] McLuhan’s ideas animated Antin’s circle, with some members dedicating themselves to a field they called ethnopoetics, connecting prehistorical, archaic, and “primitive” oral traditions with the newest iterations of poetry. “The rediscovery of formulaic oral traditions by Milman Parry, Albert Lord, and Eric Havelock,” Davidson writes, “provided a link between avant-garde literary practices and earlier tribal cultures.”[^10] The new work looked backward and forward at the same time. The publication in 1968 of Jerome Rothenberg’s anthology *Technicians of the Sacred: A Range of Poetries from Africa, America, Asia & Oceania*, edited with Antin’s help, describes a “‘post-literate’ situation, in McLuhan’s good phrase, or where-we-are-today.”[^11]
 
@@ -58,19 +58,35 @@ The artworks reproduced in the *Artforum* article are mentioned only in passing.
 
 One of the key terms that Antin coins in “talking at pomona” is *painting relators.* These are the folks who lend painting meaning:
 
-there are a set of people who are
-
-painting relators and these painting relators relate your paintings to other paintings which is how you know these are paintings now in order to make a painting of the sort
-
-that is related to other paintings by painting relators you have to find painting relators thats
-
-very important painting relators are essential to artists sometimes these painting
-
-relators are other artists and sometimes theyre people who do nothing else but relate paintings they have sometimes been thought of as critics sometimes theyre hustlers
-
-called dealers and sometimes theyre people who are just sort of wandering around
-
-with nothing else to do but relate paintings[^37]
+> there are a set of people who are painting relators 
+> 
+> and these painting relators relate your paintings to 
+> 
+> other paintings which is how you know these 
+> 
+> are paintings<span class="poetry-tab"> </span>now in order to make a painting 
+> 
+> of the sort that is related to other paintings 
+> 
+> by painting relators you have to find painting 
+> 
+> relators<span class="poetry-tab"> </span>thats very important<span class="poetry-tab"> </span>painting relators 
+> 
+> are essential to artists<span class="poetry-tab"> </span>sometimes these 
+> 
+> painting relators are other artists<span class="poetry-tab"> </span>and sometimes 
+> 
+> theyre people who do nothing else but 
+> 
+> relate paintings<span class="poetry-tab"> </span>they have sometimes been 
+> 
+> thought of as critics<span class="poetry-tab"> </span>sometimes theyre hustlers 
+> 
+> called dealers<span class="poetry-tab"> </span>and sometimes theyre people 
+> 
+> who<span class="poetry-tab"> </span>are just sort of wandering around 
+> 
+> with nothing else to do but relate paintings[^37]
 
 Different kinds of people fit under the mantle “painting relators.” Artists, critics, and gallerists all relate paintings; they all work toward a similar end (relating paintings), and thus have a similar effect (the relation of paintings). Antin does not mention curators, who were perhaps only beginning to accrue the clout and profile they now enjoy. Antin, of course, is a painting relator as well.[^38] By coining the term, Antin gathered species under a genus and located a lingua franca that they all share: talking. And it is the talking—this relationality, sociability, network vernacular, or “discourse situation”—that, however conditional it may be, gives art its meaning.[^39] But to make art truly meaningful, Antin contends, one must not simply link painting to painting but open art up to life, which is what Huebler sought to accomplish in his work. Such a claim offered a direct challenge to Clement Greenberg’s modernist doxa, which prized medium specificity and opticality above all else. Art’s meaning, for Antin, was made less of materials than it was the surrounding social world.[^40]
 
@@ -87,39 +103,39 @@ Others were arriving at similar conclusions about the possibilities for criticis
 
 {% figure 'fig-4-6' %}
 
-You might summarize it by saying that it’s a shifting of roles in which traditional categories of activity or professional behavior of people whose identity seemed secure enough in the past no longer really obtains. . . . In a sense I suppose this does belong to what’s coming to be called the McLuhan age, in which the fantastic media mix of what were previously separate arts goes on at an ever-increasing and uncanny rate of speed, an acceleration puzzling to view.[^44]
+> You might summarize it by saying that it’s a shifting of roles in which traditional categories of activity or professional behavior of people whose identity seemed secure enough in the past no longer really obtains. . . . In a sense I suppose this does belong to what’s coming to be called the McLuhan age, in which the fantastic media mix of what were previously separate arts goes on at an ever-increasing and uncanny rate of speed, an acceleration puzzling to view.[^44]
 
 *Impressed* is a funny word for Kozloff to use, for he seems concerned by the so-called McLuhan age, which is characterized by not only a return to acoustics and orality but also a post-medium situation that parallels the breakdown of strictly defined roles. Needless to say, this new art-world formation challenged the possibility of critical distance, and Antin consciously acknowledged this by working within the maelstrom. In a vignette included in his second book, *talking at the boundaries* ([**[fig. 7]**](#fig-4-7)), Antin tells a story about a conversation he had with Kozloff and the fact that he saw Antin’s position as part of the problem:
 
-on my way down madison avenue i ran into max
-
-kozloff who I hadn’t seen for over a year and since it was
-
-about one oclock we went into one of those steak-n-brew
-
-places to sit and talk over lunch max who is one
-
-of the most serious art critics I know was concerned
-
-about the way my new work was going he was afraid
-
-that by putting my critical concerns in an art context and
-
-“becoming an artist” I was going to lose any chance i had
-
-to have a serious effect on peoples minds he was
-
-more familiar with my art critical writing than with my poetry
-
-and hed recently published one of the talk-pieces in *art*
-
-*forum* so he may have had a better chance to collect feed-
-
-back but what bothered him most was that the usual
-
-effect of estheticizing a discourse was to neutralize it
-
-and I agreed that this was a danger[^45]
+> on my way down madison avenue i ran into max
+> 
+> kozloff who I hadn’t seen for over a year and since it was
+> 
+> about one oclock we went into one of those steak-n-brew
+> 
+> places to sit and talk over lunch<span class="poetry-tab"> </span>max<span class="poetry-tab"> </span>who is one
+> 
+> of the most serious art critics I know<span class="poetry-tab"> </span>was concerned
+> 
+> about the way my new work was going<span class="poetry-tab"> </span>he was afraid
+> 
+> that by putting my critical concerns in an art context and
+> 
+> “becoming an artist” I was going to lose any chance i had
+> 
+> to have a serious effect on peoples minds<span class="poetry-tab"> </span>he was
+> 
+> more familiar with my art critical writing than with my poetry
+> 
+> and hed recently published one of the talk-pieces in *art*
+> 
+> *forum* so he may have had a better chance to collect feed-
+> 
+> back<span class="poetry-tab"> </span>but what bothered him most was that the usual
+> 
+> effect of estheticizing a discourse was to neutralize it
+> 
+> <span class="poetry-tab"> </span>and I agreed that this was a danger[^45]
 
 {% figure 'fig-4-7' %}
 
@@ -127,7 +143,7 @@ Antin is a real-life example of shifting roles in the art world, and by “becom
 
 Despite his differences with Kozloff, Antin found common cause with other critics. In fact, Antin’s text “talking at pomona” shares much with Alloway’s essay in the anniversary issue of *Artforum*. In “Network: The Art World Described as a System,” Alloway makes claims virtually identical to what Kozloff described some six years before about the shifting of roles and what Antin chronicles about painting relators, but Alloway values them differently:
 
-Art historians prepare catalogues raisonnés of living artists, so that organization of data is more or less level with their occurrence. Critics serve as guest curators and curators write art criticism. The retrospectives of de Kooning and Newman at the Museum of Modern Art were both arranged by the editor of *Art News*, Thomas B. Hess. (A crossover in the opposite direction was made by John Coplans, former curator of Pasadena Art Museum and now editor of the magazine.) William Rubin, a curator at the same museum wrote a monograph on Frank Stella; he is also a collector and lent a Newman to the retrospective. In ten years I have been a curator, a teacher and an art critic, usually two at a time. The roles within the system, therefore, do not restrict mobility; the participants can move functionally within a cooperative system. Collectors back galleries and influence museums by acting as trustees or by making donations; or a collector may act as a shop window for a gallery by accepting a package collection from one dealer or one adviser. All of us are looped together in a new and unsettling connectivity.[^47]
+> Art historians prepare catalogues raisonnés of living artists, so that organization of data is more or less level with their occurrence. Critics serve as guest curators and curators write art criticism. The retrospectives of de Kooning and Newman at the Museum of Modern Art were both arranged by the editor of *Art News*, Thomas B. Hess. (A crossover in the opposite direction was made by John Coplans, former curator of Pasadena Art Museum and now editor of the magazine.) William Rubin, a curator at the same museum wrote a monograph on Frank Stella; he is also a collector and lent a Newman to the retrospective. In ten years I have been a curator, a teacher and an art critic, usually two at a time. The roles within the system, therefore, do not restrict mobility; the participants can move functionally within a cooperative system. Collectors back galleries and influence museums by acting as trustees or by making donations; or a collector may act as a shop window for a gallery by accepting a package collection from one dealer or one adviser. All of us are looped together in a new and unsettling connectivity.[^47]
 
 In other words, everyone is now a painting relator, and while Alloway finds this unsettling, true to his pop art roots, he believes that one must work within the situation, which he rather generously describes as a “cooperative system.” Although Alloway and Antin agree on this point—Antin also sees the art world as a network, though he favored terms such as *arena,* *art world,* and *live discourse*—the difference between their views is important, and it falls largely along formal lines. To put it bluntly, Antin invents a critical form, talking, which both delineates and extends the shape of the art world, whereas Alloway leaves historical models of criticism in place. Talking, for Antin, is the default medium of art’s network. Chatting, dealing, gossiping, and rumoring are some the most common ways of disseminating information, and, given the fact that information was now art’s primary material, talking had a new claim on criticism too.
 

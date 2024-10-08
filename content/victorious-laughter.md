@@ -44,17 +44,17 @@ The chaotic proliferation of consumer goods in these compositions shows how Brig
 
 The distance between these two eras can be gauged with a passage from the popular satirical novel by Ilya Ilf and Evgeny Petrov, *Dvenadtsat’ stul’ev* (1928; *The Twelve Chairs*). The novel follows the irrepressible Ostap Bender, a conman, master of the new Bolshevik argot, and all around “smooth operator,” as he seeks his fortune: a set of jewels that the mother of a provincial noble sewed into the cushion of a dining chair as the revolution unfolded around her. When Bender visits a poet friend who sleeps on the floor of a communal apartment in Moscow, the authors draw a stark contrast between the new ethical existence pursued by young Communists and the familiar comforts of the old way of life. In witheringly ironic indirect discourse, Ilf and Petrov skewer the attitude of vigilance against domestic comfort that motivates the protagonist of Mayakovsky’s “Pro eto”:
 
-A mattress is insatiable. . . . It needs a bookcase. It needs a table with thick stupid legs. Creaking its springs, it demands drapes, a door curtain, and pots and pans for the kitchen. It shoves people and says to them:
-
-“Go on! Buy a washboard and a rolling pin!”
-
-“I’m ashamed of you, man. You haven’t yet got a carpet.”
-
-A mattress remembers and does everything in its own way.
-
-Not even a poet can escape the common lot. Here he comes, carrying one from the market, hugging it to his soft belly with horror.
-
-“I’ll break down your resistance, poet,” says the mattress.[^17]
+> A mattress is insatiable. . . . It needs a bookcase. It needs a table with thick stupid legs. Creaking its springs, it demands drapes, a door curtain, and pots and pans for the kitchen. It shoves people and says to them:
+> 
+> “Go on! Buy a washboard and a rolling pin!”
+> 
+> “I’m ashamed of you, man. You haven’t yet got a carpet.”
+>
+> A mattress remembers and does everything in its own way.
+> 
+> Not even a poet can escape the common lot. Here he comes, carrying one from the market, hugging it to his soft belly with horror.
+> 
+> “I’ll break down your resistance, poet,” says the mattress.[^17]
 
 As Kiaer has argued, this kind of spontaneous “thing theory” led Mayakovsky to repurpose the commodity fetish in his advertisements for Bolshevik-made “comradely objects” during Trotsky’s campaign for a new *byt*. The poet in *The Twelve Chairs* is portrayed somewhat less sympathetically than Mayakovsky’s poet; the former is an idealist, a lover of Leo Tolstoy, and a vegetarian. Both types, however, were targeted in the Stalinist campaign against the left-wing ideology and Trotskyism. And, as Mikhail Odesskii and David Feldman show in their critical introduction to the text, this campaign underpinned Ilf and Petrov’s 1927 commission for a serialized novel from the monthly literary journal *30 dnei* (30 days).[^18] For this reason, literary scholar Maya Vinokur argues that Ilf and Petrov’s novels mark the transition from a traditional form of Russian satire exemplified by Gogol’s “laughter through tears” to a new kind of Stalinist “laughter without tears.”[^19] This new type of laughter, which rippled through the auditorium as Stalin delivered his report, is what Brigade KGK wanted their photomontages to provoke from the viewer.
 
