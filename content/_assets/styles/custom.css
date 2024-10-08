@@ -1,14 +1,13 @@
 :root {
-  /* --accent-color: #813436;
-  --accent-color-midtone: #ff7070;
-  --accent-color-highlight: #ffa8a8; */
-
-  --accent-color: #795772; /* same as $accent-color in variables.scss */
-  --accent-color-midtone: #897306;
+  --accent-color: #807170; /* same as $accent-color in variables.scss */
+  --accent-color-midtone: #B8AEAD;
   --accent-color-highlight: #f8cf0c;
 
-  --sidebar-light: #f1f0ee;
-  --sidebar-midtone: #e3e1dd;
+  --page-sidebar-light: #f1f0ee;
+  --page-sidebar-midtone: #e3e1dd;
+
+  /* set to 0 to remove gradient */
+  --cover-heading-gradient-opacity: .3;
 
   --skolar: skolar-pe, serif;
   --skolar-sans: skolar-sans-pe, sans-serif;
@@ -162,10 +161,12 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   left: auto;
   margin-right: 0;
   padding: .5rem var(--standard-indent);
-  background-color: transparent;
+  background: transparent;
+  background: linear-gradient(180deg, rgba(0,0,0,var(--cover-heading-gradient-opacity)) 0%, rgba(255,255,255,0) 80%);
   text-align: right;
   top: 0;
   bottom: auto;
+  width: 100%;
 }
 .hero-body .container.is-fluid .title {
   color: var(--accent-color-highlight);
@@ -210,6 +211,7 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
     background-position-y: 240px;
   }
   .hero-body .container.is-fluid {
+    background: transparent;
     display: flex;
     flex-direction: column;
     align-items: flex-end;
@@ -1242,13 +1244,13 @@ p[lang="ar"] {
 
 /* Appendix in paper 2 */
 .quire-page__content .container .content #alai-kidd-appendix {
-  background-color: var(--sidebar-light);
+  background-color: var(--page-sidebar-light);
   border-radius: .33rem;
   padding: 1rem var(--standard-indent);
   text-align: left;
 }
 .global-accordion-controls {
-  background-color: var(--sidebar-light);
+  background-color: var(--page-sidebar-light);
   margin-bottom: 0;
   margin-top: 1.5rem;
   padding: .5rem 1rem;
@@ -1294,7 +1296,7 @@ button.global-accordion-collapse-all {
 }
 @media print {
   .quire-page__content .container .content #alai-kidd-appendix {
-    background-color: var(--sidebar-midtone);
+    background-color: var(--page-sidebar-midtone);
     padding: 1rem;
     margin-top: 1rem;
   }
