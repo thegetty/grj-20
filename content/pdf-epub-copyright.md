@@ -32,7 +32,7 @@ GRJ@getty.edu.
 {% copyright %}
 
 **Cover**
-**Marion Wenzel (German, b. 1958).** Untitled (Winter landscape), 1980/81, gelatin silver print, 15 × 15 cm. From Wolfgang Henne et al., *Landschaft als Zeichen, messbar-vermessbar* (Leipzig: self-published, 1983), n.p. Los Angeles, Getty Research Institute, 93-B10567. © Marion Wenzel, VG Bild Kunst. Courtesy of the artist.
+TK
 
 ISSN {{ publication.identifier.issn }}
 E-ISSN {{ publication.identifier.e_issn }} {.small-caps}
