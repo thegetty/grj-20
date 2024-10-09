@@ -212,7 +212,7 @@ The depth of preparedness that a visit to Eastern State Petitionary provides to 
 
 [^42]: Andrew R. Chow, “New Banksy Mural in New York Protests Turkish Artist’s Imprisonment,” *The New York Times*, 15 March 2018, https://www.nytimes.com/2018/03/15/arts/design/banksy-mural-new-york-zehra-dogan.html.
 
-[^43]: “*Capitalizing on Justice:* An Art Exhibit Featuring Incarcerated Artists,” NYU Gallatin Galleries, 2019, https://gallatin.nyu.edu/utilities/events/2019/03/capitalizing-on-justice[--]an-art-exhibit-featuring-incarcerated-a.html.**[[Note to designer: keep double hyphen in link following “justice,” otherwise link breaks if it autoformats as an em dash]]**
+[^43]: “*Capitalizing on Justice:* An Art Exhibit Featuring Incarcerated Artists,” NYU Gallatin Galleries, 2019, [https://gallatin.nyu.edu/utilities/events/2019/03/capitalizing-on-justice--an-art-exhibit-featuring-incarcerated-a.html](https://gallatin.nyu.edu/utilities/events/2019/03/capitalizing-on-justice--an-art-exhibit-featuring-incarcerated-a.html).
 
 [^44]: “Luba Drozd, “*Institute of Corrections,*” Eastern State Penitentiary website, https://www.easternstate.org/explore/artist-installations/luba-drozd-institute-corrections.
 
