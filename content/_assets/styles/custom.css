@@ -1,14 +1,13 @@
 :root {
-  /* --accent-color: #813436;
-  --accent-color-midtone: #ff7070;
-  --accent-color-highlight: #ffa8a8; */
-
-  --accent-color: #795772; /* same as $accent-color in variables.scss */
-  --accent-color-midtone: #897306;
+  --accent-color: #807170; /* same as $accent-color in variables.scss */
+  --accent-color-midtone: #B8AEAD;
   --accent-color-highlight: #f8cf0c;
 
-  --sidebar-light: #f1f0ee;
-  --sidebar-midtone: #e3e1dd;
+  --page-sidebar-light: #f1f0ee;
+  --page-sidebar-midtone: #e3e1dd;
+
+  /* set to 0 to remove gradient */
+  --cover-heading-gradient-opacity: .3;
 
   --skolar: skolar-pe, serif;
   --skolar-sans: skolar-sans-pe, sans-serif;
@@ -109,6 +108,10 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
     -prince-float: bottom;
     margin-bottom: 0 !important;
   }
+  .pdf-55-percent-width img {
+    max-width: 50%;
+    margin: 0 !important;
+  }
   .pdf-60-percent-width img {
     max-width: 60%;
     margin: 0 !important;
@@ -128,6 +131,10 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
     max-width: 85%;
     margin: 0 !important;
   }
+  .pdf-75-percent-width img {
+    max-width: 75%;
+    margin: 0 !important;
+  }
   .q-figure--group.pdf-85-percent-width {
     max-width: 85% !important;
     width: 85% !important;
@@ -137,6 +144,16 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   }
   .pdf-no-bottom-margin {
     margin-bottom: 0 !important;
+  }
+  .pdf-two-column {
+    height: 8.5in !important;
+    display: block !important;
+  }
+  .pdf-two-column figure {
+    width: 45% !important;
+    float: left;
+    clear: both;
+    margin-right: 1rem !important;
   }
 }
 
@@ -162,10 +179,12 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   left: auto;
   margin-right: 0;
   padding: .5rem var(--standard-indent);
-  background-color: transparent;
+  background: transparent;
+  background: linear-gradient(180deg, rgba(0,0,0,var(--cover-heading-gradient-opacity)) 0%, rgba(255,255,255,0) 80%);
   text-align: right;
   top: 0;
   bottom: auto;
+  width: 100%;
 }
 .hero-body .container.is-fluid .title {
   color: var(--accent-color-highlight);
@@ -210,6 +229,7 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
     background-position-y: 240px;
   }
   .hero-body .container.is-fluid {
+    background: transparent;
     display: flex;
     flex-direction: column;
     align-items: flex-end;
@@ -306,18 +326,27 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   margin-left: var(--large-indent);
 }
 .quire-page__content .container .content > h2:first-child + p,
-.quire-page__content .container .content > p:first-child {
+.quire-page__content .container .content > p:first-child,
+.quire-page__content .container .content > blockquote:first-child + p {
   text-indent: var(--large-indent);
+}
+.quire-page__content .container .content > blockquote:first-child {
+  margin-left: var(--large-indent);
+}
+.quire-page__content .container .content > blockquote:first-child * {
+  text-align: left;
 }
 @media print {
   .quire-page__content .container .content > h2:first-child,
-  .quire-page__content .container .content .page-tools__copyright + h2 {
+  .quire-page__content .container .content .page-tools__copyright + h2,
+  .quire-page__content .container .content .page-tools__copyright + blockquote  {
     margin-left: var(--large-indent);
   }
   .quire-page__content .container .content > h2:first-child + p,
   .quire-page__content .container .content > p:first-child,
   .quire-page__content .container .content .page-tools__copyright + h2 + p,
-  .quire-page__content .container .content .page-tools__copyright + p {
+  .quire-page__content .container .content .page-tools__copyright + p,
+  .quire-page__content .container .content .page-tools__copyright + blockquote + p {
     text-indent: var(--large-indent);
   }
 }
@@ -479,6 +508,9 @@ strong {
   .quire-page__content .content h3 {
     margin-bottom: 0;
   }
+}
+.quire-page__content .container .content hr::after {
+  color: var(--accent-color);
 }
 
 /* BLOCKQUOTES
@@ -855,8 +887,9 @@ summary::-webkit-details-marker {
     padding-left: var(--large-indent);
     padding-right: 0;
   }
+  /* used on GRJ 19 to break shorter notices to next page */
   .table-of-contents-list .section-item {
-    page-break-before: always;
+    /* page-break-before: always; */
   }
 }
 
@@ -1242,13 +1275,13 @@ p[lang="ar"] {
 
 /* Appendix in paper 2 */
 .quire-page__content .container .content #alai-kidd-appendix {
-  background-color: var(--sidebar-light);
+  background-color: var(--page-sidebar-light);
   border-radius: .33rem;
   padding: 1rem var(--standard-indent);
   text-align: left;
 }
 .global-accordion-controls {
-  background-color: var(--sidebar-light);
+  background-color: var(--page-sidebar-light);
   margin-bottom: 0;
   margin-top: 1.5rem;
   padding: .5rem 1rem;
@@ -1294,7 +1327,7 @@ button.global-accordion-collapse-all {
 }
 @media print {
   .quire-page__content .container .content #alai-kidd-appendix {
-    background-color: var(--sidebar-midtone);
+    background-color: var(--page-sidebar-midtone);
     padding: 1rem;
     margin-top: 1rem;
   }
@@ -1331,9 +1364,29 @@ table.sahragard-table-01 img {
   margin-left: -0.75rem;
 }
 
+/* Blockquotes in talking-criticism-with-david-antin */
+.poetry-tab {
+  display: inline-block;
+  width: 4rem;
+}
+
 /* Fix too wide margins in TOC */
 @media only screen and (max-width:767px) {
   .quire-contents .quire-page__content .container {
     padding: 1rem 0rem;
   }
+}
+
+.conversation-text {
+  margin-top: 1rem;
+  margin-left: var(--standard-indent);
+}
+.conversation-text p {
+  margin-bottom: 1rem !important;
+  text-indent: 0 !important;
+}
+.conversation-text p > strong {
+  display: inline-block;
+  margin-left: -2rem !important;
+  /* text-indent: -2rem; */
 }

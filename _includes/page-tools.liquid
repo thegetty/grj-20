@@ -9,7 +9,7 @@
 <section class="quire-page__content page-tools" aria-label="Article download, abstract, and citation" data-outputs-exclude="epub,pdf">
   <div class="container">
     <div class="content">
-      {% if pdf_download %} 
+      {% if page_pdf_output %} 
       <div id='#section-download'>
         <a href="/_assets/downloads/{{ config.pdf.filename }}{{ page.filePathStem | replace: "/", "-" }}.pdf">PDF {% icon type="download", description="Download the PDF" %}</a>
       </div>

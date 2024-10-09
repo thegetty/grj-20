@@ -8,15 +8,16 @@ contributor:
   - first_name: Alex
     last_name: Kitnick
     bio: "**Alex Kitnick** is assistant professor of art history and visual culture at Bard College in Annandale-on-Hudson, New York."
-copyright: ""
+copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 20 (2025): TK–TK </span>© 2025 Alex Kitnick"
 abstract: "In the early 1970s, David Antin became known for talking. A well-regarded poet, Antin began appearing at poetry readings with a tape recorder but without anything to read, speaking off the top of his head. Antin effectively ceased writing poetry; instead, he transcribed his recordings and created work from the transcripts. While Antin’s turn to talking has been much discussed in the context of poetry, it has been considered less in the context of art criticism—and, significantly, Antin was also an established art critic. By framing Antin’s work of the 1970s as a kind of oral criticism, or talking criticism, tied to the uniqueness of the voice, this essay charts his move from a high modernist style of criticism toward a postmodernist one focused on embodiment, context, and social relations."
 keywords: "criticism, talking, David Antin, conceptual art, performance, Gregg Bordowitz"
 doi: ""
+page_pdf_output: true
 ---
 
-What have we been doing? What are we addressing ourselves to, in what way, who do we hope to *talk* to, and in view of what urgencies?
-
-David Antin, letter to Leo Steinberg regarding “The Goals of Criticism”
+> What have we been doing? What are we addressing ourselves to, in what way, who do we hope to *talk* to, and in view of what urgencies?
+> 
+> David Antin, letter to Leo Steinberg regarding “The Goals of Criticism”
 
 In the 1960s, David Antin worked along two parallel tracks. Deeply involved with the New American Poetry, he wrote poems “with prefabricated and readymade materials, recycling texts and fragments of texts, enclosing valuable and used up talk and thought and feeling, hoping to save what was worth saving, liberate it and throw the rest away.”[^1] Alongside poet and translator Jerome Rothenberg, he also edited, between 1965 and 1968, four issues of the poetry journal *some/thing*, which featured work by writers such as Jackson Mac Low and Margaret Randall, and its covers were graced with work by artists including Amy Mendelson, Robert Morris, Andy Warhol, and George Maciunas. The covers point to Antin’s other activity at the time—the writing of art criticism. Antin, in fact, was one of the first critics to seriously consider the output of Morris and Warhol, and he wrote about other important contemporary artists, including Alex Katz and Jean Tinguely, for publications such as *Art News* and *Art and Literature*. On occasion he authored wide-ranging essays on other topics, for example, the influence of corporate money on contemporary art. An early biographical sketch describes his activities this way: “Poet, linguist, critic David Antin is an enthusiastic spectator of new painting and sculpture which he relates to modern ideas in science, philosophy and literature.”[^2]
 
@@ -26,9 +27,10 @@ Dispensing with desk and typewriter, Antin’s talking took shape live, without 
 
 ## orality / audience / community
 
-Radio and gramophone and tape recorder gave us back the poet’s voice as an important dimension of the poetic experience. . . . But TV, with its deep-participation mode, caused young poets suddenly to present their poems in cafés, in public parks, anywhere. After TV, they suddenly felt the need for personal contact with their public.
-
-Marshall McLuhan, *Understanding Media: The Extensions of Man*
+> Radio and gramophone and tape recorder gave us back the poet’s voice as an important dimension of the poetic experience. . . . But TV, with its deep-participation mode, caused young poets suddenly to present their poems in cafés, in public parks, anywhere. After TV, they suddenly felt the need for personal contact with their public.
+> 
+> Marshall McLuhan, *Understanding Media: The Extensions of Man* 
+{.epigraph}
 
 I would like to begin with two questions: Why did Antin’s work take the form of talking in the early 1970s? And how did his talking alter the conventions of criticism regarding position and voice? Certainly, Antin belonged to a larger groundswell in poetic thinking. “For poets of the 1950s and 1960s, a new oral impulse served as a corrective to the rhetorically controlled, print-based poetry of high modernism,” scholar Michael Davidson writes.[^8] Influences outside poetics exerted their energies too. Media theorist Marshall McLuhan claimed that a new orality was taking shape in culture at large. If Gutenberg’s press, invented in the fifteenth century, had pushed Western culture into a linear, literate, and visual order, McLuhan believed that new technologies were launching it into acoustic space: “In the electronic age which succeeds the typographic and mechanical era of the past five hundred years, we encounter new shapes and structures of human interdependence and of expression which are ‘oral’ in form even when the components of the situation may be nonverbal,” McLuhan notes in his 1962 treatise *The Gutenberg Galaxy: The Making of Typographic Man*.[^9] McLuhan’s ideas animated Antin’s circle, with some members dedicating themselves to a field they called ethnopoetics, connecting prehistorical, archaic, and “primitive” oral traditions with the newest iterations of poetry. “The rediscovery of formulaic oral traditions by Milman Parry, Albert Lord, and Eric Havelock,” Davidson writes, “provided a link between avant-garde literary practices and earlier tribal cultures.”[^10] The new work looked backward and forward at the same time. The publication in 1968 of Jerome Rothenberg’s anthology *Technicians of the Sacred: A Range of Poetries from Africa, America, Asia & Oceania*, edited with Antin’s help, describes a “‘post-literate’ situation, in McLuhan’s good phrase, or where-we-are-today.”[^11]
 
@@ -40,17 +42,17 @@ The fact that Antin transcribed, edited, and published his talking suggests that
 
 The story is that after delivering his talk to art students at the small liberal arts college, Antin and his wife, the artist Eleanor Antin, drove back to their house in Solana Beach near San Diego and listened to the recording on the way. They put it on the car stereo—it begins, “testing testing testing testing”—and Eleanor said, “that’s a poem.”[^20] She recognized the recording not as a talk delivered by a critic and curator but a form of poetry, and Antin, a poet who was always making “an effort to get away from the sealed-in package that poetry is often treated as,” decided to use this understanding as a way to expand poetry beyond its established conventions.[^21]
 
-Eleanor’s insight, of course, didn’t come out of the blue. A table had already been set in which such an idea could surface. Ethnopoetics privileged oral traditions, and certain strands of contemporary art turned toward voice too. In 1964, Morris lip-synched a lecture by art historian Erwin Panofsky in his performance *21.3*; later, in 1968, Warhol published *a: a novel*, cobbled together from twenty-four hours of methamphetamine-addled discussions that actor and Warhol studio regular Ondine [Robert Olivo] recorded at Warhol’s Factory with a motley crew of interlocutors.[^22] Talking was also gathering around the borders of the work of art. The artist talk and artist interview assumed a new relevance at this moment, with the conceptual-art tabloid *Avalanche,* published between 1970 and 1976, featuring an artist-cum-celebrity on each of its covers and a long interview inside.[^23] It is clear that Antin saw himself as part of this tendency, and it is significant that, despite Eleanor classifying his talk as poetry and Antin designating his work as “talk poems,” that “talking at pomona” first appeared in *Artforum*’s tenth anniversary issue in 1972 alongside essays by curator Lawrence Alloway (“Network: The Art World Described as a System”), critic Max Kozloff (“The Trouble with Art-as-Idea”), and scholar Rosalind Krauss (“A View of Modernism”), all of which offer “a synoptic overview of the art ambiance during the past decade.”[^24] Antin was expanding the parameters of not only poetry but also criticism ([**[fig. 1]**](#fig-4-1)).
+Eleanor’s insight, of course, didn’t come out of the blue. A table had already been set in which such an idea could surface. Ethnopoetics privileged oral traditions, and certain strands of contemporary art turned toward voice too. In 1964, Morris lip-synched a lecture by art historian Erwin Panofsky in his performance *21.3*; later, in 1968, Warhol published *a: a novel*, cobbled together from twenty-four hours of methamphetamine-addled discussions that actor and Warhol studio regular Ondine [Robert Olivo] recorded at Warhol’s Factory with a motley crew of interlocutors.[^22] Talking was also gathering around the borders of the work of art. The artist talk and artist interview assumed a new relevance at this moment, with the conceptual-art tabloid *Avalanche,* published between 1970 and 1976, featuring an artist-cum-celebrity on each of its covers and a long interview inside.[^23] It is clear that Antin saw himself as part of this tendency, and it is significant that, despite Eleanor classifying his talk as poetry and Antin designating his work as “talk poems,” that “talking at pomona” first appeared in *Artforum*’s tenth anniversary issue in 1972 alongside essays by curator Lawrence Alloway (“Network: The Art World Described as a System”), critic Max Kozloff (“The Trouble with Art-as-Idea”), and scholar Rosalind Krauss (“A View of Modernism”), all of which offer “a synoptic overview of the art ambiance during the past decade.”[^24] Antin was expanding the parameters of not only poetry but also criticism ([fig. 1](#fig-4-1)).
 
-{% figure 'fig-4-1' %}
+{% figure 'fig-4-1' 'pdf-float-top' %}
 
-Significantly Antin’s title doesn’t mention what he was talking about—there is a trace of John Cage’s “Lecture on Nothing” from 1959 in the refusal to establish a topic. That Antin was talking—and where—were the important elements. Within the art world, Pomona College was known at the time for its commitment to advanced conceptual practices.[^25] According to a telegram dated 2 June 1972, Antin, who at the time was a professor of visual arts at the University of California, San Diego, had been commissioned by *Artforum* editor John Coplans to write an article “on art education in America today, open ended, as long as [you] wish (anything say from 3500 to 10,000 words), fee $300, but one which examines in general (or as specifically as you wish) among other things the art history versus studio problems and the generation gap and the attempts of a so called rationalized culture to formalize art education and the problems inherent to such a situation”[^26] ([**[fig. 2]**](#fig-4-2)). Coplans invited a more or less traditional essay about art education and its role in a changing society. While Antin’s contribution must have surprised Coplans—not only in that it took art education as its context rather than subject but also in its unusual form and singular voice—the work was not merely iconoclastic.[^27] Antin’s piece may have differed in substantive ways from those of his colleagues in terms of tone and style, but it shared a preoccupation with questions of voice and critical distance. All of these figures belonged to a larger tendency in criticism that challenged the autonomy of art by privileging sociological terms. The emergence of a unique voice, in distinction to the opticality of the eye and its claims to objective truth, spoke to the break with modernism then under way in art and criticism. Indeed, this was the crux of Krauss’s argument in “A View of Modernism,” which ends with the lines: “It matters who one sounds like when what one is writing about is art. One’s own perspective, like one’s own age, is the only orientation one will ever have.”[^28] Foregrounding voice opened up the possibility of contingency, if not relativism, in criticism. While his talking was ultimately monologic in form, Antin did broach the possibility of interruption, dialogue, and conversation.[^29] He also nodded at openness by occasionally getting things wrong. At the end of the text “talking at pomona” in *Artforum,* Antin provides footnotes (he calls them “afterthoughts”) in order to correct the slips he made in the live talk, but he refused to intervene in the body of the text, insisting on the primacy of live thought.
+Significantly Antin’s title doesn’t mention what he was talking about—there is a trace of John Cage’s “Lecture on Nothing” from 1959 in the refusal to establish a topic. That Antin was talking—and where—were the important elements. Within the art world, Pomona College was known at the time for its commitment to advanced conceptual practices.[^25] According to a telegram dated 2 June 1972, Antin, who at the time was a professor of visual arts at the University of California, San Diego, had been commissioned by *Artforum* editor John Coplans to write an article “on art education in America today, open ended, as long as [you] wish (anything say from 3500 to 10,000 words), fee $300, but one which examines in general (or as specifically as you wish) among other things the art history versus studio problems and the generation gap and the attempts of a so called rationalized culture to formalize art education and the problems inherent to such a situation”[^26] ([fig. 2](#fig-4-2)). Coplans invited a more or less traditional essay about art education and its role in a changing society. While Antin’s contribution must have surprised Coplans—not only in that it took art education as its context rather than subject but also in its unusual form and singular voice—the work was not merely iconoclastic.[^27] Antin’s piece may have differed in substantive ways from those of his colleagues in terms of tone and style, but it shared a preoccupation with questions of voice and critical distance. All of these figures belonged to a larger tendency in criticism that challenged the autonomy of art by privileging sociological terms. The emergence of a unique voice, in distinction to the opticality of the eye and its claims to objective truth, spoke to the break with modernism then under way in art and criticism. Indeed, this was the crux of Krauss’s argument in “A View of Modernism,” which ends with the lines: “It matters who one sounds like when what one is writing about is art. One’s own perspective, like one’s own age, is the only orientation one will ever have.”[^28] Foregrounding voice opened up the possibility of contingency, if not relativism, in criticism. While his talking was ultimately monologic in form, Antin did broach the possibility of interruption, dialogue, and conversation.[^29] He also nodded at openness by occasionally getting things wrong. At the end of the text “talking at pomona” in *Artforum,* Antin provides footnotes (he calls them “afterthoughts”) in order to correct the slips he made in the live talk, but he refused to intervene in the body of the text, insisting on the primacy of live thought.
 
-{% figure 'fig-4-2' %}
+{% figure 'fig-4-2' 'pdf-float-top' %}
 
 Antin’s talking changed “the appearance of the Gutenberg printed page.”[^30] His text has no punctuation marks or “traffic signals.”[^31] In order to reestablish criticism’s connection to voice, Antin had to delete the graphemes of typical written language. That is to say, he bucked five hundred years of printed history and parted ways with both standard poetry and prose. “If written language is singled out as the culprit, what will be sought is not so much the reduction as the metamorphosis of language into something looser, more intuitive, less organized and inflected, nonlinear (in McLuhan’s terminology) and—noticeably—more verbose,” Susan Sontag wrote around this time.[^32] So instead of sentences and paragraphs, clusters of words slide across the page, breaking in accordance with Antin’s breath. Margins are unjustified, an innovation allowed in part by the move from cold-type methods of printing toward electric typewriters.[^33] All the text is lowercase, Cagean and antihierarchical, and this lowering is very much to the point: Antin’s work maps out a nonstandard, horizontal space, and he claims that it is there—in the scrum of sociability—that art’s meaning gets made.[^34]
 
-The artworks reproduced in the *Artforum* article are mentioned only in passing. Antin didn’t incorporate pictures in other talk pieces, and I would assume they appeared in the article at the editor’s behest. The new art was built on elaborate conceptual structures rather than visual appearances, so it was better to describe them, to talk them out; pictures would not necessarily divulge their meanings. The import of artist Douglas Huebler’s *Duration Piece No. 15—Global* (1969), for example, which Antin lauds because it “operates a system” in “real space,”[^35] rested on an elaborate pricing structure based on the capture of a wanted criminal; the artwork’s collector would pay the captor’s reward. One best grasps the stakes of Huebler’s project through mapping out its components rather than viewing the piecemeal documents that constitute its nominal form ([**[fig. 3]**](#fig-4-3)). Huebler is the hero of Antin’s text, not least due to the way questions of capture—and morality—operate in his work. (What Antin calls the “violence” of Huebler’s work is what distinguishes Huebler from the other conceptual artists Antin discusses, such as Dennis Oppenheim, who harvested and sold wheat.) Five years earlier, Warhol had painted a mural for the 1964 New York World’s Fair depicting mug shots of thirteen most wanted men, and while the murals offered Huebler a precedent, Huebler’s work is distinct in the way that it engages a social system as not simply a picture or representation but a demand made on the world. The result, Antin claims, doesn’t simply modify art history but “raises the question about the meaning of art.”[^36] The artwork, no longer self-contained and autonomous but despotic and diffuse, required a new type of similarly open-ended criticism. Antin understood that art’s shift toward information altered established roles and ways of working, and his work responded by reconsidering criticism’s form. As the artwork moved into real space, it ensnared the critic. The two entered a new kind of relationship, and a novel mode of engagement took shape.
+The artworks reproduced in the *Artforum* article are mentioned only in passing. Antin didn’t incorporate pictures in other talk pieces, and I would assume they appeared in the article at the editor’s behest. The new art was built on elaborate conceptual structures rather than visual appearances, so it was better to describe them, to talk them out; pictures would not necessarily divulge their meanings. The import of artist Douglas Huebler’s *Duration Piece No. 15—Global* (1969), for example, which Antin lauds because it “operates a system” in “real space,”[^35] rested on an elaborate pricing structure based on the capture of a wanted criminal; the artwork’s collector would pay the captor’s reward. One best grasps the stakes of Huebler’s project through mapping out its components rather than viewing the piecemeal documents that constitute its nominal form ([fig. 3](#fig-4-3)). Huebler is the hero of Antin’s text, not least due to the way questions of capture—and morality—operate in his work. (What Antin calls the “violence” of Huebler’s work is what distinguishes Huebler from the other conceptual artists Antin discusses, such as Dennis Oppenheim, who harvested and sold wheat.) Five years earlier, Warhol had painted a mural for the 1964 New York World’s Fair depicting mug shots of thirteen most wanted men, and while the murals offered Huebler a precedent, Huebler’s work is distinct in the way that it engages a social system as not simply a picture or representation but a demand made on the world. The result, Antin claims, doesn’t simply modify art history but “raises the question about the meaning of art.”[^36] The artwork, no longer self-contained and autonomous but despotic and diffuse, required a new type of similarly open-ended criticism. Antin understood that art’s shift toward information altered established roles and ways of working, and his work responded by reconsidering criticism’s form. As the artwork moved into real space, it ensnared the critic. The two entered a new kind of relationship, and a novel mode of engagement took shape.
 
 {% figure 'fig-4-3' %}
 
@@ -58,76 +60,93 @@ The artworks reproduced in the *Artforum* article are mentioned only in passing.
 
 One of the key terms that Antin coins in “talking at pomona” is *painting relators.* These are the folks who lend painting meaning:
 
-there are a set of people who are
-
-painting relators and these painting relators relate your paintings to other paintings which is how you know these are paintings now in order to make a painting of the sort
-
-that is related to other paintings by painting relators you have to find painting relators thats
-
-very important painting relators are essential to artists sometimes these painting
-
-relators are other artists and sometimes theyre people who do nothing else but relate paintings they have sometimes been thought of as critics sometimes theyre hustlers
-
-called dealers and sometimes theyre people who are just sort of wandering around
-
-with nothing else to do but relate paintings[^37]
+> there are a set of people who are painting relators 
+> 
+> and these painting relators relate your paintings to 
+> 
+> other paintings which is how you know these 
+> 
+> are paintings<span class="poetry-tab"> </span>now in order to make a painting 
+> 
+> of the sort that is related to other paintings 
+> 
+> by painting relators you have to find painting 
+> 
+> relators<span class="poetry-tab"> </span>thats very important<span class="poetry-tab"> </span>painting relators 
+> 
+> are essential to artists<span class="poetry-tab"> </span>sometimes these 
+> 
+> painting relators are other artists<span class="poetry-tab"> </span>and sometimes 
+> 
+> theyre people who do nothing else but 
+> 
+> relate paintings<span class="poetry-tab"> </span>they have sometimes been 
+> 
+> thought of as critics<span class="poetry-tab"> </span>sometimes theyre hustlers 
+> 
+> called dealers<span class="poetry-tab"> </span>and sometimes theyre people 
+> 
+> who<span class="poetry-tab"> </span>are just sort of wandering around 
+> 
+> with nothing else to do but relate paintings[^37]
 
 Different kinds of people fit under the mantle “painting relators.” Artists, critics, and gallerists all relate paintings; they all work toward a similar end (relating paintings), and thus have a similar effect (the relation of paintings). Antin does not mention curators, who were perhaps only beginning to accrue the clout and profile they now enjoy. Antin, of course, is a painting relator as well.[^38] By coining the term, Antin gathered species under a genus and located a lingua franca that they all share: talking. And it is the talking—this relationality, sociability, network vernacular, or “discourse situation”—that, however conditional it may be, gives art its meaning.[^39] But to make art truly meaningful, Antin contends, one must not simply link painting to painting but open art up to life, which is what Huebler sought to accomplish in his work. Such a claim offered a direct challenge to Clement Greenberg’s modernist doxa, which prized medium specificity and opticality above all else. Art’s meaning, for Antin, was made less of materials than it was the surrounding social world.[^40]
 
-A photograph from 1973 by Fred Lonidier offers an example of Antin’s relating in action ([**[fig. 4]**](#fig-4-4)). Outfitted in a black turtleneck and sports coat, Antin stands talking on the phone in his office in front of Roy Lichtenstein’s screenprint *Sweet Dreams, Baby!* from 1966. The male comic-book character’s head collapses in the work’s bottom right-hand corner while a balled fist swings upward toward the top. Meanwhile, Antin’s left arm, outstretched, gives the impression that the print is in motion while the tail of the speech balloon containing the titular caption is pointed at Antin’s mouth, representation and the real hinging together. Antin is not only connected to the print but extends it, wiring and relating it to the world through the technology of the phone.
+A photograph from 1973 by Fred Lonidier offers an example of Antin’s relating in action ([fig. 4](#fig-4-4)). Outfitted in a black turtleneck and sports coat, Antin stands talking on the phone in his office in front of Roy Lichtenstein’s screenprint *Sweet Dreams, Baby!* from 1966. The male comic-book character’s head collapses in the work’s bottom right-hand corner while a balled fist swings upward toward the top. Meanwhile, Antin’s left arm, outstretched, gives the impression that the print is in motion while the tail of the speech balloon containing the titular caption is pointed at Antin’s mouth, representation and the real hinging together. Antin is not only connected to the print but extends it, wiring and relating it to the world through the technology of the phone.
 
-{% figure 'fig-4-4' %}
+{% figure 'fig-4-4' 'pdf-float-top' %}
 
-Antin’s relating also took more immediate forms. A photograph from Antin’s talk “Figures of Thought or Figures of Thinking” at San Francisco’s 80 Langton Street in 1978 conveys the intimacy of Antin’s talking, as he stands close to his audience, whose etymology, with its roots in auditory processes, seems particularly important here ([**[figs. 5a, 5b]**](#fig-4-5-a)). Much in the manner of the happenings of the 1960s, the hard line between spectators and performer breaks down, with the two sides of the equation joining together in a group. People sit on the floor and smoke amidst scattered beer cans; posters and fliers are pinned to the wall. One might say the audience is on view, or that Antin, who is seen from behind in the photograph, belongs to the audience, and the bodies around him catalyze his performance. Here is a private-public sphere—what used to be called an alternative space—and everything and everyone in attendance helps give it shape.[^41] It is interesting to compare the emphasis on liveness with the stillness of the cover of the tenth anniversary issue of *Artforum*, which features a photograph of the magazine’s barren office, chairs empty and desks piled with books and phones ([**[see fig. 1]**](#fig-4-1)). Each image offers its own model of textual production, and while both are technologized—tape recording is crucial to Antin’s work—the latter lacks the embodiment of Antin’s pedagogical performances. Critic Lytle Shaw has used the term *narrowcast* (as opposed to *broadcast*) to describe a tendency in New American Poetry that emphasized “intimate, corporeal space,” or “microspace,” so as to position itself against the universalizing “anywhere” tendencies of mainstream media.[^42] Antin may have created a kind of narrowcast criticism.
-{% figuregroup '2' 'fig-4-5-a, fig-4-5-b' '<span class="q-figure__label-text">Figs. 5a, 5b. — </span>**Postcard, front and back, of David Antin delivering the talk “Figures of Thought or Figures of Thinking,” 80 Langton Street, San Francisco, California, 13 May 1978.**'%}
+Antin’s relating also took more immediate forms. A photograph from Antin’s talk “Figures of Thought or Figures of Thinking” at San Francisco’s 80 Langton Street in 1978 conveys the intimacy of Antin’s talking, as he stands close to his audience, whose etymology, with its roots in auditory processes, seems particularly important here ([figs. 5a](#fig-4-5-a), [5b](#fig-4-5-b)). Much in the manner of the happenings of the 1960s, the hard line between spectators and performer breaks down, with the two sides of the equation joining together in a group. People sit on the floor and smoke amidst scattered beer cans; posters and fliers are pinned to the wall. One might say the audience is on view, or that Antin, who is seen from behind in the photograph, belongs to the audience, and the bodies around him catalyze his performance. Here is a private-public sphere—what used to be called an alternative space—and everything and everyone in attendance helps give it shape.[^41] It is interesting to compare the emphasis on liveness with the stillness of the cover of the tenth anniversary issue of *Artforum*, which features a photograph of the magazine’s barren office, chairs empty and desks piled with books and phones ([see fig. 1](#fig-4-1)). Each image offers its own model of textual production, and while both are technologized—tape recording is crucial to Antin’s work—the latter lacks the embodiment of Antin’s pedagogical performances. Critic Lytle Shaw has used the term *narrowcast* (as opposed to *broadcast*) to describe a tendency in New American Poetry that emphasized “intimate, corporeal space,” or “microspace,” so as to position itself against the universalizing “anywhere” tendencies of mainstream media.[^42] Antin may have created a kind of narrowcast criticism.
+
+{% figuregroup '2' 'fig-4-5-a, fig-4-5-b' '<span class="q-figure__label-text">Figs. 5a, 5b. — </span>**Postcard, front and back, of David Antin delivering the talk “Figures of Thought or Figures of Thinking,” 80 Langton Street, San Francisco, California, 13 May 1978.**' 'has-shared-caption pdf-float-top pdf-wide-image-right' %}
 
 ## critic
 
-Others were arriving at similar conclusions about the possibilities for criticism during this time. In 1966, artist Les Levine made a video called *Critic*, which recorded thirteen members of New York’s critical establishment speaking about their work for two minutes apiece ([**[fig. 6]**](#fig-4-6)). “My point was that criticism and art are different things,” Levine said in an interview. “Reading criticism is a completely different experience from dealing with art.”[^43] One can, however, also draw the opposite conclusion from Levine’s work: by making the talking of critics the content of his art, Levine suggested that art comprises language. The critics share a range of ideas in the video, but Max Kozloff makes a particularly important point about what one might call, after Harold Rosenberg, the de-definition of roles in the art world, which also speaks to Antin’s notion of painting relators. “I’m very much impressed by a curious situation that one sees more and more in the art world these days, the art world in New York,” Kozloff says.
+Others were arriving at similar conclusions about the possibilities for criticism during this time. In 1966, artist Les Levine made a video called *Critic*, which recorded thirteen members of New York’s critical establishment speaking about their work for two minutes apiece ([fig. 6](#fig-4-6)). “My point was that criticism and art are different things,” Levine said in an interview. “Reading criticism is a completely different experience from dealing with art.”[^43] One can, however, also draw the opposite conclusion from Levine’s work: by making the talking of critics the content of his art, Levine suggested that art comprises language. The critics share a range of ideas in the video, but Max Kozloff makes a particularly important point about what one might call, after Harold Rosenberg, the de-definition of roles in the art world, which also speaks to Antin’s notion of painting relators. “I’m very much impressed by a curious situation that one sees more and more in the art world these days, the art world in New York,” Kozloff says.
 
-{% figure 'fig-4-6' %}
+{% figure 'fig-4-6' 'pdf-float-top' %}
 
-You might summarize it by saying that it’s a shifting of roles in which traditional categories of activity or professional behavior of people whose identity seemed secure enough in the past no longer really obtains. . . . In a sense I suppose this does belong to what’s coming to be called the McLuhan age, in which the fantastic media mix of what were previously separate arts goes on at an ever-increasing and uncanny rate of speed, an acceleration puzzling to view.[^44]
+> You might summarize it by saying that it’s a shifting of roles in which traditional categories of activity or professional behavior of people whose identity seemed secure enough in the past no longer really obtains. . . . In a sense I suppose this does belong to what’s coming to be called the McLuhan age, in which the fantastic media mix of what were previously separate arts goes on at an ever-increasing and uncanny rate of speed, an acceleration puzzling to view.[^44]
 
-*Impressed* is a funny word for Kozloff to use, for he seems concerned by the so-called McLuhan age, which is characterized by not only a return to acoustics and orality but also a post-medium situation that parallels the breakdown of strictly defined roles. Needless to say, this new art-world formation challenged the possibility of critical distance, and Antin consciously acknowledged this by working within the maelstrom. In a vignette included in his second book, *talking at the boundaries* ([**[fig. 7]**](#fig-4-7)), Antin tells a story about a conversation he had with Kozloff and the fact that he saw Antin’s position as part of the problem:
+*Impressed* is a funny word for Kozloff to use, for he seems concerned by the so-called McLuhan age, which is characterized by not only a return to acoustics and orality but also a post-medium situation that parallels the breakdown of strictly defined roles. Needless to say, this new art-world formation challenged the possibility of critical distance, and Antin consciously acknowledged this by working within the maelstrom. In a vignette included in his second book, *talking at the boundaries* ([fig. 7](#fig-4-7)), Antin tells a story about a conversation he had with Kozloff and the fact that he saw Antin’s position as part of the problem:
 
-on my way down madison avenue i ran into max
+> on my way down madison avenue i ran into max
+> 
+> kozloff who I hadn’t seen for over a year and since it was
+> 
+> about one oclock we went into one of those steak-n-brew
+> 
+> places to sit and talk over lunch<span class="poetry-tab"> </span>max<span class="poetry-tab"> </span>who is one
+> 
+> of the most serious art critics I know<span class="poetry-tab"> </span>was concerned
+> 
+> about the way my new work was going<span class="poetry-tab"> </span>he was afraid
+> 
+> that by putting my critical concerns in an art context and
+> 
+> “becoming an artist” I was going to lose any chance i had
+> 
+> to have a serious effect on peoples minds<span class="poetry-tab"> </span>he was
+> 
+> more familiar with my art critical writing than with my poetry
+> 
+> and hed recently published one of the talk-pieces in *art*
+> 
+> *forum* so he may have had a better chance to collect feed-
+> 
+> back<span class="poetry-tab"> </span>but what bothered him most was that the usual
+> 
+> effect of estheticizing a discourse was to neutralize it
+> 
+> <span class="poetry-tab"> </span>and I agreed that this was a danger[^45]
 
-kozloff who I hadn’t seen for over a year and since it was
-
-about one oclock we went into one of those steak-n-brew
-
-places to sit and talk over lunch max who is one
-
-of the most serious art critics I know was concerned
-
-about the way my new work was going he was afraid
-
-that by putting my critical concerns in an art context and
-
-“becoming an artist” I was going to lose any chance i had
-
-to have a serious effect on peoples minds he was
-
-more familiar with my art critical writing than with my poetry
-
-and hed recently published one of the talk-pieces in *art*
-
-*forum* so he may have had a better chance to collect feed-
-
-back but what bothered him most was that the usual
-
-effect of estheticizing a discourse was to neutralize it
-
-and I agreed that this was a danger[^45]
-
-{% figure 'fig-4-7' %}
+{% figure 'fig-4-7' 'pdf-float-top' %}
 
 Antin is a real-life example of shifting roles in the art world, and by “becoming an artist,” Antin—for Kozloff at least—necessarily forfeited critical distance.[^46] For Kozloff, when critics stepped outside their roles, or blurred them, criticism lost its bite. Critical points, made in the wrong way, risked losing “serious effect.”
 
 Despite his differences with Kozloff, Antin found common cause with other critics. In fact, Antin’s text “talking at pomona” shares much with Alloway’s essay in the anniversary issue of *Artforum*. In “Network: The Art World Described as a System,” Alloway makes claims virtually identical to what Kozloff described some six years before about the shifting of roles and what Antin chronicles about painting relators, but Alloway values them differently:
 
-Art historians prepare catalogues raisonnés of living artists, so that organization of data is more or less level with their occurrence. Critics serve as guest curators and curators write art criticism. The retrospectives of de Kooning and Newman at the Museum of Modern Art were both arranged by the editor of *Art News*, Thomas B. Hess. (A crossover in the opposite direction was made by John Coplans, former curator of Pasadena Art Museum and now editor of the magazine.) William Rubin, a curator at the same museum wrote a monograph on Frank Stella; he is also a collector and lent a Newman to the retrospective. In ten years I have been a curator, a teacher and an art critic, usually two at a time. The roles within the system, therefore, do not restrict mobility; the participants can move functionally within a cooperative system. Collectors back galleries and influence museums by acting as trustees or by making donations; or a collector may act as a shop window for a gallery by accepting a package collection from one dealer or one adviser. All of us are looped together in a new and unsettling connectivity.[^47]
+> Art historians prepare catalogues raisonnés of living artists, so that organization of data is more or less level with their occurrence. Critics serve as guest curators and curators write art criticism. The retrospectives of de Kooning and Newman at the Museum of Modern Art were both arranged by the editor of *Art News*, Thomas B. Hess. (A crossover in the opposite direction was made by John Coplans, former curator of Pasadena Art Museum and now editor of the magazine.) William Rubin, a curator at the same museum wrote a monograph on Frank Stella; he is also a collector and lent a Newman to the retrospective. In ten years I have been a curator, a teacher and an art critic, usually two at a time. The roles within the system, therefore, do not restrict mobility; the participants can move functionally within a cooperative system. Collectors back galleries and influence museums by acting as trustees or by making donations; or a collector may act as a shop window for a gallery by accepting a package collection from one dealer or one adviser. All of us are looped together in a new and unsettling connectivity.[^47]
 
 In other words, everyone is now a painting relator, and while Alloway finds this unsettling, true to his pop art roots, he believes that one must work within the situation, which he rather generously describes as a “cooperative system.” Although Alloway and Antin agree on this point—Antin also sees the art world as a network, though he favored terms such as *arena,* *art world,* and *live discourse*—the difference between their views is important, and it falls largely along formal lines. To put it bluntly, Antin invents a critical form, talking, which both delineates and extends the shape of the art world, whereas Alloway leaves historical models of criticism in place. Talking, for Antin, is the default medium of art’s network. Chatting, dealing, gossiping, and rumoring are some the most common ways of disseminating information, and, given the fact that information was now art’s primary material, talking had a new claim on criticism too.
 
