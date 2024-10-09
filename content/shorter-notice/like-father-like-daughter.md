@@ -14,6 +14,7 @@ keywords: "Rosa Bonheur; sketchbook; nineteenth-century art; *Horse Fair; Haymak
 doi: ""
 nextPage: "/conversation/belonging-elsewhere/"
 previousPage: "/unlocking-heritage/"
+page_pdf_output: true
 ---
 
 In early June 1900, a two-week-long auction was coming to a close at the Galerie Georges Petit but still drawing crowds—everyone in Paris wanted to see the art hitherto cached in the studio of Rosa Bonheur (1822–99).[^1] The painter had risen to great prominence in France, England, and the United States with *The Horse Fair* (1853–55) and filled her home and studio, the Château de By, with a menagerie of animals that rivaled the zoo at the Jardin des Plantes. The most successful woman artist of the century by any measure, she had also expressly forbidden such a public and large-scale sale.[^2] But shortly after Bonheur’s death in May 1899, the inheritor of her estate, German-American painter Anna Klumpke (1856–1942), caved to mounting legal pressure and enlisted dealers Tedesco Frères to offer some two thousand paintings, works on paper, and sculpture for sale to the public.[^3] Deprived of opportunities to see Bonheur’s work in France for nearly fifty years, Parisians flocked to the gallery for the chance to view, at last, the unseen oeuvre of the *chevalier* turned *officier* of the Legion of Honor.[^4] On Thursday, 7 June, or Friday, 8 June, an assortment of sketchbooks went under the hammer.

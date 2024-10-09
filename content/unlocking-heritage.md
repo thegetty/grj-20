@@ -13,6 +13,7 @@ abstract: "Eastern State Penitentiary Historic Site, a decommissioned state pris
 keywords: "heritage preservation, dark heritage, open museum, restorative justice, historical prison site"
 doi: ""
 nextPage: "/shorter-notice/like-father-like-daughter/"
+page_pdf_output: true
 ---
 
 ## The Heritage Site

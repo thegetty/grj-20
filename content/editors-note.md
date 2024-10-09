@@ -9,7 +9,7 @@ contributor:
     last_name: Chon
 copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 20 (2025): TK–TK </span>© 2025 J. Paul Getty Trust"
 doi: ""
-pdf_download: true
+page_pdf_output: true
 ---
 
 TK
