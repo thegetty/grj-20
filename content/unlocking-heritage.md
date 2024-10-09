@@ -8,7 +8,7 @@ contributor:
   - first_name: Rita Elizabeth
     last_name: Risser
     bio: "**Rita Elizabeth Risser**, PhD, writes on the history and philosophy of the arts and its institutions, and was most recently assistant professor in the College of Humanities at United Arab Emirates University in Abu Dhabi."
-copyright: ""
+copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 20 (2025): TK–TK </span>© 2025 Rita Elizabeth Risser"
 abstract: "Eastern State Penitentiary Historic Site, a decommissioned state prison in Philadelphia that reopened as an interpretive site in 1994, reflects what philosopher Charles Taliaferro refers to as an “open museum,” one that is concerned with dialogue on res publica. It is also an example of how curators use material culture to convey knowledge and foster such dialogue. This article follows the curatorial progression at Eastern State, from its initial preservation as a stabilized ruin to the descriptive historical framing of the site, and subsequently to the critical frameworks offered through art installations and an interpretation center, all of which unlock the heritage site from the past and bring it to bear on contemporary issues of justice in the criminal legal system. In following this progression, I find that the particular effectiveness of Eastern State lies in the way material culture suffuses and informs res publica, in which a direct encounter with the historic site distinctively shapes the public conversation."
 keywords: "heritage preservation, dark heritage, open museum, restorative justice, historical prison site"
 doi: ""

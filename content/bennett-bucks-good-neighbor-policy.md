@@ -8,7 +8,7 @@ contributor:
   - first_name: James
     last_name: Oles
     bio: "**James Oles** divides his time between Mexico and the United States, where he teaches part-time in the Art Department at Wellesley College."
-copyright: ""
+copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 20 (2025): TK–TK </span>© 2025 James Oles"
 abstract: "In 1993, a painting ascribed to Mexican artist José Clemente Orozco appeared in the exhibition *South of the Border: Mexico in the American Imagination, 1914–1947* at the Yale University Art Gallery. Soon after the opening, the present author, having organized the exhibition at Yale, discovered that the work was in fact by Bennett Buck, a little-known US American artist. This essay—part memoir, part art historical analysis, part detective story—revisits a curatorial lapse to recover the meanings of Buck’s painting and its inclusion in the show *1938: Dedicated to the New Deal,* held in the fall of that year at Herman Baron’s American Contemporary Art (A. C. A.) Gallery in New York. Rather than a fake, the painting is a forgotten but important example of proletarian art that confirms the influence of Orozco’s New School and Dartmouth College murals on US American artists of the 1930s. Connoisseurship—a close reading of the painting and related documents—provides insight into how and why the painting was given a false attribution and provenance in the 1960s and 1970s."
 keywords: "New Deal, proletarian art, misattribution, Mexican muralism, provenance, José Clemente Orozco, Jay Chernis, A. C. A. Gallery, connoisseurship"
 doi: ""

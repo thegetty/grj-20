@@ -8,7 +8,7 @@ contributor:
   - first_name: Audrey
     last_name: Sands
     bio: "**Audrey Sands,** an art historian and curator based in Washington, DC, is the Andrew W. Mellon Postdoctoral Curatorial Fellow in the Department of Photographs at the National Gallery of Art."
-copyright: ""
+copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 20 (2025): TK–TK </span>© 2025 Audrey Sands"
 abstract: "The explosive growth in the recognition of photography as an art form by museums and collectors in the United States between the late 1960s and 1970s is often referred to as the photography boom. In this period, the status of the photograph evolved from functional image to valuable and collectible fine art object. This article addresses the significance of the limited-edition portfolio during the 1970s in light of this phenomenon, considering, as a case study, the portfolio *Lisette Model: Twelve Photographs*. Published in 1976 by Washington, D.C.–based art dealer Harry Lunn, the modern portfolio features US American photographer Lisette Model’s street photographs and portraits from the 1930s and 1940s printed by Gerd Sander for the edition. Sander’s role as established professional printer, in which he created an object for the market, together with Lunn’s strategic capacity as photography dealer, produced rarity—a key mechanism that generated the collectability of modernist photography in the United States."
 keywords: "photography, portfolios, rarity, Lisette Model, photo boom, limited edition, Harry Lunn, Gerd Sander"
 doi: ""
