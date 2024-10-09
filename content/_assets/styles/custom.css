@@ -349,7 +349,6 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   .quire-page__content .container .content .page-tools__copyright + blockquote + p {
     text-indent: var(--large-indent);
   }
-  c
 }
 @media screen and (max-width:700px) {
   .quire-page__header {
