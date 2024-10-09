@@ -108,6 +108,10 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
     -prince-float: bottom;
     margin-bottom: 0 !important;
   }
+  .pdf-55-percent-width img {
+    max-width: 50%;
+    margin: 0 !important;
+  }
   .pdf-60-percent-width img {
     max-width: 60%;
     margin: 0 !important;
@@ -127,6 +131,10 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
     max-width: 85%;
     margin: 0 !important;
   }
+  .pdf-75-percent-width img {
+    max-width: 75%;
+    margin: 0 !important;
+  }
   .q-figure--group.pdf-85-percent-width {
     max-width: 85% !important;
     width: 85% !important;
@@ -136,6 +144,16 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   }
   .pdf-no-bottom-margin {
     margin-bottom: 0 !important;
+  }
+  .pdf-two-column {
+    height: 8.5in !important;
+    display: block !important;
+  }
+  .pdf-two-column figure {
+    width: 45% !important;
+    float: left;
+    clear: both;
+    margin-right: 1rem !important;
   }
 }
 
@@ -315,17 +333,23 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
 .quire-page__content .container .content > blockquote:first-child {
   margin-left: var(--large-indent);
 }
+.quire-page__content .container .content > blockquote:first-child * {
+  text-align: left;
+}
 @media print {
   .quire-page__content .container .content > h2:first-child,
-  .quire-page__content .container .content .page-tools__copyright + h2 {
+  .quire-page__content .container .content .page-tools__copyright + h2,
+  .quire-page__content .container .content .page-tools__copyright + blockquote  {
     margin-left: var(--large-indent);
   }
   .quire-page__content .container .content > h2:first-child + p,
   .quire-page__content .container .content > p:first-child,
   .quire-page__content .container .content .page-tools__copyright + h2 + p,
-  .quire-page__content .container .content .page-tools__copyright + p {
+  .quire-page__content .container .content .page-tools__copyright + p,
+  .quire-page__content .container .content .page-tools__copyright + blockquote + p {
     text-indent: var(--large-indent);
   }
+  c
 }
 @media screen and (max-width:700px) {
   .quire-page__header {
@@ -864,8 +888,9 @@ summary::-webkit-details-marker {
     padding-left: var(--large-indent);
     padding-right: 0;
   }
+  /* used on GRJ 19 to break shorter notices to next page */
   .table-of-contents-list .section-item {
-    page-break-before: always;
+    /* page-break-before: always; */
   }
 }
 
