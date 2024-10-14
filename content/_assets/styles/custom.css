@@ -333,7 +333,8 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
 .quire-page__content .container .content > blockquote:first-child {
   margin-left: var(--large-indent);
 }
-.quire-page__content .container .content > blockquote:first-child * {
+.quire-page__content .container .content > blockquote:first-child *,
+.quire-page__content .container .content > blockquote.epigraph * {
   text-align: left;
 }
 @media print {
