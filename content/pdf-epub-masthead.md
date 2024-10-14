@@ -23,9 +23,9 @@ menu: false
 - {{ editor | markdownify }}
 {% endfor %}
 
-**Getty Research Journal Editorial Board** {.no-bottom-margin}
+**Getty Research Journal Editorial Advisory Committee** {.no-bottom-margin}
 
-{{ publication.series_editorial_board | markdownify }}
+{{ publication.series_advisory_committee | markdownify }}
 
 {% for member in publication.project_team %}
 - {{ member | markdownify }}
