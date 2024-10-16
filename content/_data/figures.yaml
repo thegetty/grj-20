@@ -225,30 +225,24 @@ figure_list:
     longdesc: ''
     alt: ''
   - id: "fig-2-8-a"
-    label: "Fig. 8a. —"
+    label: " "
     src: figures/fig-2-8-a.png
     zoom: true
-    caption: "**Pavel Petrov-Bytov (Russian, 1895–1960), director.** Screen captures from
-      the film *Cain and Artem*, 1929. Images courtesy University of California,
-      Berkeley, Berkeley Art Museum and Pacific Film Archive Library."
+    caption: ""
     longdesc: ''
     alt: ''
   - id: "fig-2-8-b"
-    label: "Fig. 8b. —"
+    label: " "
     src: figures/fig-2-8-b.png
     zoom: true
-    caption: "**Pavel Petrov-Bytov (Russian, 1895–1960), director.** Screen captures from
-      the film *Cain and Artem*, 1929. Images courtesy University of California,
-      Berkeley, Berkeley Art Museum and Pacific Film Archive Library."
+    caption: ""
     longdesc: ''
     alt: ''
   - id: "fig-2-8-c"
-    label: "Fig. 8c. —"
+    label: " "
     src: figures/fig-2-8-c.png
     zoom: true
-    caption: "**Pavel Petrov-Bytov (Russian, 1895–1960), director.** Screen captures from
-      the film *Cain and Artem*, 1929. Images courtesy University of California,
-      Berkeley, Berkeley Art Museum and Pacific Film Archive Library."
+    caption: ""
     longdesc: ''
     alt: ''
   - id: "fig-2-9"
