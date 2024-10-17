@@ -77,8 +77,8 @@ figure_list:
     alt: ''
   - id: "fig-1-7"
     label: "Fig. 7. —"
-    src: figures/fig-1-7.jpg
-    zoom: true
+    src: figures/fig-1-7_rights.jpg
+    # zoom: true
     caption: "**Jules Andrieu (French, 1816–after 1876).** *Disasters of the war, City
       Hall, Galerie des Fêtes,* ca. 1870–71, albumen silver print, 29.2 × 37.4 cm.
       Ottawa, National Gallery of Canada, purchased 1975, inv. 20755."
@@ -96,8 +96,8 @@ figure_list:
     alt: ''
   - id: "fig-1-9"
     label: "Fig. 9. —"
-    src: figures/fig-1-9.jpg
-    zoom: true
+    src: figures/fig-1-9_rights.jpg
+    # zoom: true
     caption: "**Central Group with France Distributing the Wreaths of Glory, from the
       one-hundred place *surtout de table* of Napoléon III, 1852–58, galvanic
       bronze and silvered galvanic bronze.** Produced by Christofle et Cie. Paris,
@@ -107,8 +107,8 @@ figure_list:
     alt: ''
   - id: "fig-1-10"
     label: "Fig. 10. —"
-    src: figures/fig-1-10.jpg
-    zoom: true
+    src: figures/fig-1-10_rights.jpg
+    # zoom: true
     caption: "**Candelabre, Les arts (Candelabra with allegory of the Arts), from the
       one-hundred place *surtout de table* of Napoléon III, 1852–58, bronze and
       silvered galvanic bronze.** Produced by Christofle et Cie. Paris, Musée des
@@ -167,8 +167,8 @@ figure_list:
     alt: ''
   - id: "fig-2-3"
     label: "Fig. 3. —"
-    src: figures/fig-2-3.jpg
-    zoom: true
+    src: figures/fig-2-3_rights.jpg
+    # zoom: true
     caption: "**Aleksandr Rodchenko (Russian, 1890–1956).** Draft illustration for
       Vladimir Mayakovsky’s poem “Pro eto,” accompanied by the lines “And the
       century stands / Unwhipped / the mare of *byt* won't budge,” 1923,
@@ -402,8 +402,8 @@ figure_list:
     alt: ''
   - id: "fig-3-14"
     label: "Fig. 14. —"
-    src: figures/fig-3-14.jpg
-    zoom: true
+    src: figures/fig-3-14_rights.jpg
+    # zoom: true
     caption: "**Rufino Tamayo (Mexican, 1899–1991). *Fascism,* 1936, ink wash on paper,
       22.9 × 35 cm.** Syracuse, New York, Everson Museum of Art. Gift of H.
       Bennett Buck, PC 77.86.40. [**ARS credit line TK**.]"
@@ -456,8 +456,8 @@ figure_list:
     alt: ''
   - id: "fig-4-3"
     label: "Fig. 3. —"
-    src: figures/fig-4-3.jpg
-    zoom: true
+    src: figures/fig-4-3_rights.jpg
+    # zoom: true
     caption: "**Douglas Huebler (American, 1924–97).** *Duration Piece, No. 15 Global*,
       1969, [**[medium TK]]**. © 2023 Estate of Douglas Huebler / Artists Rights
       Society (ARS), New York. Courtesy Paula Cooper Gallery, New York"

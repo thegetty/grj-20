@@ -17,7 +17,7 @@ menu: false
 
 **Information for Scholars** {.no-bottom-margin}
 
-All manuscripts in this issue were peer reviewed through a double-masked process in which the identities of the authors and reviewers remained anonymous.
+The manuscripts in this issue were peer reviewed through a double-masked process in which the identities of the authors and reviewers remained anonymous. Exceptions include “Bennett Buck’s *Good Neighbor Policy:* A Case of Mistaken Identity” by James Oles, which received single-anonymous review; and “Belonging Elsewhere: Felipe Baeza and Laura G. Gutiérrez in Conversation,” which did not undergo peer review.
 
 To submit a manuscript, please visit
 [grj.scholasticahq.com](https://grj.scholasticahq.com).
@@ -32,7 +32,7 @@ GRJ@getty.edu.
 {% copyright %}
 
 **Cover**
-TK
+**Felipe Baeza (Mexican, b. 1987, active in the US).** *to shape, shape self*, 2023, ink, acrylic, graphite, varnish, and cut paper on panel, 40.6 × 30.5 cm (16 × 12 in.). © Felipe Baeza. Courtesy Maureen Paley, London; kurimanzutto, Mexico City / New York. Photograph by Brad Farwell.
 
 ISSN {{ publication.identifier.issn }}
 E-ISSN {{ publication.identifier.e_issn }} {.small-caps}

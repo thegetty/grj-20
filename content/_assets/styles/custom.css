@@ -108,8 +108,12 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
     -prince-float: bottom;
     margin-bottom: 0 !important;
   }
-  .pdf-55-percent-width img {
+  .pdf-50-percent-width img {
     max-width: 50%;
+    margin: 0 !important;
+  }
+  .pdf-55-percent-width img {
+    max-width: 55%;
     margin: 0 !important;
   }
   .pdf-60-percent-width img {
@@ -125,6 +129,10 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   }
   .pdf-90-percent-width img {
     max-width: 90%;
+    margin: 0 !important;
+  }
+  .pdf-95-percent-width img {
+    max-width: 95%;
     margin: 0 !important;
   }
   .pdf-85-percent-width img {
@@ -155,6 +163,30 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
     clear: both;
     margin-right: 1rem !important;
   }
+}
+.content figure img.q-figure__image {
+  max-height: 80vh;
+  width: auto;
+  margin-left: 0;
+}
+.rights-restricted-size-half img {
+  max-height: 50vh !important;
+  width: auto;
+}
+.rights-restricted-size-quarter img {
+  max-height: 30vh !important;
+  width: auto;
+}  
+@media print {
+  .content figure img.q-figure__image {
+    max-height: none;
+  }
+  .rights-restricted-size-half img {
+    max-height: 4in !important;
+  }
+  .rights-restricted-size-quarter img {
+    max-height: 3in !important;
+  }  
 }
 
 .image-border img {
@@ -333,7 +365,7 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
 .quire-page__content .container .content > blockquote:first-child {
   margin-left: var(--large-indent);
 }
-.quire-page__content .container .content > blockquote:first-child * {
+.quire-page__content .container .content > blockquote.epigraph * {
   text-align: left;
 }
 @media print {
@@ -623,6 +655,16 @@ strong {
   padding-right: 1em;
 }
 
+/* FIGURES
+============================================================================= */
+/* Overrides styles that were enlarging images even if they were too small */
+.q-lightbox-slides__element img {
+  height: auto;
+  width: auto;
+  max-height: 90%;
+  max-width: 90%;
+}
+
 /* GROUP FIGURES
 ============================================================================= */
 .q-figure.q-figure--group {
@@ -641,6 +683,9 @@ strong {
 .q-figure.q-figure--group.has-shared-caption .q-figure .q-figure__caption .q-figure__label-text {
   text-transform: none;
 }
+.q-figure.q-figure--group.quire-grid--1 figure {
+  margin-bottom: 1rem;
+}
 .q-figure.q-figure--group.quire-grid--2 {
   grid-template-columns: 1fr 1fr;
   grid-row-gap: 1rem;
@@ -656,6 +701,12 @@ strong {
     align-items: flex-start;
     justify-content: space-between;
     flex-wrap: wrap;
+  }
+  .q-figure.q-figure--group.quire-grid--1 {
+    flex-direction: column;
+  }
+  .q-figure.q-figure--group.quire-grid--1 .q-figure {
+    margin-bottom: .5rem;
   }
   .q-figure.q-figure--group.quire-grid--2 .q-figure {
     margin-bottom: 1.5rem;
@@ -698,6 +749,9 @@ strong {
   text-transform: uppercase;
   font-feature-settings: "lnum";
   font-variant-numeric: lining-nums; /* for PrinceXML support */
+}
+.q-figure__label .q-figure__label-icon {
+  margin-left: -0.15em;
 }
 .q-figure__label .q-figure__label-icon svg {
   width: 1rem;
@@ -1377,16 +1431,18 @@ table.sahragard-table-01 img {
   }
 }
 
+/* Text treatment for interviews 
+   The commented out parts are an alternate version with a reverse indent
+   (ie., the first line sticks out to the left) that Greg liked  */
 .conversation-text {
   margin-top: 1rem;
-  margin-left: var(--standard-indent);
+  /* margin-left: var(--standard-indent); */
 }
 .conversation-text p {
   margin-bottom: 1rem !important;
   text-indent: 0 !important;
 }
 .conversation-text p > strong {
-  display: inline-block;
-  margin-left: -2rem !important;
-  /* text-indent: -2rem; */
+  /* display: inline-block;
+  margin-left: -2rem !important; */
 }
