@@ -1,8 +1,0 @@
----
-title: "Shorter Notice"
-short_title: 
-layout: splash
-order: 80
-toc_link: false
-menu_link: false
----
