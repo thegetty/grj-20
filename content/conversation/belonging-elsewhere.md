@@ -7,8 +7,8 @@ classes:
   - conversation
 order: 95
 contributor:
-  - first_name: Baeza
-    last_name: Felipe
+  - first_name: Felipe
+    last_name: Baeza
     bio: "**Felipe Baeza** is a visual artist living and working in the United States."
   - first_name: Laura G.
     last_name: Gutiérrez
@@ -49,7 +49,7 @@ But even so, that building has so many memories for me. It was probably the firs
 
 **Felipe:** But yeah, I completely forgot to share that. Because I was just very thrown off by that. And I think everything happened organically then. Because then we walk to the first bus shelter, they're showcasing the Public Art Fund Project ([figs. 4](#fig-8-4), [5](#fig-8-5)). And I think it was walking in a landscape that I have, obviously, a lot of memories from. I think it was just a full circle of going back there. And then eventually we went to the same block where I grew up. And I remember we walked through every house that I grew up in.
 
-{% figure 'fig-8-4' 'pdf-float-top pdf-75-percent-width' %}
+{% figure 'fig-8-4' 'pdf-float-bottom pdf-75-percent-width' %}
 
 {% figure 'fig-8-5' 'pdf-float-top pdf-75-percent-width' %}
 

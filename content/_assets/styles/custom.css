@@ -97,6 +97,12 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   margin-right: var(--standard-indent) !important;
 }
 
+/* same width as an image when it's in a 2x grid */
+.screen-50-percent-width img {
+  max-width: calc(50% - .5rem);
+  margin: 0 !important;
+}
+
 @media print {
   .pdf-float-top {
     float: none;
@@ -107,6 +113,14 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
     float: none;
     -prince-float: bottom;
     margin-bottom: 0 !important;
+  }
+  .pdf-40-percent-width img {
+    max-width: 40%;
+    margin: 0 !important;
+  }
+  .pdf-45-percent-width img {
+    max-width: 45%;
+    margin: 0 !important;
   }
   .pdf-50-percent-width img {
     max-width: 50%;
@@ -120,12 +134,25 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
     max-width: 60%;
     margin: 0 !important;
   }
-  .pdf-wide-image-left {
-    width: calc(100% + var(--large-indent));
+  .pdf-65-percent-width img {
+    max-width: 65%;
+    margin: 0 !important;
   }
-  .pdf-wide-image-right {
-    width: calc(100% + var(--large-indent));
-    margin-left: calc(-1 * var(--large-indent)) !important;
+  .pdf-70-percent-width img {
+    max-width: 70%;
+    margin: 0 !important;
+  }
+  .pdf-75-percent-width img {
+    max-width: 75%;
+    margin: 0 !important;
+  }
+  .pdf-80-percent-width img {
+    max-width: 80%;
+    margin: 0 !important;
+  }
+  .pdf-85-percent-width img {
+    max-width: 85%;
+    margin: 0 !important;
   }
   .pdf-90-percent-width img {
     max-width: 90%;
@@ -135,14 +162,13 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
     max-width: 95%;
     margin: 0 !important;
   }
-  .pdf-85-percent-width img {
-    max-width: 85%;
-    margin: 0 !important;
+  .pdf-wide-image-left {
+    width: calc(100% + var(--large-indent));
   }
-  .pdf-75-percent-width img {
-    max-width: 75%;
-    margin: 0 !important;
-  }
+  .pdf-wide-image-right {
+    width: calc(100% + var(--large-indent));
+    margin-left: calc(-1 * var(--large-indent)) !important;
+  }  
   .q-figure--group.pdf-85-percent-width {
     max-width: 85% !important;
     width: 85% !important;
@@ -163,6 +189,10 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
     clear: both;
     margin-right: 1rem !important;
   }
+  .pdf-page-break-before {
+    break-before: always;
+    page-break-before: always;
+  }
 }
 .content figure img.q-figure__image {
   max-height: 80vh;
@@ -181,12 +211,20 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   .content figure img.q-figure__image {
     max-height: none;
   }
-  .rights-restricted-size-half img {
+  .rights-restricted-size-half.pdf-grow img {
+    max-height: 5in !important;
+  }
+  .rights-restricted-size-half img, 
+  .rights-restricted-size-quarter.pdf-grow img {
     max-height: 4in !important;
   }
-  .rights-restricted-size-quarter img {
+  .rights-restricted-size-quarter img,
+  .rights-restricted-size-half.pdf-shrink img {
     max-height: 3in !important;
   }  
+  .rights-restricted-size-quarter.pdf-shrink img {
+    max-height: 2in !important;
+  }
 }
 
 .image-border img {
