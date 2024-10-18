@@ -28,7 +28,7 @@ A visit to Eastern State Penitentiary Historic Site begins with a visual impress
 
 The designation of Eastern State as a heritage site and its preservation as a stabilized ruin invite “attentive looking” at the building and grounds, akin to how a viewer would look at an artwork or a monument.[^5] The building’s peeling paint and rusted metal, its crumbling structures, and the encroachment of vegetation on the grounds all reflect the abandonment of incarcerated life. At the same time, the bulk of the building, though disintegrating, evokes the oppressiveness of this life.[^6] The foreboding Gothic Revival entrance adds to the heaviness with crenellated towers and barred lancet windows, in contrast to the churchlike interior of the prison with barrel vaults and skylights, presumably where redemption takes place ([figs. 2](#fig-6-2), [3](#fig-6-3)). As criminology and criminal justice scholar Jeffery Ian Ross aptly summarizes, “the building speaks for itself.”[^7]
 
-{% figure 'fig-6-2' %}
+{% figure 'fig-6-2' 'pdf-float-bottom' %}
 
 {% figure 'fig-6-3' 'pdf-float-top' %}
 
@@ -70,15 +70,15 @@ This was the ideal; the historical record of how the separate system performed i
 
 Eastern State now as a heritage site and museum poses a similar question. Is there a way to present the heritage not just as a historic site but as a living one that engages the public on present-day issues, particularly mass incarceration in the democratic state—which is a modern-day blight on democratic society itself?[^36] It is increasingly apparent that, just as solitary confinement was found to be unsuited to the objective of rehabilitation, mass incarceration is proving to be unsuited to the objective of deterrence, instead weakening social structures that might be more effective in deterring crime. Accordingly, the descriptive path through the prison and grounds leads to an interpretation center in cellblock four, with a permanent interactive exhibition opened in 2016 titled *Prisons Today: Questions in the Age of Mass Incarceration* ([fig. 5](#fig-6-5)).[^37] The minimalist approach to signage throughout the heritage site is here set aside in favor of a comprehensive interactive display consisting of educational graphics and didactics for the viewer to navigate ([figs. 6](#fig-6-6), [7](#fig-6-7)). In the adjacent yard stands a massive bar graph constructed of plate steel titled *The Big Graph,* installed in 2014 and displaying statistics updatable to 2030 based on national and world rates of incarceration and policies on capital punishment ([fig. 8](#fig-6-8)). The east side of *The Big Graph* charts every nation’s rate of incarceration, showing the US with the highest. The south side presents the growth in US incarceration rates since 1900 and the marked increase since the 1970s, precipitated by new laws and longer prison sentences. The north side conveys the racial breakdown of the US prison population in 1970 and today, showing disparities in incarceration rates among different racial groups over time. Essentially, *The Big Graph* indicates the outcomes of the penal history the visitor has just absorbed.
 
-{% figure 'fig-6-5' 'pdf-float-top' %}
-
-{% figure 'fig-6-6' 'pdf-float-top' %}
-
-{% figure 'fig-6-7' 'pdf-float-top' %}
-
-{% figure 'fig-6-8' 'pdf-float-top' %}
-
 Both the state prison and the public museum have a mission, broadly speaking, to inform individual and public thought in the service of citizenship and nation-building.[^38] As a penitentiary, the focus of Eastern State was on the penitentiary inmate. As a public museum, its focus has shifted to the viewing public, in which dialogue is no longer suppressed but now encouraged. As a penitentiary, Eastern State once relied upon isolated contemplation to reform an inmate’s thought and behavior before their release back into society. As a heritage site, Eastern State now promotes open dialogue on the realities of prison life and history so that societal thinking may be deepened and possibly reformed on justice in the criminal legal system.
+
+{% figure 'fig-6-5' %}
+
+{% figure 'fig-6-6' %}
+
+{% figure 'fig-6-7' %}
+
+{% figure 'fig-6-8' %}
 
 ## The Conversational Frame
 

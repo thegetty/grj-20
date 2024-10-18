@@ -37,7 +37,7 @@ Establishing that this object was in use for a period of more than ten years cre
 
 Rosa’s father emerges as the best candidate for the ink-and-wash compositions in the sketchbook, as suggested by the lot description in the auction catalog. Given the date of the object’s manufacture, Raymond was most likely its first owner. The inscription of its belonging to R. Bonheur and the accompanying address suggest that leaf 83r was Raymond’s starting point, further supported by the detailed landscapes in sepia ink and wash that appear only in the second half of the sketchbook, of which his composition depicting the chiseled face of a mountain below a band of tall clouds on leaf 81v is representative ([fig. 3](#fig-7-3)). The foreground, a short incline bordered at the left by trees and moss, creates the perch for this view. Although he was the father and teacher of a *peintre animalière* (animal painter), Raymond made his career with such vistas. The construction of this landscape sketch is similar to that of his painting *Romantic Landscape* (1834), now in the collection of the Musée des Beaux-Arts in Bordeaux, reinforcing the identification of Raymond as its author. In one of the other shared sketchbooks sold at Rosa’s estate sale, lot 1841, the sepia drawings were exclusively attributed to Raymond. The catalog proposed that this album bearing the equivocal monogram “RB” had originated as a gift for Raymond, as it contained many sketches that the catalog dated to the late 1820s and attributed to the Bonheur patriarch.[^13]
 
-{% figure 'fig-7-3' %}
+{% figure 'fig-7-3' 'pdf-float-top' %}
 
 Raymond’s predilection for heightening pencil drawings with ink recurs in a sketch on leaf 80v—a portrait of a child greatly resembling Rosa ([fig. 4](#fig-7-4)). Crowned by short curls and framed by a delicate lace collar, the child’s rounded, youthful face turns downward. The fullness of her face recalls Raymond’s portrait of Rosa as a young girl with her brother Auguste ([fig. 5](#fig-7-5)), more so than that of a grown Rosa painted by the Auguste years later and exhibited at the Salon in 1848 ([fig. 6](#fig-7-6)).[^14] The figure in the sketchbook portrait crouches, with her left arm balanced on her knee and an outstretched right palm, as though to feed a small, unpictured animal. The mountainscape and Rosa’s cameo support the assertion that this was originally Raymond’s sketchbook, possibly one that he intended to use for drawings in this medium, and also suggest that the volume predates the family’s relocation to rue Rumford in 1841, when Rosa was nineteen years old.
 
@@ -71,7 +71,7 @@ Given the shared origin story for her major Salon submissions in the early 1850s
 
 {% figure 'fig-7-11' 'pdf-float-top pdf-60-percent-width' %}
 
-{% figure 'fig-7-12' 'pdf-float-top' %}
+{% figure 'fig-7-12' 'pdf-float-top pdf-wide-image-left' %}
 
 The placement of these studies in an old, used sketchbook purchased over a decade before, rather than in a new volume of fresh pages, suggests that Rosa treated the development of *Haymaking* as an extension of her father’s own practice, literally and figuratively. Leaves 48 and 49v are drawn in the same page orientation as Raymond’s landscape studies in the second half of the album. Rosa’s sketches for *Haymaking*, along with the drawings for *The Horse Fair*, also fall between the successions of blank pages in the middle of the object. Just as the final works reflected Rosa’s bids to continue the familial artistic lineage, the early drawings for them were executed in the sketchbook in such a way that they seem to continue Raymond’s contributions.
 
@@ -83,7 +83,7 @@ The sketchbook linking Rosa’s two works attests to the artistic proximity betw
 {{ person.bio | markdownify }} {.grj-contributor-bio}
 {% endfor %}
 
-## Notes {.notes-heading}
+## Notes {.notes-heading.pdf-page-break-before}
 
 I thank Naina Saligram for her insightful reading and intellectual generosity. Unless otherwise noted, translations are mine. When the sketchbook was first digitized, there were two minor errors in the pagination. Leaf 26r jumps to leaf 27v, eliding leaves 26v and 27r; leaves 41v and 42r repeat leaves 40v and 41r. The pages referenced above and reproduced as illustrations from the Bonheur sketchbook reflect its corrected pagination. {.backmatter}
 
