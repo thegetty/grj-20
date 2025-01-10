@@ -179,7 +179,7 @@ I talked to many wonderful people while working on this essay, including Charles
 
 Epigraph: letter dated 27 May 1976, sent from David Antin to Leo Steinberg for a panel held on “The Goals of Criticism” at the College Art Association annual conference in Los Angeles in February 1977. David Antin papers, 1956–2006, Los Angeles, Getty Research Institute (GRI), 2008.M.56, box 27, folder 10. Emphasis mine. {.backmatter}
 
-[^1]: David Antin, “A Few Words,” *Selected Poems: 1963–1973* (Los Angeles: Sun & Moon, 1991), 13–14. Antin’s early books include *Definitions* (New York: Caterpillar, 1967); *Code of Flag Behavior* (Los Angeles: Black Sparrow, 1968) and *Meditations* (Los Angeles: Black Sparrow, 1971).
+[^1]: David Antin, “A Few Words,” *Selected Poems: 1963–1973* (Los Angeles: Sun & Moon, 1991), 13–14. Antin’s early books include *Definitions* ([New York]: Caterpillar, 1967); *Code of Flag Behavior* (Los Angeles: Black Sparrow, 1968) and *Meditations* (Los Angeles: Black Sparrow, 1971).
 
 [^2]: David Antin, “Grey Paint: Robert Morris,” *Art News*, April 1966, 22.
 
