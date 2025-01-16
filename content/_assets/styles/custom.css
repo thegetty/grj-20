@@ -1484,3 +1484,44 @@ table.sahragard-table-01 img {
   /* display: inline-block;
   margin-left: -2rem !important; */
 }
+
+/*Captions for Victorious Laughter figs 8a-c, Kitnick 5a, 5b*/
+#fig-2-8-a figcaption.q-figure__caption {
+  display: none;
+}
+
+#fig-2-8-a figcaption.q-figure__caption:target {
+  display: block;
+}
+
+#fig-2-8-b figcaption.q-figure__caption {
+  display: none;
+}
+
+#fig-2-8-b figcaption.q-figure__caption:target {
+  display: block;
+}
+
+#fig-2-8-c figcaption.q-figure__caption {
+  display: none;
+}
+
+#fig-2-8-c figcaption.q-figure__caption:target {
+  display: block;
+}
+
+#fig-4-5-a figcaption.q-figure__caption {
+  display: none;
+}
+
+#fig-4-5-a figcaption.q-figure__caption:target {
+  display: block;
+}
+
+#fig-4-5-b figcaption.q-figure__caption {
+  display: none;
+}
+
+#fig-4-5-b figcaption.q-figure__caption:target {
+  display: block;
+}

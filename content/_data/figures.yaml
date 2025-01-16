@@ -225,24 +225,24 @@ figure_list:
     longdesc: ''
     alt: ''
   - id: "fig-2-8-a"
-    label: " "
+    label: "Fig. 8A. —"
     src: figures/fig-2-8-a.png
     zoom: true
-    caption: ""
+    caption: "**Pavel Petrov-Bytov (Russian, 1895–1960), director.** Screen captures from the film Cain and Artem, 1929. Images courtesy University of California, Berkeley, Berkeley Art Museum and Pacific Film Archive Library."
     longdesc: ''
     alt: ''
   - id: "fig-2-8-b"
-    label: " "
+    label: "Fig. 8B. —"
     src: figures/fig-2-8-b.png
     zoom: true
-    caption: ""
+    caption: "**Pavel Petrov-Bytov (Russian, 1895–1960), director.** Screen captures from the film Cain and Artem, 1929. Images courtesy University of California, Berkeley, Berkeley Art Museum and Pacific Film Archive Library."
     longdesc: ''
     alt: ''
   - id: "fig-2-8-c"
-    label: " "
+    label: "Fig. 8C. —"
     src: figures/fig-2-8-c.png
     zoom: true
-    caption: ""
+    caption: "**Pavel Petrov-Bytov (Russian, 1895–1960), director.** Screen captures from the film Cain and Artem, 1929. Images courtesy University of California, Berkeley, Berkeley Art Museum and Pacific Film Archive Library."
     longdesc: ''
     alt: ''
   - id: "fig-2-9"
@@ -341,13 +341,6 @@ figure_list:
       American, 1904–2001) from *1938: Dedicated to the New Deal* (New York:
       A.C.A. Gallery, 1938).** The Wolfsonian–FIU, Gift of Francis Xavier Luca and
       Clara Helena Palacio Luca, XC2014.03.1.9."
-    longdesc: ''
-    alt: ''
-  - id: "fig-3-8-b"
-    label: ". —"
-    src: figures/fig-3-8-b.jpg
-    zoom: true
-    caption: ""
     longdesc: ''
     alt: ''
   - id: "fig-3-9"
@@ -472,17 +465,17 @@ figure_list:
     longdesc: ''
     alt: ''
   - id: "fig-4-5-a"
-    label: " "
+    label: "Fig. 5A. —"
     src: figures/fig-4-5-a.jpg
     zoom: true
-    caption: 
+    caption: "**Postcard, front, of David Antin delivering the talk “Figures of Thought or Figures of Thinking,” 80 Langton Street, San Francisco, California, 13 May 1978.**"
     longdesc: ''
     alt: ''
   - id: "fig-4-5-b"
-    label: " "
+    label: "Fig 5B. —"
     src: figures/fig-4-5-b.jpg
     zoom: true
-    caption: 
+    caption: "**Postcard, back, of David Antin delivering the talk “Figures of Thought or Figures of Thinking,” 80 Langton Street, San Francisco, California, 13 May 1978.**"
     longdesc: ''
     alt: ''
   - id: "fig-4-6"
@@ -921,25 +914,11 @@ figure_list:
       Greenberg. © Graciela Iturbide."
     longdesc: ''
     alt: ''
-  - id: "fig-8-7a-FPO"
-    label: ""
-    src: figures/fig-8-7a-FPO.png
+  - id: "fig-8-7"
+    label: "Fig. 7. —"
+    src: figures/fig-8-7.jpg
     zoom: true
-    caption: ""
-    longdesc: ''
-    alt: ''
-  - id: "fig-8-7b-FPO"
-    label: ""
-    src: figures/fig-8-7b-FPO.png
-    zoom: true
-    caption: ""
-    longdesc: ''
-    alt: ''
-  - id: "fig-8-7c-FPO"
-    label: ""
-    src: figures/fig-8-7c-FPO.png
-    zoom: true
-    caption: ""
+    caption: "**Nahum B. Zenil (Mexican, b. 1947).** ¡*Oh, santa bandera! (A Enrique Guzmán)* (Oh, Holy Flag! [For Enrique Guzmán]), 1996, ink, acrylic, and oil on paper, triptych: [[**dimensions TK**]]. Mexico City, Museo Universitario Arte Contemporáneo, acquisition with funds from the Presupuesto de Egresos de la Federación, 2013."
     longdesc: ''
     alt: ''
   - id: "fig-8-8-FPO"
@@ -951,25 +930,25 @@ figure_list:
       collection."
     longdesc: ''
     alt: ''
-  - id: "fig-8-9"
-    label: "Fig. 9. —"
-    src: figures/fig-8-9.jpg
+  - id: "fig-8-8"
+    label: "Fig. 8. —"
+    src: figures/fig-8-8.jpg
     zoom: true
     caption: "**Felipe Baeza working in his studio at the Getty Research Institute,
       2022.** Photograph courtesy the Getty Research Institute, Los Angeles."
     longdesc: ''
     alt: ''
-  - id: "fig-8-10"
-    label: "Fig. 10. —"
-    src: figures/fig-8-10.jpg
+  - id: "fig-8-9"
+    label: "Fig. 9. —"
+    src: figures/fig-8-9.jpg
     zoom: true
     caption: "**Felipe Baeza in his studio at the Getty Research Institute, 2022.**
       Photograph courtesy the Getty Research Institute, Los Angeles."
     longdesc: ''
     alt: ''
-  - id: "fig-8-11"
-    label: "Fig. 11. —"
-    src: figures/fig-8-11.jpg
+  - id: "fig-8-10"
+    label: "Fig. 10. —"
+    src: figures/fig-8-10.jpg
     zoom: true
     caption: "**Codex-style plate, Maya, late classic period, 640–740 CE, earthenware; red
       and black on cream slip paint, diam.: 5.8 × 32 cm.** Boston, Museum of Fine
@@ -977,9 +956,9 @@ figure_list:
       Arts, Boston."
     longdesc: ''
     alt: ''
-  - id: "fig-8-12"
-    label: "Fig. 12. —"
-    src: figures/fig-8-12.jpg
+  - id: "fig-8-11"
+    label: "Fig. 11. —"
+    src: figures/fig-8-11.jpg
     zoom: true
     caption: "**Felipe Baeza (Mexican, b. 1987, active in the US).** *to shape, shape
       self*, 2023, ink, acrylic, graphite, varnish, and cut paper on panel, 40.6 ×
@@ -987,9 +966,9 @@ figure_list:
       kurimanzutto, Mexico City / New York. Photograph by Brad Farwell."
     longdesc: ''
     alt: ''
-  - id: "fig-8-13"
-    label: "Fig. 13. —"
-    src: figures/fig-8-13.jpg
+  - id: "fig-8-12"
+    label: "Fig. 12. —"
+    src: figures/fig-8-12.jpg
     zoom: true
     caption: "**Felipe Baeza (Mexican, b. 1987, active in the US).** *Our shadows
       merging*, 2023, ink, graphite, varnish, and cut paper on panel, 40.6 × 30.5
@@ -997,9 +976,9 @@ figure_list:
       kurimanzutto, Mexico City / New York. Photograph by Brad Farwell."
     longdesc: ''
     alt: ''
-  - id: "fig-8-14"
-    label: "Fig. 14. —"
-    src: figures/fig-8-14.jpg
+  - id: "fig-8-13"
+    label: "Fig. 13. —"
+    src: figures/fig-8-13.jpg
     zoom: true
     caption: "**Felipe Baeza (Mexican, b. 1987, active in the US).** *Confined but still
       intoxicated with freedom*, 2022, ink, graphite, varnish, and cut paper on

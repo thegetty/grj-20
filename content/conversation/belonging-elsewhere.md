@@ -23,7 +23,7 @@ page_pdf_output: true
 
 [Introductory blurb TK.] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum ([figs. 1–3](#fig-8-1)).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum ([figs. 1](#fig-8-1)-[3](#fig-8-3)).
 
 {% figure 'fig-8-1' 'pdf-float-top' %}
 
@@ -149,15 +149,13 @@ So those were two visual markers that I encountered in Pilsen that have had a la
 
 **Laura:** Do you remember what Nahum image you saw as a nine- or ten-year-old? Because I can picture Iturbide’s *Magnolia* perfectly.
 
-**Felipe:** Well, there’s two that I remember. One is a triptych of him being double penetrated by the Mexican flag ([figs. 7a–c](#fig-8-7a-FPO)).
+**Felipe:** Well, there’s two that I remember. One is a triptych of him being double penetrated by the Mexican flag ([fig. 7](#fig-8-7)).
 
-{% figuregroup '1' 'fig-8-7a-FPO, fig-8-7b-FPO, fig-8-7c-FPO' '<span class="q-figure__label-text">Figs. 7a, 7b, 7c. — </span>**Nahum B. Zenil (Mexican, b. 1947).** ¡*Oh, santa bandera! (A Enrique Guzmán)* (Oh, Holy Flag! [For Enrique Guzmán]), 1996, ink, acrylic, and oil on paper, triptych: [[**dimensions TK**]]. Mexico City, Museo Universitario Arte Contemporáneo, acquisition with funds from the Presupuesto de Egresos de la Federación, 2013.' 'has-shared-caption pdf-float-top pdf-two-column' %}
+{% figure 'fig-8-7' 'pdf-float-top pdf-45-percent-width' %}
 
 **Laura:** That’s the image that came to my mind when you mentioned his name.
 
-**Felipe:** Oh really!? That particular image I’m sure I encountered way later. But the first image wasn’t sexual at all; it was a self-portrait of him with thorns around his head. ([fig. 8](#fig-8-8-FPO))
-
-{% figure 'fig-8-8-FPO' 'pdf-float-top' %}
+**Felipe:** Oh really!? That particular image I’m sure I encountered way later. But the first image wasn’t sexual at all; it was a self-portrait of him with thorns around his head.
 
 **Laura:** Were you aware then that it was a self-portrait?
 
@@ -233,9 +231,9 @@ But maybe this is a good moment to pivot back more directly to your work?
 
 I was remembering our time at the Getty in Los Angeles, and the privilege of being able to pop my head into your studio and see your work in process ([figs. 9](#fig-8-9), [10](#fig-8-10)). After seeing you make work on such a small, intimate scale, it’s surprising to see those same works blown up and installed in bus shelters across six cities in the United States and Mexico for this Public Art Fund commission!
 
-{% figure 'fig-8-9' 'pdf-float-top' %}
+{% figure 'fig-8-8' 'pdf-float-top' %}
 
-{% figure 'fig-8-10' 'pdf-float-top' %}
+{% figure 'fig-8-9' 'pdf-float-top' %}
 
 Perhaps we could start by talking about the Mesoamerican artifacts these works were based on. Beyond specific identifications of the objects, their references, and symbolism, I’m interested in your own mythmaking with and through them.
 
@@ -263,11 +261,11 @@ For me, that public commission expanded in so many directions. Having time and s
 
 There is one object that I had been particularly obsessed with: a Maya plate that turned out to be at the MFA in Boston of all places, the only city of the initial three that I had no personal connection to ([fig. 11](#fig-8-11)). Like many of the objects that I picked for this project, this plate depicts transformation and regeneration. Here it’s a maize god rebirthing from the shell of a turtle while aided by an individual on each side. Together they make a collective that allows you to come into existence, to be present.
 
-{% figure 'fig-8-11' 'pdf-float-top' %}
+{% figure 'fig-8-10' 'pdf-float-top' %}
 
 **Laura:** That's one of my favorite images that you work with. And it was mind-blowing to see *to shape, shape self* (2023) at a bus stop—you’re doing a new kind of mythmaking, for a public audience ([fig. 12](#fig-8-12))([see fig. 5](#fig-8-5)).
 
-{% figure 'fig-8-12' 'pdf-float-top' %}
+{% figure 'fig-8-11' 'pdf-float-top' %}
 
 **Felipe:** Thank you for sharing that! It’s been hard to take in this project when I see it firsthand on the streets, but it’s beautiful to see it through the eyes of friends and family, and to witness their excitement at seeing an image in public made by someone they know.
 
@@ -277,9 +275,9 @@ As an artist, public art is an important responsibility, and I haven't fully abs
 
 **Felipe:** Well, I want to return to what you said about the work’s format and scale, because I agree that the enlargement makes them feel very different. I worked on these images at the Getty on a very different scale, as panels—and the largest one was probably sixteen by twelve inches, so very intimate ([figs. 13](#fig-8-13), [14](#fig-8-14)). I worked on them one by one. And obviously I knew they were going to be enlarged and printed. But I didn't comprehend that scale until I got the proofs. And I was like, “Whoa!” The prints take up space in a very different way than the smaller ones; the images feel so different.
 
-{% figure 'fig-8-13' 'pdf-float-top' %}
+{% figure 'fig-8-12' 'pdf-float-top' %}
 
-{% figure 'fig-8-14' 'pdf-float-top' %}
+{% figure 'fig-8-13' 'pdf-float-top' %}
 
 And that was also my feeling when I first opened the proofs—like your niece, I was like, “These are so scary!,” but also beautiful in how they take up space and have agency, as if it to reclaim space: I'm here, and you're forced to deal with me. And I think that's also why it was hard to encounter them at first, hard to know how to respond to them. I wondered if they were taking up too much space. . . .
 
