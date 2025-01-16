@@ -25,7 +25,7 @@ The exhibition included four major paintings by Diego Rivera and, as I recall, n
 
 I was under time pressure, rushing to fill gaps with last-minute loans, when Pilar García, now a curator at the Universidad Nacional Autónoma de México’s Museo Universitario Arte Contemporáneo, introduced me to two museum patrons in Mexico City with a spectacular collection of works by Dr. Atl, Joaquín Clausell, and Carlos Mérida.[^3] In their house in a quiet neighborhood near San Ángel, in the south of Mexico City, I was shown a large and brilliantly colored canvas measuring 150 by 90 centimeters ([fig. 1](#fig-3-1)). Although the work was unsigned, a shiny brass label affixed to the frame listed both artist and title: José Clemente Orozco, *Norte Sur (*North South)*.* Apparently, I had found what I was looking for.
 
-{% figure 'fig-3-1' 'rights-restricted-size-half pdf-float-top pdf-85-percent-width' %}
+{% figure 'fig-3-1' 'pdf-float-top pdf-80-percent-width' %}
 
 The oil painting in question consists of a montage of different geographic and social spaces rendered at different scales: meaning is generated through their abrupt juxtapositions. Montage was a compositional strategy employed by several muralists in the 1930s, including Thomas Hart Benton and Rivera, but in this painting, the use of rigid lines and overlapping elements brought to mind similar features in Orozco’s mural cycle from 1930–31 at the New School for Social Research in New York. In terms of iconography, the painting juxtaposes an ancient and traditional Mexican “south” with an industrialized US “north,” much as Orozco does in his *Epic of American Civilization*, painted in the Baker Library at Dartmouth College in 1932–34 ([figs. 2](#fig-3-2), [3](#fig-3-3)). In the painting, the contrast is arranged vertically, and thus geographically, with north above south, rather than horizontally. The stoic expressions and massing of the four men wearing the white cotton clothing typical of Mexico’s agricultural peasantry, who march in profile at the lower-right side, resemble figures in Orozco’s early frescos from 1923–26 in the Escuela Nacional Preparatoria in Mexico City, and in the mural cycle at the New School. Most directly, however, they evoke the muscular bodies of the Indigenous figures in *Migration*, the opening panel of the Dartmouth cycle, albeit clothed and transported from an ancient context to a contemporary one ([fig. 4](#fig-3-4)).
 
@@ -73,9 +73,9 @@ Buck (1900–1982) is one of several artists included in *1938* who have left sc
 
 {% figuregroup '2', 'fig-3-10, fig-3-11' '' 'pdf-float-top' %}
 
-{% figure 'fig-3-12' 'pdf-float-top' %}
+{% figure 'fig-3-12' 'pdf float-top'%}
 
-{% figure 'fig-3-13' 'pdf-float-top pdf-75-percent-width' %}
+{% figure 'fig-3-13' 'pdf-75-percent-width' %}
 
 The best indication of Bennett Buck’s aesthetic interests emerges from his donation of almost one hundred works on paper, mainly prints, to the Everson Museum of Art at Syracuse University around 1977, by which time he had retired to St. Petersburg, Florida. This eclectic gift included forty-nine of Buck’s own works, including several of the Puerto Rico drawings and some explicitly leftist or antifascist images, along with prints and drawings by a wide range of European artists, such as William Blake and André Masson. Buck also gave the museum works by William Gropper, Levi, and Louis Lozowick, all of whom had participated in the A. C. A. exhibition in 1938, and a copy of Orozco’s 1929 lithograph *The Maguey* ([see fig. 5](#fig-3-5)).[^25] The donation also contained prints by Mexican artists Leopoldo Méndez, Roberto Montenegro, Gonzalo de la Paz Pérez, Everardo Ramírez, and Siqueiros.[^26] Buck also gave the Everson an ink-wash drawing by Rufino Tamayo titled *Fascism*, one of very few explicitly political works by the artist, perhaps done in New York at the time of the American Artists’ Congress ([fig. 14](#fig-3-14)).[^27]
 
