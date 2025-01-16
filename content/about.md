@@ -92,7 +92,7 @@ GRJ@getty.edu.
 
 **Cover**
 
-**Felipe Baeza (Mexican, b. 1987, active in the US).** *to shape, shape self*, 2023, ink, acrylic, graphite, varnish, and cut paper on panel, 40.6 × 30.5 cm (16 × 12 in.). © Felipe Baeza. Courtesy Maureen Paley, London; kurimanzutto, Mexico City / New York. Photograph by Brad Farwell.
+**Felipe Baeza (Mexican, b. 1987, active in the US).** *to shape, shape self*, 2023, ink, acrylic, graphite, varnish, and cut paper on panel, 40.6 × 30.5 cm. © Felipe Baeza. Courtesy Maureen Paley, London; kurimanzutto, Mexico City / New York. Photograph by Brad Farwell.
 
 </div>
 <div class="identifiers">
