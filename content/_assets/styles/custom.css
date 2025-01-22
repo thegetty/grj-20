@@ -724,6 +724,11 @@ strong {
 .q-figure.q-figure--group.has-shared-caption .q-figure .q-figure__caption .q-figure__label-text {
   text-transform: none;
 }
+.q-figure.q-figure--group.has-shared-caption > .q-figure figcaption .q-figure__caption-content,
+.q-figure.q-figure--group.has-shared-caption > .q-figure figcaption .q-figure__credit,
+.q-figure.q-figure--group.has-shared-caption > .q-figure figcaption .q-figure__label-text {
+  display: none;
+}
 .q-figure.q-figure--group.quire-grid--1 figure {
   margin-bottom: 1rem;
 }
@@ -1488,48 +1493,7 @@ table.sahragard-table-01 img {
   margin-left: -2rem !important; */
 }
 
-/*Captions for Victorious Laughter figs 8a-c, Kitnick 5a, 5b*/
-#fig-2-8-a figcaption.q-figure__caption {
-  display: none;
-}
-
-#fig-2-8-a figcaption.q-figure__caption:target {
-  display: block;
-}
-
-#fig-2-8-b figcaption.q-figure__caption {
-  display: none;
-}
-
-#fig-2-8-b figcaption.q-figure__caption:target {
-  display: block;
-}
-
-#fig-2-8-c figcaption.q-figure__caption {
-  display: none;
-}
-
-#fig-2-8-c figcaption.q-figure__caption:target {
-  display: block;
-}
-
-#fig-4-5-a figcaption.q-figure__caption {
-  display: none;
-}
-
-#fig-4-5-a figcaption.q-figure__caption:target {
-  display: block;
-}
-
-#fig-4-5-b figcaption.q-figure__caption {
-  display: none;
-}
-
-#fig-4-5-b figcaption.q-figure__caption:target {
-  display: block;
-}
-
-
+/* For introductory note in Conversation */
 .quire-page__content .container .content p.introductory-note {
   font-style: italic;
   text-indent: 0;
