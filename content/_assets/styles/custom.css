@@ -406,6 +406,10 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
 .quire-page__content .container .content > blockquote.epigraph * {
   text-align: left;
 }
+.quire-page__content .container .content .epigraph-signature {
+  margin-top: 1rem;
+  text-indent: 0 !important;
+}
 @media print {
   .quire-page__content .container .content > h2:first-child,
   .quire-page__content .container .content .page-tools__copyright + h2,
@@ -1524,4 +1528,11 @@ table.sahragard-table-01 img {
 
 #fig-4-5-b figcaption.q-figure__caption:target {
   display: block;
+}
+
+
+.quire-page__content .container .content p.introductory-note {
+  font-style: italic;
+  text-indent: 0;
+  margin: 1rem 0;
 }

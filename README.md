@@ -143,6 +143,9 @@ Refactored logic to handle oxford commas correctly
 **_plugins/shortcodes/figureGroup.js**
 Added caption and class parameters that can be fed in from shortcode; and simplified HTML markup to remove rows
 
+**_plugins/transforms/outputs/pdf/transform.js**
+Fixed transform that was converting external links to slugified anchor links
+
 **content/_computed/eleventyComputed.js**
 Changed pagination so next/prev pages can be overridden on individual pages; and added menu_link and toc_link properties, so items in menus and toc can appear without a link to the page
 

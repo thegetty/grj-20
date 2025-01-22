@@ -12,18 +12,17 @@ figure_list:
     label: "Fig. 1. —"
     src: figures/fig-1-1.jpg
     zoom: true
-    caption: "**Foldout six-part photographic panorama and hand-colored plan from *Surtout
+    caption: "**Foldout, six-part photographic panorama and hand-colored plan from *Surtout
       de table de la Ville de Paris, éxecuté par Mrs. Christofle et Cie d’après
-      les dessins de Mr. Vor Baltard, member de l’Institut, et détruit dans
-      l’incendie de l’Hôtel de Ville en mai 1871,* ca. 1872, albumen [[and TK]]
-      prints and watercolor.** Los Angeles, Getty Research Institute, 2023.R.7."
+      les dessins de Mr. Vor. Baltard, member de l’Institut, et détruit dans
+      l’incendie de l’Hôtel de Ville en mai 1871,* ca. 1872, albumen prints and watercolor.** Los Angeles, Getty Research Institute, 2023.R.7."
     longdesc: ''
     alt: ''
   - id: "fig-1-2"
     label: "Fig. 2. —"
     src: figures/fig-1-2.jpg
     zoom: true
-    caption: "**Charles Marville (French, 1816–79).** *Interior of the Hotel de Ville,
+    caption: "**Charles Marville (French, 1816–79).** *Interior of the Hôtel de Ville,
       l’escalier à double révolution de la cour Louis XIV* (axial stair of the
       Louis XIV courtyard), ca. 1865, albumen print from wet collodion negative,
       27 × 36.5 cm. Williamstown, Massachusetts, Clark Art Institute, lent by the
@@ -35,9 +34,9 @@ figure_list:
     src: figures/fig-1-3.jpg
     zoom: true
     caption: "**Charles Gumery (French, 1827–71), sculptor.** *La Ville de Paris* (The
-      city of Paris), **[[type of photograph print TK]]**[,] from *Surtout de
+      city of Paris), **[[type of photograph print TK]]** from *Surtout de
       table de la Ville de Paris, éxecuté par Mrs. Christofle et Cie d’après les
-      dessins de Mr. Vor Baltard, member de l’Institut, et détruit dans l’incendie
+      dessins de Mr. Vor. Baltard, member de l’Institut, et détruit dans l’incendie
       de l’Hôtel de Ville en mai 1871,* ca. 1872. Los Angeles, Getty Research
       Institute, 2023.R.7."
     longdesc: ''
@@ -48,7 +47,7 @@ figure_list:
     zoom: true
     caption: "**Jacques Maillet (French, 1823–94), sculptor.** *La Seine (face
       antérieure)* (Seine River [front side]), from *Surtout de table de la Ville
-      de Paris, éxecuté par Mrs. Christofle et Cie d’après les dessins de Mr. Vor
+      de Paris, éxecuté par Mrs. Christofle et Cie d’après les dessins de Mr. Vor.
       Baltard, member de l’Institut, et détruit dans l’incendie de l’Hôtel de
       Ville en mai 1871*, ca. 1872. Los Angeles, Getty Research Institute,
       2023.R.7."
@@ -60,7 +59,7 @@ figure_list:
     zoom: true
     caption: "**Mathurin Moreau (French, 1822–1912), sculptor.** *Triton à la conque*
       (Triton with a conch), from *Surtout de table de la Ville de Paris, éxecuté
-      par Mrs. Christofle et Cie d’après les dessins de Mr. Vor Baltard, member de
+      par Mrs. Christofle et Cie d’après les dessins de Mr. Vor. Baltard, member de
       l’Institut, et détruit dans l’incendie de l’Hôtel de Ville en mai 1871,* ca.
       1872. Los Angeles, Getty Research Institute, 2023.R.7."
     longdesc: ''
@@ -79,7 +78,7 @@ figure_list:
     label: "Fig. 7. —"
     src: figures/fig-1-7_rights.jpg
     # zoom: true
-    caption: "**Jules Andrieu (French, 1816–after 1876).** *Disasters of the war, City
+    caption: "**Jules Andrieu (French, 1816–after 1876).** *Disasters of the War, City
       Hall, Galerie des Fêtes,* ca. 1870–71, albumen silver print, 29.2 × 37.4 cm.
       Ottawa, National Gallery of Canada, purchased 1975, inv. 20755."
     longdesc: ''
@@ -89,7 +88,7 @@ figure_list:
     src: figures/fig-1-8.jpg
     zoom: true
     caption: "**Cover of *Surtout de table de la Ville de Paris, éxecuté par Mrs.
-      Christofle et Cie d’après les dessins de Mr. Vor Baltard, member de
+      Christofle et Cie d’après les dessins de Mr. Vor. Baltard, member de
       l’Institut, et détruit dans l’incendie de l’Hôtel de Ville en mai 1871*, ca.
       1872.** Los Angeles, Getty Research Institute, 2023.R.7."
     longdesc: ''
@@ -98,7 +97,7 @@ figure_list:
     label: "Fig. 9. —"
     src: figures/fig-1-9_rights.jpg
     # zoom: true
-    caption: "**Central Group with France Distributing the Wreaths of Glory, from the
+    caption: "**Central group with France Distributing the Wreaths of Glory, from the
       one-hundred place *surtout de table* of Napoléon III, 1852–58, galvanic
       bronze and silvered galvanic bronze.** Produced by Christofle et Cie. Paris,
       Musée des Arts Décoratifs, 7023.A. © Les Arts Décoratifs/ Jean Tholance,
@@ -109,7 +108,7 @@ figure_list:
     label: "Fig. 10. —"
     src: figures/fig-1-10_rights.jpg
     # zoom: true
-    caption: "**Candelabre, Les arts (Candelabra with allegory of the Arts), from the
+    caption: "**Candélabre, Les arts (Candelabra with allegory of the Arts), from the
       one-hundred place *surtout de table* of Napoléon III, 1852–58, bronze and
       silvered galvanic bronze.** Produced by Christofle et Cie. Paris, Musée des
       Arts Décoratifs, 7023.E. © Les Arts Décoratifs/ Jean Tholance, madparis.fr."
@@ -121,7 +120,7 @@ figure_list:
     zoom: true
     caption: "**“Musée centennale de 1900. Époque Napoléon III—Fannière, Christofle,
       Froment-Meurice fils,” from Henri Bouilhet, *L’orfèvrerie française aux
-      XVIIIe et XIXe siècles,* vol. 1, *L’orfèvrerie française aux XVIIe siècle
+      XVIIIe et XIXe siècles (1700–1900),* vol. 1, *L’orfèvrerie française aux XVIIIe siècle
       (1700–1789)* (Paris: H. Laurens, 1908), 21.** Los Angeles, Getty Research
       Institute, NK7149.B76."
     longdesc: ''
@@ -132,7 +131,7 @@ figure_list:
     zoom: true
     caption: "**“Ensemble du surtout de l’Hôtel de Ville de Paris (Orfèvrerie de
       Christofle),” from Henri Bouilhet, *L’orfèvrerie française aux XVIIIe et
-      XIXe siècles,* vol. 3, *L’orfèvrerie française aux XIXe siècle: Deuxième
+      XIXe siècles (1700–1900),* vol. 3, *L’orfèvrerie française aux XIXe siècle: Deuxième
       période (1860–1900)* (Paris: H. Laurens, 1912), 43.** Los Angeles, Getty
       Research Institute, NK7149.B76."
     longdesc: ''
@@ -155,8 +154,8 @@ figure_list:
     label: "Fig. 2. —"
     src: figures/fig-2-2.jpg
     zoom: true
-    caption: "**Brigade KGK (Viktor Koretsky [1909–1998], Vera Gitsevich [1897–1976], and
-      Boris Knoblok [1903–1984]).** “There is still among a section of Communists
+    caption: "**Brigade KGK (Viktor Koretsky [1909–98], Vera Gitsevich [1897–1976], and
+      Boris Knoblok [1903–84]).** “There is still among a section of Communists
       a supercilious, disdainful attitude toward trade in general, and toward
       Soviet trade in particular. These Communists, so-called, look upon Soviet
       trade as a matter of secondary importance, not worth bothering about.” *From
@@ -172,7 +171,7 @@ figure_list:
     caption: "**Aleksandr Rodchenko (Russian, 1890–1956).** Draft illustration for
       Vladimir Mayakovsky’s poem “Pro eto,” accompanied by the lines “And the
       century stands / Unwhipped / the mare of *byt* won't budge,” 1923,
-      cut-and-pasted printed papers and gelatin-silver photographs, 42.5 × 32.5
+      cut-and-pasted printed papers and gelatin silver photographs, 42.5 × 32.5
       cm. Moscow, State Mayakovsky Museum. Art © 2024 Estate of Alexander
       Rodchenko / UPRAVIS, Moscow / ARS, NY. Photo: Art Resource."
     longdesc: ''
@@ -250,7 +249,7 @@ figure_list:
     src: figures/fig-2-9.jpg
     zoom: true
     caption: "**Herbert George Ponting (English, 1870–1935).** *Camera Caricature*, ca.
-      1927, gelatin-silver prints mounted on card, 49.5 × 35.6 cm (grid). London,
+      1927, gelatin silver prints mounted on card, 49.5 × 35.6 cm (grid). London,
       Victoria and Albert Museum, RPS.3336–2018. Image © Royal Photographic
       Society Collection / Victoria and Albert Museum, London."
     longdesc: ''
@@ -261,7 +260,7 @@ figure_list:
     zoom: true
     caption: "**Aleksandr Zhitomirsky (Russian, 1907–93).** “There are lucky devils and
       unlucky ones,” cover of *Front-Illustrierte*, no. 10, April 1943. Prague, Ne
-      Boltai! Collection. Art © Vladimir Zhitomirsky"
+      Boltai! Collection. Art © Vladimir Zhitomirsky."
     longdesc: ''
     alt: ''
   - id: "fig-3-1"
@@ -307,8 +306,8 @@ figure_list:
     src: figures/fig-3-5.jpg
     zoom: true
     caption: "**José Clemente Orozco (Mexican, 1883–1947).** *The Maguey*, 1928,
-      lithograph, 25.1 × 40.5 cm. Colección Museo de Arte Carrillo Gil, INBAL,
-      Mexico City. Courtesy Colección Museo de Arte Carrillo Gil / INBAL / SC. ©
+      lithograph, 25.1 × 40.5 cm. Museo de Arte Carrillo Gil, INBAL,
+      Mexico City. Courtesy Museo de Arte Carrillo Gil / INBAL / SC. ©
       Heirs of José Clemente Orozco, 2025. Reproduction authorized by the
       Instituto Nacional de Bellas Artes y Literatura, 2024."
     longdesc: ''
@@ -318,9 +317,9 @@ figure_list:
     src: figures/fig-3-6.jpg
     zoom: true
     caption: "**Installation view of *South of the Border: Mexico in the American
-      Imagination, 1914–1947,*” with works by Bennett Buck, David Alfaro
+      Imagination, 1914–1947*,** with works by Bennett Buck, David Alfaro
       Siqueiros, and Isamu Noguchi (reproduction), September 1993, Yale University
-      Art Gallery.**"
+      Art Gallery, New Haven, Connecticut."
     longdesc: ''
     alt: ''
   - id: "fig-3-7"
@@ -328,7 +327,7 @@ figure_list:
     src: figures/fig-3-7.jpg
     zoom: true
     caption: "**Cover of *1938: Dedicated to the New Deal* (New York: A. C. A. Gallery,
-      1938).** The Wolfsonian–FIU, Gift of Francis Xavier Luca and Clara Helena
+      1938).** Miami, Florida, The Wolfsonian–FIU, Gift of Francis Xavier Luca and Clara Helena
       Palacio Luca, XC2014.03.1.9"
     longdesc: ''
     alt: ''
@@ -336,10 +335,10 @@ figure_list:
     label: "Fig. 8. —"
     src: figures/fig-3-8.jpg
     zoom: true
-    caption: "***Good Neighbor Policy* (1938) by Bennett Buck (US American, 1900–82) and
+    caption: "***Good Neighbor Policy* (1938) by Bennett Buck (US American, 1900–1982) and
       *Filibuster Over the Senate* (ca. 1938, now lost) by Harry Sternberg (US
-      American, 1904–2001) from *1938: Dedicated to the New Deal* (New York:
-      A.C.A. Gallery, 1938).** The Wolfsonian–FIU, Gift of Francis Xavier Luca and
+      American, 1904–2001).** From *1938: Dedicated to the New Deal* (New York:
+      A.C.A. Gallery, 1938). Miami, Florida, The Wolfsonian–FIU, Gift of Francis Xavier Luca and
       Clara Helena Palacio Luca, XC2014.03.1.9."
     longdesc: ''
     alt: ''
@@ -348,8 +347,8 @@ figure_list:
     src: figures/fig-3-9.jpg
     zoom: true
     caption: "**Joe Jones (US American, 1909–63).** *A Worker Again—On WPA*
-      (Self-Portrait), ca. 1938, oil on canvas, 68.6 × 83.8 cm. From the
-      Collections of the St. Louis Mercantile Library at the University of
+      (Self-portrait), ca. 1938, oil on canvas, 68.6 × 83.8 cm. From the
+      collections of the St. Louis Mercantile Library at the University of
       Missouri-St. Louis."
     longdesc: ''
     alt: ''
@@ -357,7 +356,7 @@ figure_list:
     label: "Fig. 10. —"
     src: figures/fig-3-10.jpg
     zoom: true
-    caption: "**Bennett Buck (US American, 1900–82).** *Untitled (Hitch Hikers),* 1935,
+    caption: "**Bennett Buck (US American, 1900–1982).** *Untitled (Hitch Hikers),* 1935,
       drypoint, 16.3 × 18.2 cm (image). Washington, DC, National Gallery of Art,
       2008.115.1096. Reba and Dave Williams Collection, Gift of Reba and Dave
       Williams."
@@ -367,7 +366,7 @@ figure_list:
     label: "Fig. 11. —"
     src: figures/fig-3-11.jpg
     zoom: true
-    caption: "**Bennett Buck (US American, 1900–82).** *Bar Room*, 1935, drypoint, 16.3 ×
+    caption: "**Bennett Buck (US American, 1900–1982).** *Bar Room*, 1935, drypoint, 16.3 ×
       18.2 cm (image). Washington, DC, National Gallery of Art, 2008.115.1097.
       Reba and Dave Williams Collection, Gift of Reba and Dave Williams."
     longdesc: ''
@@ -376,7 +375,7 @@ figure_list:
     label: "Fig. 12. —"
     src: figures/fig-3-12.jpg
     zoom: true
-    caption: "**Bennett Buck (US American, 1900–82).** *The Color Line*, ca. 1936, from
+    caption: "**Bennett Buck (US American, 1900–82).** *The Color Line*, ca. 1936. From
       *Puerto Rico: Twelve Reproductions of Original Drawings by Bennett Buck*
       (New York: A.C.A. Gallery, 1936), 5. New Orleans, Louisiana, Tulane
       University, Rare Books Collections, Latin American Library. Image courtesy
@@ -399,7 +398,7 @@ figure_list:
     # zoom: true
     caption: "**Rufino Tamayo (Mexican, 1899–1991). *Fascism,* 1936, ink wash on paper,
       22.9 × 35 cm.** Syracuse, New York, Everson Museum of Art. Gift of H.
-      Bennett Buck, PC 77.86.40. [**ARS credit line TK**.]"
+      Bennett Buck, PC 77.86.40. © 2024 [Rufino Tamayo TK] / Artists Rights Society (ARS), New York"
     longdesc: ''
     alt: ''
   - id: "fig-3-15"
@@ -407,8 +406,8 @@ figure_list:
     src: figures/fig-3-15.jpg
     zoom: true
     caption: "***Planning & Construction* (1938, now lost) by Mervin Jules (US American,
-      1912–94) from *1938: Dedicated to the New Deal* (New York: A.C.A. Gallery,
-      1938).** The Wolfsonian–FIU, Gift of Francis Xavier Luca and Clara Helena
+      1912–94).** From *1938: Dedicated to the New Deal* (New York: A.C.A. Gallery,
+      1938). Miami, Florida, The Wolfsonian–FIU, Gift of Francis Xavier Luca and Clara Helena
       Palacio Luca, XC2014.03.1.9."
     longdesc: ''
     alt: ''
@@ -416,11 +415,8 @@ figure_list:
     label: "Fig. 16. —"
     src: figures/fig-3-16.jpg
     zoom: true
-    caption: "***Unemployed* (1938, now lost) by Axel Horn (US American, 1913–2001) and
-      *W.P.A.* (1938, now lost) by Theodore G. Haupt US American, 1902–90) from
-      *1938: Dedicated to the New Deal* (New York: A.C.A. Gallery, 1938).** The
-      Wolfsonian–FIU, Gift of Francis Xavier Luca and Clara Helena Palacio Luca,
-      XC2014.03.1.9."
+    caption: "***W.P.A.* (1938, now lost) by Theodore G. Haupt (US American, 1902–90) and *Unemployed* (1938, now lost) by Axel Horn (US American, 1913–2001).** From
+      *1938: Dedicated to the New Deal* (New York: A.C.A. Gallery, 1938). Miami, Florida, The Wolfsonian–FIU, Gift of Francis Xavier Luca and Clara Helena Palacio Luca, XC2014.03.1.9."
     longdesc: ''
     alt: ''
   - id: "fig-3-17"
@@ -451,7 +447,7 @@ figure_list:
     label: "Fig. 3. —"
     src: figures/fig-4-3_rights.jpg
     # zoom: true
-    caption: "**Douglas Huebler (American, 1924–97).** *Duration Piece, No. 15 Global*,
+    caption: "**Douglas Huebler (American, 1924–97).** *Duration Piece No. 15 Global*,
       1969, [**[medium TK]]**. © 2023 Estate of Douglas Huebler / Artists Rights
       Society (ARS), New York. Courtesy Paula Cooper Gallery, New York"
     longdesc: ''
@@ -506,8 +502,7 @@ figure_list:
     label: "Fig. 1. —"
     src: figures/fig-5-1.jpg
     zoom: true
-    caption: "**Gerd Sander at the opening of *Lisette Model Photographs* (September
-      25—October 30, 1976), Sander Gallery, Washington, D.C., September 1976.**
+    caption: "**Gerd Sander at the opening of *Lisette Model Photographs* (25 September–30 October 1976), Sander Gallery, Washington, DC, September 1976.**
       Photographer unknown. Cologne, Germany, August Sander Stiftung. Art © The
       Lisette Model Foundation, Inc. (1983). Used by permission."
     longdesc: ''
@@ -525,9 +520,9 @@ figure_list:
     label: "Fig. 3. —"
     src: figures/fig-5-3.jpg
     zoom: true
-    caption: "***Lisette Model: Twelve Photographs* (Washington, D.C.: Graphics
-      International, 1976).** Washington, D.C., National Gallery of Art,
-      2002.152.9–20. Gift of Mr. and Mrs. David C. Ruttenberg courtesy of the
+    caption: "***Lisette Model: Twelve Photographs* (Washington, DC: Graphics
+      International, 1976).** Washington, DC, National Gallery of Art,
+      2002.152.9–20. Gift of Mr. and Mrs. David C. Ruttenberg, courtesy of the
       Ruttenberg Arts Foundation. © The Lisette Model Foundation, Inc. (1983).
       Used by permission."
     longdesc: ''
@@ -570,7 +565,7 @@ figure_list:
     src: figures/fig-5-7.jpg
     zoom: true
     caption: "**Lisette Model’s work printed by Gerd Sander in 1976, installed in the
-      exhibition, *Lisette Model Photographs* (25 September 30—October 1976),
+      exhibition *Lisette Model Photographs* (25 September–30 October 1976),
       Sander Gallery, Washington, DC, 1976.** Photographer unknown. Cologne,
       Germany, August Sander Stiftung. Art © The Lisette Model Foundation, Inc.
       (1983). Used by permission."
@@ -591,7 +586,7 @@ figure_list:
     zoom: true
     caption: "***Lisette Model: Twelve Photographs* (Washington, DC: Graphics
       International, 1976).** Washington, DC, National Gallery of Art,
-      2002.152.9–20. Gift of Mr. and Mrs. David C. Ruttenberg courtesy of the
+      2002.152.9–20. Gift of Mr. and Mrs. David C. Ruttenberg, courtesy of the
       Ruttenberg Arts Foundation. © The Lisette Model Foundation, Inc. (1983).
       Used by permission."
     longdesc: ''
@@ -621,7 +616,7 @@ figure_list:
     src: figures/fig-5-12.jpg
     zoom: true
     caption: "**Cover of Michel Seuphor, *Lecture élémentaire: Algèbre des facilités et
-      tout le roman des lettres* (Paris: Les Ecrivains réunis, 1928).** Based on a
+      tout le roman des lettres* (Paris: Les Écrivains Réunis, 1928).** Based on a
       painting by Evsa Model (US American, b. Russia, 1899–1976)."
     longdesc: ''
     alt: ''
@@ -648,9 +643,7 @@ figure_list:
     label: "Fig. 2. —"
     src: figures/fig-6-2.jpg
     zoom: true
-    caption: "**1920s entrance facade with cars, before the addition of a vestibule.**
-      Photograph courtesy of Eastern State Penitentiary Historic Site,
-      Philadelphia, PA."
+    caption: "**1920s entrance facade with cars, before the addition of a vestibule, Eastern State Penitentiary.** Photograph courtesy of Eastern State Penitentiary Historic Site, Philadelphia, PA."
     longdesc: ''
     alt: ''
   - id: "fig-6-3"
@@ -678,8 +671,7 @@ figure_list:
     src: figures/fig-6-5.jpg
     zoom: true
     caption: "**Exhibition didactic titled “Mass Incarceration Isn’t Working,” part of the
-      permanent exhibition *Prisons Today: Questions in the Age of Mass
-      Incarceration,* Philadelphia, Eastern State Penitentiary Historic Site,
+      permanent exhibition *Prisons Today: Questions in the Age of Mass Incarceration,* Eastern State Penitentiary Historic Site, Philadelphia,
       2016–present.** Photograph by Darryl Moran, 2016. Courtesy of Eastern State
       Penitentiary Historic Site, Philadelphia, PA."
     longdesc: ''
@@ -690,7 +682,7 @@ figure_list:
     zoom: true
     caption: "**Exhibition didactic titled “Have you ever broken the law?,” part of the
       permanent exhibition *Prisons Today: Questions in the Age of Mass
-      Incarceration,* Philadelphia, Eastern State Penitentiary Historic Site,
+      Incarceration,* Eastern State Penitentiary Historic Site, Philadelphia,
       2016–present.** Photograph by Darryl Moran, 2016. Courtesy of Eastern State
       Penitentiary Historic Site, Philadelphia, PA."
     longdesc: ''
@@ -700,8 +692,8 @@ figure_list:
     src: figures/fig-6-7.jpg
     zoom: true
     caption: "**Exhibition didactic titled “What Are Prisons For?,” part of the permanent
-      exhibition *Prisons Today: Questions in the Age of Mass Incarceration,*
-      Philadelphia, Eastern State Penitentiary Historic Site, 2016–present.**
+      exhibition *Prisons Today: Questions in the Age of Mass Incarceration*,
+      Eastern State Penitentiary Historic Site, Philadelphia, 2016–present.**
       Photograph by Interactive Mechanics, n.d. Courtesy of Eastern State
       Penitentiary Historic Site, Philadelphia, PA."
     longdesc: ''
@@ -711,8 +703,8 @@ figure_list:
     src: figures/fig-6-8.jpg
     zoom: true
     caption: "***The Big Graph* installed in the prison yard adjacent to cellblock 4, seen
-      from the northeast, Philadelphia, Eastern State Penitentiary Historic Site,
-      2014–present.** Powder-coated plate steel, 16’ × 24’ × 3’. Courtesy of
+      from the northeast, Eastern State Penitentiary Historic Site, Philadelphia,
+      2014–present.** Powder-coated plate steel, 16 × 24 × 3 ft. Courtesy of
       Eastern State Penitentiary Historic Site, Philadelphia, PA."
     longdesc: ''
     alt: ''
@@ -779,8 +771,8 @@ figure_list:
     zoom: true
     caption: "**Raymond Bonheur (French, 1796–1849).** *Portrait of Rosa and Auguste
       Bonheur as Children*, 1826, oil on canvas, 94.8 × 80.6 cm. Bordeaux, Musée
-      des Beaux-arts, Bx E 1168. Image © Mairie de Bordeaux, Musée des Beaux-Arts,
-      photo: F. Deval."
+      des Beaux-Arts, Bx E 1168. Image © Mairie de Bordeaux, Musée des Beaux-Arts.
+      Photo by F. Deval."
     longdesc: ''
     alt: ''
   - id: "fig-7-6"
@@ -788,8 +780,8 @@ figure_list:
     src: figures/fig-7-6.jpg
     zoom: true
     caption: "**Auguste Bonheur (French, 1824–84).** *Portrait of Rosa Bonheur*, 1848, oil
-      on canvas, 130.5 × 98.3 cm. Bordeaux, Musée des Beaux-arts, Bx E 1169. Image
-      © Mairie de Bordeaux, Musée des Beaux-Arts, photo: F. Deval."
+      on canvas, 130.5 × 98.3 cm. Bordeaux, Musée des Beaux-Arts, Bx E 1169. Image
+      © Mairie de Bordeaux, Musée des Beaux-Arts. Photo by F. Deval."
     longdesc: ''
     alt: ''
   - id: "fig-7-7"
@@ -836,7 +828,7 @@ figure_list:
     zoom: true
     caption: "**Rosa Bonheur (French, 1822–99).** Pencil drawing of a horse and cart with
       additional studies from sketchbook shared by Rosa Bonheur and Raymond
-      Bonheur (1796–1849), ca. 1835–55, leaves 47v and 48r."
+      Bonheur (1796–1849), ca. 1835–55, leaves 47v and 48r. Los Angeles, Getty Research Institute, 850837."
     longdesc: ''
     alt: ''
   - id: "fig-7-12"
@@ -855,7 +847,7 @@ figure_list:
     caption: "**Installation view of Felipe Baeza’s *Unruly Forms* in Querétaro, Mexico,
       2023.** *Unruly Forms,* presented by Public Art Fund, is an exhibition on
       more than four hundred JCDecaux bus shelters and street furniture in New
-      York, Boston, and Chicago in the United States, and Mexico City, León, and
+      York, Boston, and Chicago in the United States; and in Mexico City, León, and
       Querétaro in Mexico, 9 August–19 November 2023. Photograph by Ramiro Chaves,
       courtesy Public Art Fund, NY."
     longdesc: ''
@@ -867,7 +859,7 @@ figure_list:
     caption: "**Installation view of Felipe Baeza’s *Unruly Forms* in Boston, 2023.**
       *Unruly Forms,* presented by Public Art Fund, is an exhibition on more than
       four hundred JCDecaux bus shelters and street furniture in New York, Boston,
-      and Chicago in the United States, and Mexico City, León, and Querétaro in
+      and Chicago in the United States; and in Mexico City, León, and Querétaro in
       Mexico, 9 August–19 November 2023. Photograph by Mel Taing, courtesy Public
       Art Fund, NY."
     longdesc: ''
@@ -879,7 +871,7 @@ figure_list:
     caption: "**Installation view of Felipe Baeza’s *Unruly Forms* in New York, 2023.**
       *Unruly Forms,* presented by Public Art Fund, is an exhibition on more than
       four hundred JCDecaux bus shelters and street furniture in New York, Boston,
-      and Chicago in the United States and Mexico City, León, and Querétaro in
+      and Chicago in the United States; and in Mexico City, León, and Querétaro in
       Mexico, 9 August–19 November 2023. Photograph by Nicholas Knight, courtesy
       Public Art Fund, NY."
     longdesc: ''
