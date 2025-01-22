@@ -116,7 +116,7 @@ resource_link:
     name: Paperback
     media_type: print
     link_relation: alternate
-    url: https://shop.getty.edu/
+    url: https://shop.getty.edu/products/getty-research-journal-no-20-978-1606069578
   - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy
