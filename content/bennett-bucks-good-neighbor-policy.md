@@ -73,9 +73,9 @@ Buck (1900–1982) is one of several artists included in *1938* who have left sc
 
 {% figuregroup '2', 'fig-3-10, fig-3-11' '' 'pdf-float-top' %}
 
-{% figure 'fig-3-12' 'pdf float-top'%}
+{% figure 'fig-3-12' 'pdf-float-top' %}
 
-{% figure 'fig-3-13' 'pdf-75-percent-width' %}
+{% figure 'fig-3-13' 'pdf-75-percent-width pdf-float-top' %}
 
 The best indication of Bennett Buck’s aesthetic interests emerges from his donation of almost one hundred works on paper, mainly prints, to the Everson Museum of Art at Syracuse University around 1977, by which time he had retired to St. Petersburg, Florida. This eclectic gift included forty-nine of Buck’s own works, including several of the Puerto Rico drawings and some explicitly leftist or antifascist images, along with prints and drawings by a wide range of European artists, such as William Blake and André Masson. Buck also gave the museum works by William Gropper, Levi, and Louis Lozowick, all of whom had participated in the A. C. A. exhibition in 1938, and a copy of Orozco’s 1929 lithograph *The Maguey* ([see fig. 5](#fig-3-5)).[^25] The donation also contained prints by Mexican artists Leopoldo Méndez, Roberto Montenegro, Gonzalo de la Paz Pérez, Everardo Ramírez, and Siqueiros.[^26] Buck also gave the Everson an ink-wash drawing by Rufino Tamayo titled *Fascism*, one of very few explicitly political works by the artist, perhaps done in New York at the time of the American Artists’ Congress ([fig. 14](#fig-3-14)).[^27]
 
@@ -87,7 +87,7 @@ Buck’s painting is far more conciliatory than any of Orozco’s works of this 
 
 Buck was not the only artist in the exhibition *1938* who disclosed iconographic and compositional debts to Orozco, although surprisingly, in his introductory essay, Baron mentions only artists of the past (Francisco Goya and Honoré Daumier) as providing models for expressing “social ideals.”[^29] The building frames, broken windows, and I beams as well as the dramatic diagonals in Mervin Jules’s *Planning & Construction* ([fig. 15](#fig-3-15)) resonate particularly with Orozco’s fresco panels depicting *Hispano-America* ([see fig. 3](#fig-3-3)) and *Modern Industrial Man* at Dartmouth, while Jules’s angular figures and dense composition, also evident in Axel Horn’s *Unemployed* ([fig. 16](#fig-3-16)), recall Orozco’s work in general. Indeed, the exhibition confirms the broad impact of Orozco on art produced during the New Deal, as signaled by scholars such as Bram Dijkstra and Hemingway, among others. But while Buck appropriated Orozco’s iconography and brilliant coloration, he softened the outlines, avoided dramatic diagonals, and beefed up the muscles of the workers. Overall, his painting is less agitated and less overtly expressionist than his model (or than the paintings by Jules and Horn), which serves to heighten the diplomatic benevolence of his theme.
 
-{% figuregroup '2', 'fig-3-15, fig-3-16' %}
+{% figuregroup '2', 'fig-3-15, fig-3-16' '' 'pdf-float-top' %}
 
 In fact, when I look at Buck’s *Good Neighbor Policy* today, I don’t see the evidence of Orozco’s hand that I imagined in 1992. This clarity is largely the result of three decades of increasing familiarity with the artist’s varied stylistic innovations and extensive production. Buck’s message is too optimistic, his paint is too thickly applied, the forms are too rounded, and the collaging of rectangular elements into the composition are too obvious.[^30] There are unresolved incongruities, such as the framed precisionist painting that hangs strangely against the darkened sky, or the field of European wheat that overlaps a Mesoamerican pyramid. Today it appears to me—and probably to everyone else in my field—as exactly what it is: evidence of Mexico in the (US) American imagination. But it was not simply the iconography and direct references to specific murals that made me think, back then, that I was looking at a painting by Orozco.
 

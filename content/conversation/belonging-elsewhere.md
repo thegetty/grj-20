@@ -151,7 +151,7 @@ So those were two visual markers that I encountered in Pilsen that have had a la
 
 **Felipe:** Well, there’s two that I remember. One is a triptych of him being double penetrated by the Mexican flag ([fig. 7](#fig-8-7)).
 
-{% figure 'fig-8-7' 'pdf-float-top pdf-45-percent-width' %}
+{% figure 'fig-8-7' 'pdf-float-top pdf-50-percent-width pdf-two-column' %}
 
 **Laura:** That’s the image that came to my mind when you mentioned his name.
 

@@ -183,8 +183,7 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
     height: 8.5in !important;
     display: block !important;
   }
-  .pdf-two-column figure {
-    width: 45% !important;
+  figure.pdf-two-column img {
     float: left;
     clear: both;
     margin-right: 1rem !important;
