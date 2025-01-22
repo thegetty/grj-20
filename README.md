@@ -56,7 +56,9 @@ git clone --recursive https://github.com/thegetty/grj-19.git
 
 2. Run `quire build`
 
-3. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
+3. Add missing `<svg>` Creative Commons icon elements to `<body>`.
+
+4. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
 
     ```
     magick mogrify -profile bin/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
@@ -70,7 +72,7 @@ git clone --recursive https://github.com/thegetty/grj-19.git
     magick mogrify -colorspace Gray -profile bin/gray-gamma-2-2.icm _site/_assets/image*.jpg
     ```
 
-4. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
+5. With PrinceXML 15.3 installed, run `quire pdf --lib prince`
 
 ### Creating an EPUB Version
 
