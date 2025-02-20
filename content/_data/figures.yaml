@@ -227,21 +227,21 @@ figure_list:
     label: "Fig. 8A. —"
     src: figures/fig-2-8-a.png
     zoom: true
-    caption: "**Pavel Petrov-Bytov (Russian, 1895–1960), director.** Screen captures from the film Cain and Artem, 1929. Images courtesy University of California, Berkeley, Berkeley Art Museum and Pacific Film Archive Library."
+    caption: "**Pavel Petrov-Bytov (Russian, 1895–1960), director.** Screen capture from the film Cain and Artem, 1929. Image courtesy University of California, Berkeley, Berkeley Art Museum and Pacific Film Archive Library."
     longdesc: ''
     alt: 'A group of three men’s faces in black and white are shown straight-on with stunned expressions, their faces blurred and elongated, mouths agape; in the second horizontal frame, the face of a man in a uniform cap looks on in shock; and in the third, a thickly bearded man looks straight ahead in horror.'
   - id: "fig-2-8-b"
     label: "Fig. 8B. —"
     src: figures/fig-2-8-b.png
     zoom: true
-    caption: "**Pavel Petrov-Bytov (Russian, 1895–1960), director.** Screen captures from the film Cain and Artem, 1929. Images courtesy University of California, Berkeley, Berkeley Art Museum and Pacific Film Archive Library."
+    caption: "**Pavel Petrov-Bytov (Russian, 1895–1960), director.** Screen capture from the film Cain and Artem, 1929. Image courtesy University of California, Berkeley, Berkeley Art Museum and Pacific Film Archive Library."
     longdesc: ''
     alt: 'A group of three men’s faces in black and white are shown straight-on with stunned expressions, their faces blurred and elongated, mouths agape; in the second horizontal frame, the face of a man in a uniform cap looks on in shock; and in the third, a thickly bearded man looks straight ahead in horror.'
   - id: "fig-2-8-c"
     label: "Fig. 8C. —"
     src: figures/fig-2-8-c.png
     zoom: true
-    caption: "**Pavel Petrov-Bytov (Russian, 1895–1960), director.** Screen captures from the film Cain and Artem, 1929. Images courtesy University of California, Berkeley, Berkeley Art Museum and Pacific Film Archive Library."
+    caption: "**Pavel Petrov-Bytov (Russian, 1895–1960), director.** Screen capture from the film Cain and Artem, 1929. Image courtesy University of California, Berkeley, Berkeley Art Museum and Pacific Film Archive Library."
     longdesc: ''
     alt: 'A group of three men’s faces in black and white are shown straight-on with stunned expressions, their faces blurred and elongated, mouths agape; in the second horizontal frame, the face of a man in a uniform cap looks on in shock; and in the third, a thickly bearded man looks straight ahead in horror.'
   - id: "fig-2-9"
@@ -910,7 +910,7 @@ figure_list:
     label: "Fig. 7. —"
     src: figures/fig-8-7.jpg
     zoom: true
-    caption: "**Nahum B. Zenil (Mexican, b. 1947).** ¡*Oh, santa bandera! (A Enrique Guzmán)* (Oh, Holy Flag! [For Enrique Guzmán]), 1996, ink, acrylic, and oil on paper, triptych: [[**dimensions TK**]]. Mexico City, Museo Universitario Arte Contemporáneo, acquisition with funds from the Presupuesto de Egresos de la Federación, 2013."
+    caption: "**Nahum B. Zenil (Mexican, b. 1947).** ¡*Oh, santa bandera! (A Enrique Guzmán)* (Oh, Holy Flag! [For Enrique Guzmán]), 1996, ink, acrylic, and oil on paper, triptych: 238 × 71.5 cm. Mexico City, Museo Universitario Arte Contemporáneo (DiGAV, UNAM). Acquisition through funds from the Programa de Egresos de la Federación, 2013. Photo by Francisco Kochen, courtesy MUAC. By permission of the artist."
     longdesc: 'Framed vertical triptych panel painting showing a nude male figure from behind, bending forward so that his face and genitals are visible between his legs as he looks directly at the viewer. A flagpole penetrates his anus, erected into the sky of the top two panels, terminating in a green, white, and red flag.'
     alt: ''
   - id: "fig-8-8-FPO"

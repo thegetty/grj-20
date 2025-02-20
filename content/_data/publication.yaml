@@ -10,7 +10,7 @@
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
 # url: 'https://www.getty.edu/publications/getty-research-journal/20/'
-url: 'https://first-pages--grj-20.netlify.app'
+url: 'https://second-pages--grj-20.netlify.app'
 
 # -----------------------------------------------------------------------------
 # Title & Description
@@ -116,7 +116,7 @@ resource_link:
     name: Paperback
     media_type: print
     link_relation: alternate
-    url: https://shop.getty.edu/
+    url: https://shop.getty.edu/products/getty-research-journal-no-20-978-1606069578
   - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy
