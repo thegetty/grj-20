@@ -34,7 +34,7 @@ figure_list:
     src: figures/fig-1-3.jpg
     zoom: true
     caption: "**Charles Gumery (French, 1827–71), sculptor.** *La Ville de Paris* (The
-      city of Paris), **[[type of photograph print TK]]** from *Surtout de
+      city of Paris), from *Surtout de
       table de la Ville de Paris, éxecuté par Mrs. Christofle et Cie d’après les
       dessins de Mr. Vor. Baltard, member de l’Institut, et détruit dans l’incendie
       de l’Hôtel de Ville en mai 1871,* ca. 1872. Los Angeles, Getty Research
@@ -227,21 +227,21 @@ figure_list:
     label: "Fig. 8A. —"
     src: figures/fig-2-8-a.png
     zoom: true
-    caption: "**Pavel Petrov-Bytov (Russian, 1895–1960), director.** Screen capture from the film Cain and Artem, 1929. Image courtesy University of California, Berkeley, Berkeley Art Museum and Pacific Film Archive Library."
+    caption: "**Pavel Petrov-Bytov (Russian, 1895–1960), director.** Screen capture from the film *Cain and Artem*, 1929. Image courtesy University of California, Berkeley, Berkeley Art Museum and Pacific Film Archive Library."
     longdesc: ''
     alt: 'A group of three men’s faces in black and white are shown straight-on with stunned expressions, their faces blurred and elongated, mouths agape; in the second horizontal frame, the face of a man in a uniform cap looks on in shock; and in the third, a thickly bearded man looks straight ahead in horror.'
   - id: "fig-2-8-b"
     label: "Fig. 8B. —"
     src: figures/fig-2-8-b.png
     zoom: true
-    caption: "**Pavel Petrov-Bytov (Russian, 1895–1960), director.** Screen capture from the film Cain and Artem, 1929. Image courtesy University of California, Berkeley, Berkeley Art Museum and Pacific Film Archive Library."
+    caption: "**Pavel Petrov-Bytov (Russian, 1895–1960), director.** Screen capture from the film *Cain and Artem*, 1929. Image courtesy University of California, Berkeley, Berkeley Art Museum and Pacific Film Archive Library."
     longdesc: ''
     alt: 'A group of three men’s faces in black and white are shown straight-on with stunned expressions, their faces blurred and elongated, mouths agape; in the second horizontal frame, the face of a man in a uniform cap looks on in shock; and in the third, a thickly bearded man looks straight ahead in horror.'
   - id: "fig-2-8-c"
     label: "Fig. 8C. —"
     src: figures/fig-2-8-c.png
     zoom: true
-    caption: "**Pavel Petrov-Bytov (Russian, 1895–1960), director.** Screen capture from the film Cain and Artem, 1929. Image courtesy University of California, Berkeley, Berkeley Art Museum and Pacific Film Archive Library."
+    caption: "**Pavel Petrov-Bytov (Russian, 1895–1960), director.** Screen capture from the film *Cain and Artem*, 1929. Image courtesy University of California, Berkeley, Berkeley Art Museum and Pacific Film Archive Library."
     longdesc: ''
     alt: 'A group of three men’s faces in black and white are shown straight-on with stunned expressions, their faces blurred and elongated, mouths agape; in the second horizontal frame, the face of a man in a uniform cap looks on in shock; and in the third, a thickly bearded man looks straight ahead in horror.'
   - id: "fig-2-9"
@@ -326,7 +326,7 @@ figure_list:
     label: "Fig. 7. —"
     src: figures/fig-3-7.jpg
     zoom: true
-    caption: "**Cover of *1938: Dedicated to the New Deal* (New York: A. C. A. Gallery,
+    caption: "**Cover of *1938: Dedicated to the New Deal* (New York: A.C.A. Gallery,
       1938).** Miami, Florida, The Wolfsonian–FIU, Gift of Francis Xavier Luca and Clara Helena
       Palacio Luca, XC2014.03.1.9"
     longdesc: ''
@@ -375,7 +375,7 @@ figure_list:
     label: "Fig. 12. —"
     src: figures/fig-3-12.jpg
     zoom: true
-    caption: "**Bennett Buck (US American, 1900–82).** *The Color Line*, ca. 1936. From
+    caption: "**Bennett Buck (US American, 1900–1982).** *The Color Line*, ca. 1936. From
       *Puerto Rico: Twelve Reproductions of Original Drawings by Bennett Buck*
       (New York: A.C.A. Gallery, 1936), 5. New Orleans, Louisiana, Tulane
       University, Rare Books Collections, Latin American Library. Image courtesy
@@ -398,7 +398,7 @@ figure_list:
     # zoom: true
     caption: "**Rufino Tamayo (Mexican, 1899–1991). *Fascism,* 1936, ink wash on paper,
       22.9 × 35 cm.** Syracuse, New York, Everson Museum of Art. Gift of H.
-      Bennett Buck, PC 77.86.40. © 2024 [Rufino Tamayo TK] / Artists Rights Society (ARS), New York"
+      Bennett Buck, PC 77.86.40. © Tamayo Heirs / Mexico / Artists Rights Society (ARS), NY."
     longdesc: ''
     alt: 'A nocturnal landscape of ruins in gray tones. The foreground is filled with fragments of buildings, a broken sculpture and columns, a cannon, and two columnar forms of falling women with their arms raised. From the windows of a tilted building, smoke rises to form a large swastika. Inscribed “Tamayo 36” at lower left.'
   - id: "fig-3-15"
@@ -447,9 +447,9 @@ figure_list:
     label: "Fig. 3. —"
     src: figures/fig-4-3_rights.jpg
     # zoom: true
-    caption: "**Douglas Huebler (American, 1924–97).** *Duration Piece No. 15 Global*,
-      1969, [**[medium TK]]**. © 2023 Estate of Douglas Huebler / Artists Rights
-      Society (ARS), New York. Courtesy Paula Cooper Gallery, New York"
+    caption: "**Douglas Huebler (American, 1924–97).** *Duration Piece # 15*,
+      1969, [**[medium TK]]**. © Douglas Huebler, courtesy Darcy Huebler / Artists Rights
+      Society (ARS), New York. Courtesy Paula Cooper Gallery, New York. Photo: Steven Probert."
     longdesc: ''
     alt: 'Two wood-framed documents on a white wall: the left one contains a wanted poster featuring ten fingerprints, three mug shots, and the suspect’s physical attributes; the right one presents a typewritten letter.'
   - id: "fig-4-4"
@@ -590,13 +590,12 @@ figure_list:
       Ruttenberg Arts Foundation. © The Lisette Model Foundation, Inc. (1983).
       Used by permission."
     longdesc: ''
-    alt: 'The enclosed portfolio on a flat surface pulled out mostly of the slipcover toward the viewer’s left, revealing its silkscreened line.'
+    alt: 'The enclosed portfolio on a flat surface mostly pulled out of the slipcover toward the viewer’s left, revealing its silkscreened line.'
   - id: "fig-5-10"
     label: "Fig. 10. —"
     src: figures/fig-5-10.jpg
     zoom: true
-    caption: "**Hans Namuth (US American, 1915­–90).** Untitled (Barnett Newman), 1951,
-      **[media TK, dims TK]**. © 1991 Hans Namuth Estate, Courtesy Center for
+    caption: "**Hans Namuth (US American, 1915­–90).** Untitled (Barnett Newman), 1951. © 1991 Hans Namuth Estate, Courtesy Center for
       Creative Photography."
     longdesc: ''
     alt: 'A black-and-white photograph of a man seated on a chair smoking a cigarette inside a window-lit room, which is bare except for the artworks stacked against the wall behind him and an upside-down Pepsi-Cola crate on the hardwood floor.'
@@ -643,7 +642,7 @@ figure_list:
     label: "Fig. 2. —"
     src: figures/fig-6-2.jpg
     zoom: true
-    caption: "**1920s entrance facade with cars, before the addition of a vestibule, Eastern State Penitentiary.** Photograph courtesy of Eastern State Penitentiary Historic Site, Philadelphia, PA."
+    caption: "**Eastern State Penitentiary, 1920s entrance facade before the addition of a vestibule.** Photograph courtesy of Eastern State Penitentiary Historic Site, Philadelphia, PA."
     longdesc: ''
     alt: 'Black-and-white photograph of a street view of the original Gothic Revival facade with crenellated towers; Model-T cars are parallel parked in front of the gate.'
   - id: "fig-6-3"
