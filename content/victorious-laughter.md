@@ -8,10 +8,10 @@ contributor:
   - first_name: Samuel
     last_name: Johnson
     bio: "**Samuel Johnson** is associate professor of art history in the Department of Art & Music Histories at Syracuse University, New York."
-copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 20 (2025): TK–TK </span>© 2025 Samuel Johnson"
-abstract: "In 1934, the Soviet photo agency Soiuzfoto published an illustrated version of Joseph Stalin’s “Report to the 17th Party Congress of the C.P.S.U.(B),” comprising seventy-five photomontages by a trio of young artists named Brigade KGK. In this essay, I treat the satirical photomontages that Brigade KGK created for Stalin’s report as a search for a suitable artistic idiom of official humor. I argue that Brigade KGK used stretched and distorted imagery to demonstrate the comic possibilities inherent in photography’s materiality, where others subordinated it to the traditional art of drawing. The essay situates Brigade KGK’s work in relation to debates in the final years of the first five-year plan, at a time when supporters of German artist John Heartfield criticized photomontage as a purely mechanical technique and discredited its supporters as petty-bourgeois formalists."
+copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 20 (2025): 28–49 </span>© 2025 Samuel Johnson"
+abstract: "In 1934, the Soviet photo agency Soiuzfoto published an illustrated version of Joseph Stalin’s “Report to the Seventeenth Party Congress on the Work of the Central Committee of the C.P.S.U.(B.),” comprising seventy-five photomontages by a trio of young artists named Brigade KGK. In this essay, I treat the satirical photomontages that Brigade KGK created for Stalin’s report as a search for a suitable artistic idiom of official humor. I argue that Brigade KGK used stretched and distorted imagery to demonstrate the comic possibilities inherent in photography’s materiality, where others subordinated it to the traditional art of drawing. The essay situates Brigade KGK’s work in relation to debates in the final years of the first five-year plan, at a time when supporters of German artist John Heartfield criticized photomontage as a purely mechanical technique and discredited its supporters as petty-bourgeois formalists."
 keywords: "photomontage, Soviet avant-garde, caricature, propaganda, Stalinism, satire"
-doi: ""
+doi: https://doi.org/10.59491/WGVY8306
 page_pdf_output: true
 ---
 
@@ -25,7 +25,7 @@ The novel format and multifarious techniques of *From the 16th to the 17th Congr
 
 ## Imminent Victory
 
-*From the 16th to the 17th Congress* is a little-known intertext of a well-known speech: Stalin’s “Report to the Seventeenth Party Congress on the Work of the Central Committee of the C.P.S.U.(B).”[^8] This long address, delivered at the so-called Congress of the Victors on 26 January 1934 and published two days later in the organ of the party’s Central Committee, *Pravda*, celebrated the Bolsheviks’ triumph over internal dissent from its left and right flanks as well as the continuing stability of the USSR’s planned socialist economy against the backdrop of the ongoing depression in the capitalist West. In the photo series by Brigade KGK, the text of Stalin’s address maintains a position of primary importance. The lengthy captions beneath the photographs are taken directly from the published *Pravda* transcript, and any deletions are duly marked by ellipses. The illustrations also closely shadow Stalin’s text, giving special emphasis to no single passage of the speech. Even the visual humor in the montages receives textual legitimation in a form recently analyzed by literary historian Natalia Skradol: several captions contain the *Pravda* transcript’s editorial interpolations of laughter and applause from Stalin’s audience.[^9]
+*From the 16th to the 17th Congress* is a little-known intertext of a well-known speech: Stalin’s “Report to the Seventeenth Party Congress on the Work of the Central Committee of the C.P.S.U.(B.).”[^8] This long address, delivered at the so-called Congress of the Victors on 26 January 1934 and published two days later in the organ of the party’s Central Committee, *Pravda*, celebrated the Bolsheviks’ triumph over internal dissent from its left and right flanks as well as the continuing stability of the USSR’s planned socialist economy against the backdrop of the ongoing depression in the capitalist West. In the photo series by Brigade KGK, the text of Stalin’s address maintains a position of primary importance. The lengthy captions beneath the photographs are taken directly from the published *Pravda* transcript, and any deletions are duly marked by ellipses. The illustrations also closely shadow Stalin’s text, giving special emphasis to no single passage of the speech. Even the visual humor in the montages receives textual legitimation in a form recently analyzed by literary historian Natalia Skradol: several captions contain the *Pravda* transcript’s editorial interpolations of laughter and applause from Stalin’s audience.[^9]
 
 Stalin would not utter his famous verdict that “life has become better, life has become happier” until the final months of 1935, but the jubilation it expressed originated in the events of 1934. In his “Report to the Seventeenth Party Congress,” he sought to clarify a widespread misconception about the goals of economic planning. During the first five-year plan (1928–32), massive industrial investment and poor resource allocation had created runaway inflation, which required food rations to be introduced for the first time since the civil war. For some observers, the reappearance of the centralized command economy and the disappearance of money presaged an immediate transition to the producer-oriented society of full communism. In his report of 1934, however, Stalin announced that the second five-year plan would eliminate rations, reminding those who had praised the ration system for obviating money that “in the last analysis goods are produced not for the sake of producing them, but for consumption.”[^10]
 
@@ -147,7 +147,7 @@ This paper benefited enormously from an exchange with Jindřich Toman at a panel
 
 [^7]: Afanas’ef, “Foto i fotomontazh,” 18.
 
-[^8]: I. V. Stalin, “Otchetnyi doklad XVII s’ezdu partii o rabote TsK VKP(b),” in *Sochinenie,* vol. 13 (Moscow: Gos. Izd. politicheskoi literatury, 1952), 282–379. English translation published as J. V. Stalin, “Report to the Seventeenth Party Congress on the Work of the Central Committee of the C.P.S.U.(b),” in *Works,* vol. 13 (Moscow: Foreign Language Publishing House, 1955), 288–388.
+[^8]: I. V. Stalin, “Otchetnyi doklad XVII s’ezdu partii o rabote TsK VKP(b),” in *Sochinenie,* vol. 13 (Moscow: Gos. Izd. politicheskoi literatury, 1952), 282–379. English translation published as J. V. Stalin, “Report to the Seventeenth Party Congress on the Work of the Central Committee of the C.P.S.U.(B.),” in *Works,* vol. 13 (Moscow: Foreign Language Publishing House, 1955), 288–388.
 
 [^9]: Natalia Skradol, “Laughing with Comrade Stalin: An Analysis of Laughter in a Soviet Newspaper Report,” *The Russian Review* 68, no. 1 (2009): 26–48.
 
@@ -205,9 +205,9 @@ This paper benefited enormously from an exchange with Jindřich Toman at a panel
 
 [^36]: S. Evgenov, “Za bol’shevistskii fotopokaz,” *Proletarskoe foto,* no. 6 (1932): 5
 
-[^37]: Klinch, “Fotosatiru: v arsenal agit-massovoi raboty,” 25.
+[^37]: Klinch, “Fotosatiru v arsenal agit-massovoi raboty,” 25.
 
-[^38]: János Reismann (Wolf Reiss), “Als ich mit John Heartfield zusammenarbeite,” *Internationale Literatur*, no. 5 (1934): 189–90, quoted in Gassner, “Heartfield’s Moscow Apprenticeship,” 261.
+[^38]: János Reismann (Wolf Reiss), “Als ich mit John Heartfield zusammenarbeite,” *Internationale Literatur,* no. 5 (1934): 189–90, quoted in Gassner, “Heartfield’s Moscow Apprenticeship,” 261.
 
 [^39]: Evgenov, “Za bol’shevistskii fotopokaz,” 4.
 
