@@ -34,6 +34,14 @@
 
       {% endif %}
 
+      {% if peer_review %}
+
+      Peer Review {.page-tools__heading}
+
+      {{  peer_review  | markdownify }}
+
+      {% endif %}
+
       {% endaccordion %}
       {% endif %}
       {% if doi %}

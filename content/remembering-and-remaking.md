@@ -11,6 +11,7 @@ contributor:
 copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 20 (2025): TK–TK </span>© 2025 Amy F. Ogata"
 abstract: "During the Third Republic, the French fine metalworking firm Christofle et Cie remade two of their most significant Second Empire projects, which had initially been grandiose official commissions for huge metallic table centerpieces. These works, both lost during the violence and conflagrations that marked the end of the Paris Commune, were revived in different material forms and circumstances for similar purposes of mourning and remembering. This article examines how the firm reconstituted the objects to become material witnesses to an era that was still familiar, if strongly reviled, in the late nineteenth century. Martyred and venerated, the two centerpieces in their remade forms actively negotiated the social memory of the past and secured a prominent place for the firm’s legacy in a nascent history of French design."
 keywords: "Christofle; memory; metalwork; Paris Commune"
+peer_review: "Double anonymous, external"
 doi: ""
 page_pdf_output: true
 ---
