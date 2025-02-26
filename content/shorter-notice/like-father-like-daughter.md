@@ -11,7 +11,7 @@ contributor:
 copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 20 (2025): 149–64 </span>© 2025 Alexandra Morrison"
 abstract: "This article restores an attribution for a sketchbook, now in the collection of the Getty Research Institute, shared by preeminent French woman artist of the nineteenth century Rosa Bonheur (1822–99) and her father and teacher, Raymond Bonheur (1796–1849). The sketchbook contains a range of entries in different media, including landscape studies by Raymond dating to the 1840s and drawings by Rosa from the early 1850s. Reidentified as a collaborative project spanning a period of two decades, the sketchbook offers a new material context for the artistic relationship between father and daughter as well as for the origins of Rosa’s great Salon successes *The Horse Fair* (1853–55) and *Haymaking in the Auvergne* (1855)."
 keywords: "Rosa Bonheur; sketchbook; nineteenth-century art; *Horse Fair; Haymaking in the Auvergne;* attribution; drawing; studies"
-doi: ""
+doi: https://doi.org/10.59491/VWRT2755
 nextPage: "/conversation/belonging-elsewhere/"
 previousPage: "/unlocking-heritage/"
 page_pdf_output: true

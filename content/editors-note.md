@@ -8,7 +8,7 @@ contributor:
   - first_name: Doris
     last_name: Chon
 copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 20 (2025): 1–4 </span>© 2025 J. Paul Getty Trust"
-doi: ""
+doi: https://doi.org/10.59491/FXMS4787
 page_pdf_output: true
 ---
 
