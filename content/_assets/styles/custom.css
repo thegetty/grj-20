@@ -50,7 +50,7 @@ body {
     padding-top: 1rem;
   }
   .quire::before {
-    content: "SECOND";
+    content: "FINAL";
     background-color: yellow;
     bottom: -115px;
     right: -115px;
