@@ -11,6 +11,7 @@ contributor:
 copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 20 (2025): 28–49 </span>© 2025 Samuel Johnson"
 abstract: "In 1934, the Soviet photo agency Soiuzfoto published an illustrated version of Joseph Stalin’s “Report to the Seventeenth Party Congress on the Work of the Central Committee of the C.P.S.U.(B.),” comprising seventy-five photomontages by a trio of young artists named Brigade KGK. In this essay, I treat the satirical photomontages that Brigade KGK created for Stalin’s report as a search for a suitable artistic idiom of official humor. I argue that Brigade KGK used stretched and distorted imagery to demonstrate the comic possibilities inherent in photography’s materiality, where others subordinated it to the traditional art of drawing. The essay situates Brigade KGK’s work in relation to debates in the final years of the first five-year plan, at a time when supporters of German artist John Heartfield criticized photomontage as a purely mechanical technique and discredited its supporters as petty-bourgeois formalists."
 keywords: "photomontage, Soviet avant-garde, caricature, propaganda, Stalinism, satire"
+peer_review: "Double anonymous, external"
 doi: https://doi.org/10.59491/WGVY8306
 page_pdf_output: true
 ---

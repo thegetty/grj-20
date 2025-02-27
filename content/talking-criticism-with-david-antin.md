@@ -11,6 +11,7 @@ contributor:
 copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 20 (2025): 77–96 </span>© 2025 Alex Kitnick"
 abstract: "In the early 1970s, David Antin became known for talking. A well-regarded poet, Antin began appearing at poetry readings with a tape recorder but without anything to read, speaking off the top of his head. Antin effectively ceased writing poetry; instead, he transcribed his recordings and created work from the transcripts. While Antin’s turn to talking has been much discussed in the context of poetry, it has been considered less in the context of art criticism—and, significantly, he was also an established art critic. By framing Antin’s work of the 1970s as a kind of oral criticism, or talking criticism, tied to the uniqueness of the voice, this essay charts his move from a high-modernist style of criticism toward a postmodernist one focused on embodiment, context, and social relations."
 keywords: "criticism, talking, David Antin, conceptual art, performance, Gregg Bordowitz"
+peer_review: "Double anonymous, external"
 doi: https://doi.org/10.59491/POJB9531
 page_pdf_output: true
 ---
