@@ -13,7 +13,7 @@ contributor:
   - first_name: Laura G.
     last_name: Gutiérrez
     bio: "**Laura G. Gutiérrez** is an art critic and performance curator based in Austin, Texas, and a professor and administrator at The University of Texas at Austin."
-copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 20 (2025): 166–91 </span>© 2025 Felipe Baeza and Laura G. Gutiérrez"
+copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 20 (2025): 167–92 </span>© 2025 Felipe Baeza and Laura G. Gutiérrez"
 abstract: "In conversation during the fall of 2023, visual artist Felipe Baeza and scholar of performance and Chicanx studies Laura G. Gutiérrez discuss art making, migration, legibility, and belonging in the context of Baeza’s Public Art Fund project *Unruly Forms*. On a walk through Chicago’s Pilsen neighborhood, the two reminisce about their similar experiences, both having immigrated to the United States from Mexico as children, grown up in the Catholic Church, come of age as queer adolescents in Chicago, and followed professional trajectories as cultural producers, which led ultimately to their meeting while in residence at the Getty Research Institute in Los Angeles. Baeza and Gutiérrez discuss the making and reception of *Unruly Forms*, reflecting on the political and existential realities of living and thriving in the United States with undocumented or resident-alien status."
 keywords: "public art, bus shelters, memory, Pilsen, immigration, Mexico, undocumented, queer identity, fragmentation, community, fugitivity, Mesoamerican artifacts"
 peer_review: "Editorial"

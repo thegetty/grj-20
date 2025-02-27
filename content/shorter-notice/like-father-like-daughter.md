@@ -8,7 +8,7 @@ contributor:
   - first_name: Alexandra
     last_name: Morrison
     bio: "**Alexandra Morrison** holds a PhD in history of art from Yale University and is a curatorial associate in the Department of Painting and Sculpture at the Museum of Modern Art, New York."
-copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 20 (2025): 149–64 </span>© 2025 Alexandra Morrison"
+copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 20 (2025): 150–65 </span>© 2025 Alexandra Morrison"
 abstract: "This article restores an attribution for a sketchbook, now in the collection of the Getty Research Institute, shared by preeminent French woman artist of the nineteenth century Rosa Bonheur (1822–99) and her father and teacher, Raymond Bonheur (1796–1849). The sketchbook contains a range of entries in different media, including landscape studies by Raymond dating to the 1840s and drawings by Rosa from the early 1850s. Reidentified as a collaborative project spanning a period of two decades, the sketchbook offers a new material context for the artistic relationship between father and daughter as well as for the origins of Rosa’s great Salon successes *The Horse Fair* (1853–55) and *Haymaking in the Auvergne* (1855)."
 keywords: "Rosa Bonheur; sketchbook; nineteenth-century art; *Horse Fair; Haymaking in the Auvergne;* attribution; drawing; studies"
 peer_review: "Double anonymous, external"
@@ -72,7 +72,7 @@ Given the shared origin story for her major Salon submissions in the early 1850s
 
 {% figure 'fig-7-11' 'pdf-float-top pdf-60-percent-width' %}
 
-{% figure 'fig-7-12' 'pdf-float-top pdf-wide-image-left' %}
+{% figure 'fig-7-12' 'pdf-float-top pdf-wide-image-right' %}
 
 The placement of these studies in an old, used sketchbook purchased over a decade before, rather than in a new volume of fresh pages, suggests that Rosa treated the development of *Haymaking* as an extension of her father’s own practice, literally and figuratively. Leaves 48v and 49v are drawn in the same page orientation as Raymond’s landscape studies in the second half of the album. Rosa’s sketches for *Haymaking*, along with the drawings for *The Horse Fair*, also fall between the successions of blank pages in the middle of the object. Just as the final works reflected Rosa’s bids to continue the familial artistic lineage, the early drawings for them were executed in the sketchbook in such a way that they seem to continue Raymond’s contributions.
 

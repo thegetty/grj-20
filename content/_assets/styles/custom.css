@@ -217,6 +217,9 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   .rights-restricted-size-quarter.pdf-grow img {
     max-height: 4in !important;
   }
+  .rights-restricted-size-half.pdf-shrink-a-little img {
+    max-height: 3.75in !important;
+  }
   .rights-restricted-size-quarter img,
   .rights-restricted-size-half.pdf-shrink img {
     max-height: 3in !important;
@@ -1498,4 +1501,11 @@ table.sahragard-table-01 img {
   font-style: italic;
   text-indent: 0;
   margin: 1rem 0;
+}
+
+/* Fixes misalignement of figure callouts in PDF, but I have no idea where the issue originated */
+@media print {
+  .q-figure__label--below .q-figure__modal-link {
+    top: -.35rem !important;
+  }
 }
