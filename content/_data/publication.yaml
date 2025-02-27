@@ -103,12 +103,12 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF (5.2 MB)
+    name: PDF (8.5 MB)
     media_type: application/pdf
     link_relation: alternate
     url: /_assets/downloads/getty-research-journal-20.pdf
   - type: other-format
-    name: EPUB (41.4 MB)
+    name: EPUB (60.9 MB)
     media_type: application/epub+zip
     link_relation: alternate
     url: /_assets/downloads/getty-research-journal-20.epub
