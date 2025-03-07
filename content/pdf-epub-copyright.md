@@ -17,7 +17,7 @@ menu: false
 
 **Information for Scholars** {.no-bottom-margin}
 
-The research articles in this issue were peer reviewed through a double-masked process in which the identities of the authors and reviewers remained anonymous. The essay “Bennett Buck’s Good Neighbor Policy: A Case of Mistaken Identity” by James Oles received single-anonymous review. “Belonging Elsewhere: Felipe Baeza and Laura G. Gutiérrez in Conversation” received editorial review.
+The research articles in this issue were peer reviewed through a double-masked process in which the identities of the authors and reviewers remained anonymous. The essay “Bennett Buck’s *Good Neighbor Policy:* A Case of Mistaken Identity” by James Oles received single-anonymous review. “Belonging Elsewhere: Felipe Baeza and Laura G. Gutiérrez in Conversation” received editorial review.
 
 To submit a manuscript, please visit
 [grj.scholasticahq.com](https://grj.scholasticahq.com).
