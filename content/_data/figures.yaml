@@ -222,28 +222,28 @@ figure_list:
     caption: "**Artist unknown.** “The Social Democrat Grzesinski,” from *Proletarskoe
       foto,* no. 3 (1932): 7. Los Angeles, Getty Research Institute, 85-S956."
     longdesc: ''
-    alt: 'Distorted black-and-white portrait from a newspaper page showing a man in a suit from the shoulders up; the corner of his mouth and his left ear are enlarged and elongated in the direction of his gaze.'
+    alt: 'Distorted black-and-white portrait from a newspaper page showing a man in a suit from the shoulders up; the corner of his mouth and his left ear are enlarged and elongated down toward his neck.'
   - id: "fig-2-8-a"
     label: "Fig. 8A. —"
     src: figures/fig-2-8-a.png
     zoom: true
     caption: "**Pavel Petrov-Bytov (Russian, 1895–1960), director.** Screen capture from the film *Cain and Artem*, 1929. Image courtesy University of California, Berkeley, Berkeley Art Museum and Pacific Film Archive Library."
     longdesc: ''
-    alt: 'A group of three men’s faces in black and white are shown straight-on with stunned expressions, their faces blurred and elongated, mouths agape; in the second horizontal frame, the face of a man in a uniform cap looks on in shock; and in the third, a thickly bearded man looks straight ahead in horror.'
+    alt: 'The first of three black-and-white still frames shows three men’s elongated, blurry faces grouped together facing the viewer, looking stunned with mouths agape.'
   - id: "fig-2-8-b"
     label: "Fig. 8B. —"
     src: figures/fig-2-8-b.png
     zoom: true
     caption: "**Pavel Petrov-Bytov (Russian, 1895–1960), director.** Screen capture from the film *Cain and Artem*, 1929. Image courtesy University of California, Berkeley, Berkeley Art Museum and Pacific Film Archive Library."
     longdesc: ''
-    alt: 'A group of three men’s faces in black and white are shown straight-on with stunned expressions, their faces blurred and elongated, mouths agape; in the second horizontal frame, the face of a man in a uniform cap looks on in shock; and in the third, a thickly bearded man looks straight ahead in horror.'
+    alt: 'The second of three black-and-white still frames shows the face of a man in a uniform cap staring slightly off camera in shock, with his mouth open.'
   - id: "fig-2-8-c"
     label: "Fig. 8C. —"
     src: figures/fig-2-8-c.png
     zoom: true
     caption: "**Pavel Petrov-Bytov (Russian, 1895–1960), director.** Screen capture from the film *Cain and Artem*, 1929. Image courtesy University of California, Berkeley, Berkeley Art Museum and Pacific Film Archive Library."
     longdesc: ''
-    alt: 'A group of three men’s faces in black and white are shown straight-on with stunned expressions, their faces blurred and elongated, mouths agape; in the second horizontal frame, the face of a man in a uniform cap looks on in shock; and in the third, a thickly bearded man looks straight ahead in horror.'
+    alt: 'The third of three black-and-white still frames shows a thickly bearded man with parted lips staring beyond the viewer in horror.'
   - id: "fig-2-9"
     label: "Fig. 9. —"
     src: figures/fig-2-9.jpg
@@ -448,7 +448,7 @@ figure_list:
     src: figures/fig-4-3_rights.jpg
     # zoom: true
     caption: "**Douglas Huebler (American, 1924–97).** *Duration Piece #15*,
-      1969, [**[medium TK]]**. © Douglas Huebler, courtesy Darcy Huebler / Artists Rights
+      1969, left: dry mounted Photostat, 57.8 × 57.8 cm (framed); right: typewritten text, pencil on paper, 48.3 × 39.4 cm (framed). © Douglas Huebler, courtesy Darcy Huebler / Artists Rights
       Society (ARS), New York. Courtesy Paula Cooper Gallery, New York. Photo: Steven Probert."
     longdesc: ''
     alt: 'Two wood-framed documents on a white wall: the left one contains a wanted poster featuring ten fingerprints, three mug shots, and the suspect’s physical attributes; the right one presents a typewritten letter.'
@@ -466,14 +466,14 @@ figure_list:
     zoom: true
     caption: "**Postcard, front, of David Antin delivering the talk “Figures of Thought or Figures of Thinking,” 80 Langton Street, San Francisco, California, 13 May 1978.**"
     longdesc: ''
-    alt: 'A black-and-white photograph of a man viewed from behind as he stands, delivering a talk to a seated, intimate audience in a full room. Two wooden pillars bisect the room, and one audience member sits cross-legged on the floor. The back of the postcard contains no handwriting, only the typed address, lecture title, and a photo credit to “Galgiani.”'
+    alt: 'A black-and-white photograph of a man viewed from behind as he stands, delivering a talk to a seated, intimate audience in a full room. Two wooden pillars bisect the room, and one audience member sits cross-legged on the floor.'
   - id: "fig-4-5-b"
     label: "Fig 5B. —"
     src: figures/fig-4-5-b.jpg
     zoom: true
     caption: "**Postcard, back, of David Antin delivering the talk “Figures of Thought or Figures of Thinking,” 80 Langton Street, San Francisco, California, 13 May 1978.**"
     longdesc: ''
-    alt: 'A black-and-white photograph of a man viewed from behind as he stands, delivering a talk to a seated, intimate audience in a full room. Two wooden pillars bisect the room, and one audience member sits cross-legged on the floor. The back of the postcard contains no handwriting, only the typed address, lecture title, and a photo credit to “Galgiani.”'
+    alt: 'The back of the postcard contains no handwriting, only the typed address, lecture title, and a photo credit to “Galgiani.”'
   - id: "fig-4-6"
     label: "Fig. 6. —"
     src: figures/fig-4-6.jpg
@@ -579,7 +579,7 @@ figure_list:
       silver print.** Photographer unknown. Cologne, Germany, August Sander
       Stiftung."
     longdesc: ''
-    alt: 'A black-and-white candid photograph of six well-dressed individuals who engage in separate activities in an interior space. A man on the viewer’s right observes the conversation between the taller Lunn, who traces his beard, and Model, who looks down; a woman in the background holds her patterned coat and looks askance toward another woman, who touches her scarf.'
+    alt: 'A black-and-white candid photograph of six well-dressed individuals who engage in separate activities in an interior space. A man on the viewer’s right observes the conversation between the taller Lunn, who traces his beard, and Model, who looks down; a woman in the background holds her patterned coat and looks askance toward another woman, who touches her own scarf.'
   - id: "fig-5-9"
     label: "Fig. 9. —"
     src: figures/fig-5-9.jpg
@@ -910,8 +910,8 @@ figure_list:
     src: figures/fig-8-7.jpg
     zoom: true
     caption: "**Nahum B. Zenil (Mexican, b. 1947).** ¡*Oh, santa bandera! (A Enrique Guzmán)* (Oh, Holy Flag! [For Enrique Guzmán]), 1996, ink, acrylic, and oil on paper, triptych: 238 × 71.5 cm. Mexico City, Museo Universitario Arte Contemporáneo (DiGAV, UNAM). Acquisition through funds from the Programa de Egresos de la Federación, 2013. Photo by Francisco Kochen, courtesy MUAC. By permission of the artist."
-    longdesc: 'Framed vertical triptych panel painting showing a nude male figure from behind, bending forward so that his face and genitals are visible between his legs as he looks directly at the viewer. A flagpole penetrates his anus, erected into the sky of the top two panels, terminating in a green, white, and red flag.'
-    alt: ''
+    longdesc: ''
+    alt: 'Framed vertical triptych panel painting showing a nude male figure from behind, bending forward so that his face and genitals are visible between his legs as he looks directly at the viewer. A flagpole penetrates his anus, erected into the background sky of the top two panels, terminating in a green, white, and red flag.'
   - id: "fig-8-8-FPO"
     label: "Fig. 8. —"
     src: figures/fig-8-8-FPO.jpg

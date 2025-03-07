@@ -1509,3 +1509,11 @@ table.sahragard-table-01 img {
     top: -.35rem !important;
   }
 }
+
+/* Creates new blank page */
+@media print{
+  .blank-page {
+    page-break-after: always; /* Force a page break after the blank page */
+    /*height: 50vh; Ensure the blank page takes up the full height */
+  }
+}
