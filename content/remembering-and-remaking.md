@@ -3,6 +3,8 @@ title: "Remembering and Remaking Christofle et Cie’s Second Empire"
 subtitle: ""
 short_title: "Remembering and Remaking"
 layout: essay
+classes:
+  - pdf-start-recto
 order: 20
 contributor:
   - first_name: Amy F. 
@@ -31,7 +33,7 @@ After the abdication of the emperor in the Franco-Prussian War, a four-month sie
 
 A large and impressive album bound in crimson leather, the cover stamped in gold, presents in images the various parts of a large metallic table centerpiece, or *surtout de table,* that was created for the Galerie des Fêtes, a grand official reception and dining room at the Hôtel de Ville (the main city hall) in Paris ([fig. 1](#fig-1-1)). The city of Paris, through its prefect of the Seine, Georges-Eugène Haussmann, commissioned this work from the goldsmithing firm Christofle to coincide with the completion of the building’s renovation and the Paris Exposition Universelle of 1867.[^6] The set was officially designed by the city architect Victor Baltard, who completed additions to the Hôtel de Ville and was also in charge of municipal ceremonies, including planning state visits and banquets.[^7] The firm produced the central sculptural parts in cast bronze electroplated with silver and gold along with twenty candelabra and smaller compositions that embellished the ends of the table. Four large ceramic vases executed by the Sèvres manufactory were set in jardinieres and occupied either side of the central group. Place settings for 150 guests along with footed dishes for desserts and metallic baskets for flowers completed the commission.
 
-{% figure 'fig-1-1' 'pdf-wide-image-right pdf-float-top' %}
+{% figure 'fig-1-1' 'pdf-wide-image pdf-float-top' %}
 
 The service and other ornaments were added to the long-standing expansion and restoration of the Hôtel de Ville, which had begun in the 1830s. Under Baltard’s tenure as city architect, he added new buildings to the complex, enclosed the courtyard, and created the curving courtyard stair that embraced a large fountain, which Baltard completed with Max Vauthier and the sculptor Auguste Jean-Baptiste Lechesne in 1855 ([fig. 2](#fig-1-2)).[^8] The central figural group of the centerpiece, intended for the table of the Galerie des Fêtes, reproduced in sculptural terms the motto and coat of arms of the city of Paris: *Fluctuat nec mergitur*, or “She is tossed by the waves but does not sink.” The heraldic device appeared on coins and seals from the thirteenth through the sixteenth centuries, but Haussmann legally adopted it in 1853 to commemorate the first year of Napoléon III’s rule. Rendered in three dimensions to preside over the grand dining room, the seal imagery of vessel and tower-crown were incorporated into the composition of the figural sculptures. A crowned, female allegorical figure of the city of Paris is seated holding a scepter ([fig. 3](#fig-1-3)). In the full composition, she is elevated above a large boat by two pairs of classical caryatids personifying on one side Commerce and Industry, and on the other, Science and Art. The figure of the city of Paris is accompanied on the boat by the allegories of Progress, a male youth looking forward at the prow, and Prudence, a woman seated behind, near the rudder. This central group of figures gave physical form to the ideal of good government using the imagery of classicism and the language of allegory, which proliferated in official commissions.
 

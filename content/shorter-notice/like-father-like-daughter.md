@@ -72,7 +72,7 @@ Given the shared origin story for her major Salon submissions in the early 1850s
 
 {% figure 'fig-7-11' 'pdf-float-top pdf-60-percent-width' %}
 
-{% figure 'fig-7-12' 'pdf-float-top pdf-wide-image-right' %}
+{% figure 'fig-7-12' 'pdf-float-top pdf-wide-image' %}
 
 The placement of these studies in an old, used sketchbook purchased over a decade before, rather than in a new volume of fresh pages, suggests that Rosa treated the development of *Haymaking* as an extension of her father’s own practice, literally and figuratively. Leaves 48v and 49v are drawn in the same page orientation as Raymond’s landscape studies in the second half of the album. Rosa’s sketches for *Haymaking*, along with the drawings for *The Horse Fair*, also fall between the successions of blank pages in the middle of the object. Just as the final works reflected Rosa’s bids to continue the familial artistic lineage, the early drawings for them were executed in the sketchbook in such a way that they seem to continue Raymond’s contributions.
 

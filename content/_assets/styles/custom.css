@@ -122,8 +122,8 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
     max-width: 45%;
     margin: 0 !important;
   }
-  .pdf-47-5-percent-width img {
-    max-width: 47.5%;
+  .pdf-48-percent-width img {
+    max-width: 48%;
     margin: 0 !important;
   }
   .pdf-50-percent-width img {
@@ -166,12 +166,9 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
     max-width: 95%;
     margin: 0 !important;
   }
-  .pdf-wide-image-left {
+  .pdf-wide-image {
     width: calc(100% + var(--large-indent));
-  }
-  .pdf-wide-image-right {
-    width: calc(100% + var(--large-indent));
-    margin-left: calc(-1 * var(--large-indent)) !important;
+    margin-inside: calc(-1 * var(--large-indent)) !important;
   }  
   .q-figure--group.pdf-85-percent-width {
     max-width: 85% !important;
@@ -1278,6 +1275,11 @@ summary::-webkit-details-marker {
     color: var(--accent-color);
     text-align: center;
   }
+  .quire-page.quire-splash .quire-page__header .hero-body {
+    margin-inside: var(--large-indent);
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
 
 /* PDF running feet */ 
@@ -1519,5 +1521,12 @@ table.sahragard-table-01 img {
   .blank-page {
     page-break-after: always; /* Force a page break after the blank page */
     /*height: 50vh; Ensure the blank page takes up the full height */
+  }
+}
+
+/* Class applied in page YAML, ensures page will start on right/recto if it isn't already */
+@media print{
+  .pdf-start-recto {
+    page-break-before: right;
   }
 }
