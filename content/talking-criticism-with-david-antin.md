@@ -100,7 +100,7 @@ Different kinds of people fit under the mantle “painting relators.” Artists,
 
 A photograph from 1973 by Fred Lonidier offers an example of Antin’s relating in action ([fig. 4](#fig-4-4)). Outfitted in a black turtleneck and sports coat, Antin stands talking on the phone in his office in front of Roy Lichtenstein’s screenprint *Sweet Dreams, Baby!* from 1966. The male comic-book character’s head collapses in the work’s bottom right-hand corner while a clenched fist swings upward toward the top. Meanwhile, Antin’s left arm, outstretched, gives the impression that the print is in motion while the tail of the speech balloon containing the titular caption is pointed at Antin’s mouth, hinging together representation and the real. Antin is not only connected to the print but extends it, wiring and relating it to the world through the technology of the phone.
 
-{% figure 'fig-4-4' 'pdf-float-top' %}
+{% figure 'fig-4-4' 'pdf-float-top pdf-48-percent-width pdf-wide-image-right' %}
 
 <span data-outputs-include="pdf,epub">
 {% figuregroup '2' 'fig-4-5-a, fig-4-5-b' '<span class="q-figure__label-text">Figs. 5a, 5b. — </span>**Postcard, front and back, of David Antin delivering the talk “Figures of Thought or Figures of Thinking,” 80 Langton Street, San Francisco, California, 13 May 1978.**' 'has-shared-caption pdf-float-top pdf-wide-image-right' %}
@@ -121,8 +121,6 @@ Others were arriving at similar conclusions about the possibilities for criticis
 > You might summarize it by saying that it’s a shifting of roles in which traditional categories of activity or professional behavior of people whose identity seemed secure enough in the past no longer really obtains. . . . In a sense I suppose this does belong to what’s coming to be called the McLuhan age, in which the fantastic media mix of what were previously separate arts goes on at an ever-increasing and uncanny rate of speed, an acceleration puzzling to view.[^44]
 
 *Impressed* is a funny word for Kozloff to use, for he seems concerned by the so-called McLuhan age, which is characterized by not only a return to acoustics and orality but also a post-medium situation that parallels the breakdown of strictly defined roles. Needless to say, this new art-world formation challenged the possibility of critical distance, and Antin consciously acknowledged this by working within the maelstrom. In a vignette included in his second book, *talking at the boundaries* ([fig. 7](#fig-4-7)), Antin tells a story about a conversation he had with Kozloff and the fact that Kozloff saw Antin’s position as part of the problem:
-
-{% figure 'fig-4-7' 'rights-restricted-size-half pdf-float-top' %}
 
 > on my way down madison avenue i ran into max
 > 
@@ -153,6 +151,8 @@ Others were arriving at similar conclusions about the possibilities for criticis
 > effect of estheticizing a discourse was to neutralize it
 > 
 > <span class="poetry-tab"> </span>and i agreed that this was a danger[^45]
+
+{% figure 'fig-4-7' 'rights-restricted-size-half pdf-grow' %}
 
 Antin is a real-life example of shifting roles in the art world, and by “becoming an artist,” Antin—for Kozloff at least—necessarily forfeited critical distance.[^46] For Kozloff, when critics stepped outside their roles, or blurred them, criticism lost its bite. Critical points, made in the wrong way, risked losing “serious effect.”
 

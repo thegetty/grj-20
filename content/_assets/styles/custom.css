@@ -122,6 +122,10 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
     max-width: 45%;
     margin: 0 !important;
   }
+  .pdf-47-5-percent-width img {
+    max-width: 47.5%;
+    margin: 0 !important;
+  }
   .pdf-50-percent-width img {
     max-width: 50%;
     margin: 0 !important;
