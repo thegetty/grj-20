@@ -1530,3 +1530,10 @@ table.sahragard-table-01 img {
     page-break-before: right;
   }
 }
+
+/* GRJ 20 ONLY -- keep copyright notice for the Conversation article to one line */
+@media print {
+  .quire-page.conversation .page-tools__copyright {
+    letter-spacing: -.1pt;
+  }
+}
