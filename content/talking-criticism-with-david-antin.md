@@ -102,15 +102,15 @@ A photograph from 1973 by Fred Lonidier offers an example of Antin’s relating 
 
 {% figure 'fig-4-4' 'pdf-float-top pdf-48-percent-width pdf-wide-image' %}
 
-<span data-outputs-include="pdf,epub">
+<div data-outputs-include="pdf,epub">
 {% figuregroup '2' 'fig-4-5-a, fig-4-5-b' '<span class="q-figure__label-text">Figs. 5a, 5b. — </span>**Postcard, front and back, of David Antin delivering the talk “Figures of Thought or Figures of Thinking,” 80 Langton Street, San Francisco, California, 13 May 1978.**' 'has-shared-caption pdf-float-top pdf-wide-image' %}
-</span>
+</div>
 
 Antin’s relating also took more immediate forms. A photograph from Antin’s talk “Figures of Thought or Figures of Thinking” at San Francisco’s 80 Langton Street in 1978 conveys the intimacy of Antin’s talking, as he stands close to his audience, a term whose etymology, with its roots in auditory processes, seems particularly important here ([figs. 5a](#fig-4-5-a), [5b](#fig-4-5-b)). Much in the manner of the happenings of the 1960s, the hard line between spectators and performer breaks down, with the two sides of the equation joining together in a group. People sit on the floor and smoke amid scattered beer cans; posters and fliers are pinned to the wall. One might say the audience is on view, or that Antin, who is seen from behind in the photograph, belongs to the audience, and the bodies around him catalyze his performance. Here is a private-public sphere—what used to be called an alternative space—and everything and everyone in attendance helps give it shape.[^41] It is interesting to compare the emphasis on liveness with the stillness of the cover of the tenth anniversary issue of *Artforum*, which features a photograph of the magazine’s barren office, chairs empty and desks piled with books and phones ([see fig. 1](#fig-4-1)). Each image offers its own model of textual production, and while both are technologized—tape recording is crucial to Antin’s work—the latter lacks the embodiment of Antin’s pedagogical performances. Critic Lytle Shaw has used the term *narrowcast* (as opposed to *broadcast*) to describe a tendency in New American Poetry that emphasized “intimate, corporeal space,” or “microspace,” so as to position itself against the universalizing “anywhere” tendencies of mainstream media.[^42] Antin may have created a kind of narrowcast criticism.
 
-<span data-outputs-include="html">
+<div data-outputs-include="html">
 {% figuregroup '2' 'fig-4-5-a, fig-4-5-b' '<span class="q-figure__label-text">Figs. 5a, 5b. — </span>**Postcard, front and back, of David Antin delivering the talk “Figures of Thought or Figures of Thinking,” 80 Langton Street, San Francisco, California, 13 May 1978.**' 'has-shared-caption' %}
-</span>
+</div>
 
 ## critic
 
