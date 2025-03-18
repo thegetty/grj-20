@@ -64,14 +64,6 @@ git clone --recursive https://github.com/thegetty/grj-19.git
     magick mogrify -profile bin/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
     ```
 
-    ```
-    magick mogrify -colorspace Gray -profile bin/gray-gamma-2-2.icm _site/iiif/fig-3-4/overton-04/print-image.jpg
-    ```
-
-    ```
-    magick mogrify -colorspace Gray -profile bin/gray-gamma-2-2.icm _site/_assets/image*.jpg
-    ```
-
 5. With PrinceXML 15.3 installed, run `quire pdf --lib prince`
 
 ### Creating an EPUB Version
