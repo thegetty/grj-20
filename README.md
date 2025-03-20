@@ -68,7 +68,29 @@ git clone --recursive https://github.com/thegetty/grj-19.git
 
 ### Creating an EPUB Version
 
-TK
+1. Run `quire build`
+
+2. Run `quire epub`
+
+3. Use a tool like , to unzip the resulting EPUB file, and in `getty-research-journal-20/ops/package.opf` add the following metadata items
+
+    ```
+    <meta property="schema:accessibilitySummary">This publications meets baseline accessibility standards</meta>
+    <meta name="schema:accessMode" content="textual" />
+    <meta name="schema:accessMode" content="visual" />
+    <meta name="schema:accessModeSufficient" content="textual" />
+    <meta name="schema:accessModeSufficient" content="visual" />
+    <meta name="schema:accessibilityFeature" content="alternativeText" />
+    <meta name="schema:accessibilityFeature" content="structuralNavigation" />
+    <meta name="schema:accessibilityFeature" content="tableOfContents" />
+    <meta name="schema:accessibilityHazard" content="noFlashingHazard" />
+    <meta name="schema:accessibilityHazard" content="noMotionSimulationHazard" />
+    <meta name="schema:accessibilityHazard" content="noSoundHazard" />
+    ```
+
+4. Delete the original EPUB file and use the same tool to repackage the raw files into a new EPUB
+
+5. Run the resulting file through epubcheck-5.0.0 and Ace by DAISY accessibility checker to ensure there aren't any validation or accessibility errors or warnings.
 
 ### Customizations
 
