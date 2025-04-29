@@ -4,7 +4,7 @@ layout: cover
 order: 1
 menu: false
 toc: false
-image: figures/horakova-poggi-02.jpg
+image: figures/cover.jpg
 classes:
   - masthead
 outputs:
@@ -17,8 +17,8 @@ outputs:
 - {{ editor | markdownify }}
 {% endfor %}
 
-**Getty Research Journal Editorial Board**
-{{ publication.series_editorial_board | markdownify }}
+**Getty Research Journal Editorial Advisory Committee**
+{{ publication.series_advisory_committee | markdownify }}
 
 </div>
 

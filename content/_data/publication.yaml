@@ -10,9 +10,9 @@
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
 # url: 'https://www.getty.edu/publications/getty-research-journal/20/'
-url: 'https://main--grj-20.netlify.app'
+url: 'https://final-pages--grj-20.netlify.app'
 
-# ------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # Title & Description
 title: Getty Research Journal
 subtitle:
@@ -37,24 +37,24 @@ series_editors:
   - Doris Chon, *Executive Editor*
   - Lauren Gendler, *Managing Editor*
 
-series_editorial_board: "Scott Allan, LeRonn Brooks, Maristella Casciato, Anne‑Lise Desmas, Tom Learner, Mary E. Miller, Rebecca Peabody, Andrew Perchuk, Richard Rand, David Saunders, Alexa Sekyra, and Naoko Takahatake"
+series_advisory_committee: "Maristella Casciato, Leonard Folgarait, Susan Elizabeth Gagliardi, Stavroula Golfomitsou, Mazie Harris, Kristin Juarez, Alpesh Kantilal Patel, Emily Pugh, and David Saunders"
 
 project_team:
-  # - Elizabeth Asborno, Lauren Gendler, Jonathan Smit, Annalisa&nbsp;Zox‑Weaver, *Manuscript Editors*
-  # - Jenny Park, *Production*
-  # - Jon Grizzle, *Cover Design*
-  # - Greg Albers, *Digital Manager*
-
+  - Lauren Gendler, *Manuscript Editor*
+  - Dylan Kaposi, *Editorial Assistant*
+  - Jenny Park, *Production*
+  - Jon Grizzle, *Cover design*
+  - Greg Albers, *Digital Manager*
 
 identifier:
-  # doi: https://doi.org/10.59491/LFCW7179
-  # isbn:
-  # isbn_html: 978-1-60606-898-4
-  # isbn_pdf: 978-1-60606-896-0
-  # isbn_epub: 978-1-60606-897-7
-  # isbn_paperback: 978-1-60606-895-3
-  # issn: 1944-8740
-  # e_issn: 2329-1249
+  doi: https://doi.org/10.59491/CUMY5495
+  isbn:
+  isbn_html: 978-1-60606-960-8
+  isbn_pdf: 978-1-60606-958-5
+  isbn_epub: 978-1-60606-959-2
+  isbn_paperback: 978-1-60606-957-8
+  issn: 1944-8740
+  e_issn: 2329-1249
 
 publisher:
   - name: Getty Research Institute
@@ -103,12 +103,12 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF (5.2 MB)
+    name: PDF (8.5 MB)
     media_type: application/pdf
     link_relation: alternate
     url: /_assets/downloads/getty-research-journal-20.pdf
   - type: other-format
-    name: EPUB (41.4 MB)
+    name: EPUB (60.9 MB)
     media_type: application/epub+zip
     link_relation: alternate
     url: /_assets/downloads/getty-research-journal-20.epub
@@ -116,7 +116,7 @@ resource_link:
     name: Paperback
     media_type: print
     link_relation: alternate
-    url: https://shop.getty.edu/
+    url: https://shop.getty.edu/products/getty-research-journal-no-20-978-1606069578
   - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy

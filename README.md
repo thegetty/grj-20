@@ -56,25 +56,41 @@ git clone --recursive https://github.com/thegetty/grj-19.git
 
 2. Run `quire build`
 
-3. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
+3. Add missing `<svg>` Creative Commons icon elements to `<body>`.
+
+4. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
 
     ```
     magick mogrify -profile bin/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
     ```
 
-    ```
-    magick mogrify -colorspace Gray -profile bin/gray-gamma-2-2.icm _site/iiif/fig-3-4/overton-04/print-image.jpg
-    ```
-
-    ```
-    magick mogrify -colorspace Gray -profile bin/gray-gamma-2-2.icm _site/_assets/image*.jpg
-    ```
-
-4. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
+5. With PrinceXML 15.3 installed, run `quire pdf --lib prince`
 
 ### Creating an EPUB Version
 
-TK
+1. Run `quire build`
+
+2. Run `quire epub`
+
+3. Use a tool like , to unzip the resulting EPUB file, and in `getty-research-journal-20/ops/package.opf` add the following metadata items
+
+    ```
+    <meta property="schema:accessibilitySummary">This publications meets baseline accessibility standards</meta>
+    <meta name="schema:accessMode" content="textual" />
+    <meta name="schema:accessMode" content="visual" />
+    <meta name="schema:accessModeSufficient" content="textual" />
+    <meta name="schema:accessModeSufficient" content="visual" />
+    <meta name="schema:accessibilityFeature" content="alternativeText" />
+    <meta name="schema:accessibilityFeature" content="structuralNavigation" />
+    <meta name="schema:accessibilityFeature" content="tableOfContents" />
+    <meta name="schema:accessibilityHazard" content="noFlashingHazard" />
+    <meta name="schema:accessibilityHazard" content="noMotionSimulationHazard" />
+    <meta name="schema:accessibilityHazard" content="noSoundHazard" />
+    ```
+
+4. Delete the original EPUB file and use the same tool to repackage the raw files into a new EPUB
+
+5. Run the resulting file through epubcheck-5.0.0 and Ace by DAISY accessibility checker to ensure there aren't any validation or accessibility errors or warnings.
 
 ### Customizations
 
@@ -142,6 +158,9 @@ Refactored logic to handle oxford commas correctly
 
 **_plugins/shortcodes/figureGroup.js**
 Added caption and class parameters that can be fed in from shortcode; and simplified HTML markup to remove rows
+
+**_plugins/transforms/outputs/pdf/transform.js**
+Fixed transform that was converting external links to slugified anchor links
 
 **content/_computed/eleventyComputed.js**
 Changed pagination so next/prev pages can be overridden on individual pages; and added menu_link and toc_link properties, so items in menus and toc can appear without a link to the page

@@ -1,10 +1,13 @@
 :root {
-  --accent-color: #813436; /* same as $accent-color in variables.scss */
-  --accent-color-midtone: #ff7070;
-  --accent-color-highlight: #ffa8a8;
+  --accent-color: #807170; /* same as $accent-color in variables.scss */
+  --accent-color-midtone: #B8AEAD;
+  --accent-color-highlight: #f8cf0c;
 
-  --sidebar-light: #f1f0ee;
-  --sidebar-midtone: #e3e1dd;
+  --page-sidebar-light: #f1f0ee;
+  --page-sidebar-midtone: #e3e1dd;
+
+  /* set to 0 to remove gradient */
+  --cover-heading-gradient-opacity: .3;
 
   --skolar: skolar-pe, serif;
   --skolar-sans: skolar-sans-pe, sans-serif;
@@ -47,13 +50,13 @@ body {
     padding-top: 1rem;
   }
   .quire::before {
-    content: "FIRST";
+    content: "PRESS";
     background-color: yellow;
     bottom: -115px;
     right: -115px;
   }
   .quire::after {
-    content: "PAGES";
+    content: "PREVIEW";
     bottom: -130px;
     right: -130px;
   }
@@ -94,6 +97,12 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   margin-right: var(--standard-indent) !important;
 }
 
+/* same width as an image when it's in a 2x grid */
+.screen-50-percent-width img {
+  max-width: calc(50% - .5rem);
+  margin: 0 !important;
+}
+
 @media print {
   .pdf-float-top {
     float: none;
@@ -105,25 +114,62 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
     -prince-float: bottom;
     margin-bottom: 0 !important;
   }
+  .pdf-40-percent-width img {
+    max-width: 40%;
+    margin: 0 !important;
+  }
+  .pdf-45-percent-width img {
+    max-width: 45%;
+    margin: 0 !important;
+  }
+  .pdf-48-percent-width img {
+    max-width: 48%;
+    margin: 0 !important;
+  }
+  .pdf-50-percent-width img {
+    max-width: 50%;
+    margin: 0 !important;
+  }
+  .pdf-55-percent-width img {
+    max-width: 55%;
+    margin: 0 !important;
+  }
   .pdf-60-percent-width img {
     max-width: 60%;
     margin: 0 !important;
   }
-  .pdf-wide-image-left {
-    width: calc(100% + var(--large-indent));
+  .pdf-65-percent-width img {
+    max-width: 65%;
+    margin: 0 !important;
   }
-  .pdf-wide-image-right {
-    width: calc(100% + var(--large-indent));
-    margin-left: calc(-1 * var(--large-indent)) !important;
+  .pdf-70-percent-width img {
+    max-width: 70%;
+    margin: 0 !important;
   }
-  .pdf-90-percent-width img {
-    max-width: 90%;
+  .pdf-75-percent-width img {
+    max-width: 75%;
+    margin: 0 !important;
+  }
+  .pdf-80-percent-width img {
+    max-width: 80%;
     margin: 0 !important;
   }
   .pdf-85-percent-width img {
     max-width: 85%;
     margin: 0 !important;
   }
+  .pdf-90-percent-width img {
+    max-width: 90%;
+    margin: 0 !important;
+  }
+  .pdf-95-percent-width img {
+    max-width: 95%;
+    margin: 0 !important;
+  }
+  .pdf-wide-image {
+    width: calc(100% + var(--large-indent));
+    margin-inside: calc(-1 * var(--large-indent)) !important;
+  }  
   .q-figure--group.pdf-85-percent-width {
     max-width: 85% !important;
     width: 85% !important;
@@ -133,6 +179,54 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   }
   .pdf-no-bottom-margin {
     margin-bottom: 0 !important;
+  }
+  .pdf-two-column {
+    height: 8.5in !important;
+    display: block !important;
+  }
+  figure.pdf-two-column img {
+    float: left;
+    clear: both;
+    margin-right: 1rem !important;
+  }
+  .pdf-page-break-before {
+    break-before: always;
+    page-break-before: always;
+  }
+}
+.content figure img.q-figure__image {
+  max-height: 80vh;
+  width: auto;
+  margin-left: 0;
+}
+.rights-restricted-size-half img {
+  max-height: 50vh !important;
+  width: auto;
+}
+.rights-restricted-size-quarter img {
+  max-height: 30vh !important;
+  width: auto;
+}  
+@media print {
+  .content figure img.q-figure__image {
+    max-height: none;
+  }
+  .rights-restricted-size-half.pdf-grow img {
+    max-height: 5in !important;
+  }
+  .rights-restricted-size-half img, 
+  .rights-restricted-size-quarter.pdf-grow img {
+    max-height: 4in !important;
+  }
+  .rights-restricted-size-half.pdf-shrink-a-little img {
+    max-height: 3.75in !important;
+  }
+  .rights-restricted-size-quarter img,
+  .rights-restricted-size-half.pdf-shrink img {
+    max-height: 3in !important;
+  }  
+  .rights-restricted-size-quarter.pdf-shrink img {
+    max-height: 2in !important;
   }
 }
 
@@ -151,20 +245,22 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
 /* COVER
 ============================================================================= */
 .quire-cover__overlay {
-  background-position-y: top;
+  background-position-y: 10%;
 }
 .hero-body .container.is-fluid {
   right: 0;
   left: auto;
   margin-right: 0;
   padding: .5rem var(--standard-indent);
-  background-color: transparent;
+  background: transparent;
+  background: linear-gradient(180deg, rgba(0,0,0,var(--cover-heading-gradient-opacity)) 0%, rgba(255,255,255,0) 80%);
   text-align: right;
   top: 0;
   bottom: auto;
+  width: 100%;
 }
 .hero-body .container.is-fluid .title {
-  color: var(--accent-color);
+  color: var(--accent-color-highlight);
   font-size: 3.5rem;
   font-weight: 300;
   margin: 0;
@@ -206,6 +302,7 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
     background-position-y: 240px;
   }
   .hero-body .container.is-fluid {
+    background: transparent;
     display: flex;
     flex-direction: column;
     align-items: flex-end;
@@ -302,18 +399,31 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   margin-left: var(--large-indent);
 }
 .quire-page__content .container .content > h2:first-child + p,
-.quire-page__content .container .content > p:first-child {
+.quire-page__content .container .content > p:first-child,
+.quire-page__content .container .content > blockquote:first-child + p {
   text-indent: var(--large-indent);
+}
+.quire-page__content .container .content > blockquote:first-child {
+  margin-left: var(--large-indent);
+}
+.quire-page__content .container .content > blockquote.epigraph * {
+  text-align: left;
+}
+.quire-page__content .container .content .epigraph-signature {
+  margin-top: 1rem;
+  text-indent: 0 !important;
 }
 @media print {
   .quire-page__content .container .content > h2:first-child,
-  .quire-page__content .container .content .page-tools__copyright + h2 {
+  .quire-page__content .container .content .page-tools__copyright + h2,
+  .quire-page__content .container .content .page-tools__copyright + blockquote  {
     margin-left: var(--large-indent);
   }
   .quire-page__content .container .content > h2:first-child + p,
   .quire-page__content .container .content > p:first-child,
   .quire-page__content .container .content .page-tools__copyright + h2 + p,
-  .quire-page__content .container .content .page-tools__copyright + p {
+  .quire-page__content .container .content .page-tools__copyright + p,
+  .quire-page__content .container .content .page-tools__copyright + blockquote + p {
     text-indent: var(--large-indent);
   }
 }
@@ -476,6 +586,9 @@ strong {
     margin-bottom: 0;
   }
 }
+.quire-page__content .container .content hr::after {
+  color: var(--accent-color);
+}
 
 /* BLOCKQUOTES
 ============================================================================= */
@@ -587,6 +700,16 @@ strong {
   padding-right: 1em;
 }
 
+/* FIGURES
+============================================================================= */
+/* Overrides styles that were enlarging images even if they were too small */
+.q-lightbox-slides__element img {
+  height: auto;
+  width: auto;
+  max-height: 90%;
+  max-width: 90%;
+}
+
 /* GROUP FIGURES
 ============================================================================= */
 .q-figure.q-figure--group {
@@ -605,6 +728,14 @@ strong {
 .q-figure.q-figure--group.has-shared-caption .q-figure .q-figure__caption .q-figure__label-text {
   text-transform: none;
 }
+.q-figure.q-figure--group.has-shared-caption > .q-figure figcaption .q-figure__caption-content,
+.q-figure.q-figure--group.has-shared-caption > .q-figure figcaption .q-figure__credit,
+.q-figure.q-figure--group.has-shared-caption > .q-figure figcaption .q-figure__label-text {
+  display: none;
+}
+.q-figure.q-figure--group.quire-grid--1 figure {
+  margin-bottom: 1rem;
+}
 .q-figure.q-figure--group.quire-grid--2 {
   grid-template-columns: 1fr 1fr;
   grid-row-gap: 1rem;
@@ -620,6 +751,12 @@ strong {
     align-items: flex-start;
     justify-content: space-between;
     flex-wrap: wrap;
+  }
+  .q-figure.q-figure--group.quire-grid--1 {
+    flex-direction: column;
+  }
+  .q-figure.q-figure--group.quire-grid--1 .q-figure {
+    margin-bottom: .5rem;
   }
   .q-figure.q-figure--group.quire-grid--2 .q-figure {
     margin-bottom: 1.5rem;
@@ -662,6 +799,9 @@ strong {
   text-transform: uppercase;
   font-feature-settings: "lnum";
   font-variant-numeric: lining-nums; /* for PrinceXML support */
+}
+.q-figure__label .q-figure__label-icon {
+  margin-left: -0.15em;
 }
 .q-figure__label .q-figure__label-icon svg {
   width: 1rem;
@@ -851,8 +991,9 @@ summary::-webkit-details-marker {
     padding-left: var(--large-indent);
     padding-right: 0;
   }
+  /* used on GRJ 19 to break shorter notices to next page */
   .table-of-contents-list .section-item {
-    page-break-before: always;
+    /* page-break-before: always; */
   }
 }
 
@@ -1134,6 +1275,11 @@ summary::-webkit-details-marker {
     color: var(--accent-color);
     text-align: center;
   }
+  .quire-page.quire-splash .quire-page__header .hero-body {
+    margin-inside: var(--large-indent);
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
 
 /* PDF running feet */ 
@@ -1238,13 +1384,13 @@ p[lang="ar"] {
 
 /* Appendix in paper 2 */
 .quire-page__content .container .content #alai-kidd-appendix {
-  background-color: var(--sidebar-light);
+  background-color: var(--page-sidebar-light);
   border-radius: .33rem;
   padding: 1rem var(--standard-indent);
   text-align: left;
 }
 .global-accordion-controls {
-  background-color: var(--sidebar-light);
+  background-color: var(--page-sidebar-light);
   margin-bottom: 0;
   margin-top: 1.5rem;
   padding: .5rem 1rem;
@@ -1290,7 +1436,7 @@ button.global-accordion-collapse-all {
 }
 @media print {
   .quire-page__content .container .content #alai-kidd-appendix {
-    background-color: var(--sidebar-midtone);
+    background-color: var(--page-sidebar-midtone);
     padding: 1rem;
     margin-top: 1rem;
   }
@@ -1327,9 +1473,67 @@ table.sahragard-table-01 img {
   margin-left: -0.75rem;
 }
 
+/* Blockquotes in talking-criticism-with-david-antin */
+.poetry-tab {
+  display: inline-block;
+  width: 4rem;
+}
+
 /* Fix too wide margins in TOC */
 @media only screen and (max-width:767px) {
   .quire-contents .quire-page__content .container {
     padding: 1rem 0rem;
+  }
+}
+
+/* Text treatment for interviews 
+   The commented out parts are an alternate version with a reverse indent
+   (ie., the first line sticks out to the left) that Greg liked  */
+.conversation-text {
+  margin-top: 1rem;
+  /* margin-left: var(--standard-indent); */
+}
+.conversation-text p {
+  margin-bottom: 1rem !important;
+  text-indent: 0 !important;
+}
+.conversation-text p > strong {
+  /* display: inline-block;
+  margin-left: -2rem !important; */
+}
+
+/* For introductory note in Conversation */
+.quire-page__content .container .content p.introductory-note {
+  font-style: italic;
+  text-indent: 0;
+  margin: 1rem 0;
+}
+
+/* Fixes misalignement of figure callouts in PDF, but I have no idea where the issue originated */
+@media print {
+  .q-figure__label--below .q-figure__modal-link {
+    top: -.35rem !important;
+  }
+}
+
+/* Creates new blank page */
+@media print{
+  .blank-page {
+    page-break-after: always; /* Force a page break after the blank page */
+    /*height: 50vh; Ensure the blank page takes up the full height */
+  }
+}
+
+/* Class applied in page YAML, ensures page will start on right/recto if it isn't already */
+@media print{
+  .pdf-start-recto {
+    page-break-before: right;
+  }
+}
+
+/* GRJ 20 ONLY -- keep copyright notice for the Conversation article to one line */
+@media print {
+  .quire-page.conversation .page-tools__copyright {
+    letter-spacing: -.1pt;
   }
 }

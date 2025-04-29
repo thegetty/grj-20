@@ -184,6 +184,9 @@ $print-trim: $print-bleed * 2;
     @bottom-left {
       content: none;
     }
+    @bottom-center {
+      content: none;
+    }
     @bottom-right {
       content: none;
     }

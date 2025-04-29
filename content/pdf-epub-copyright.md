@@ -17,7 +17,7 @@ menu: false
 
 **Information for Scholars** {.no-bottom-margin}
 
-All manuscripts in this issue were peer reviewed through a double-masked process in which the identities of the authors and reviewers remained anonymous.
+The research articles in this issue were peer reviewed through a double-masked process in which the identities of the authors and reviewers remained anonymous. The essay “Bennett Buck’s *Good Neighbor Policy:* A Case of Mistaken Identity” by James Oles received single-anonymous review. “Belonging Elsewhere: Felipe Baeza and Laura G. Gutiérrez in Conversation” received editorial review.
 
 To submit a manuscript, please visit
 [grj.scholasticahq.com](https://grj.scholasticahq.com).
@@ -32,7 +32,7 @@ GRJ@getty.edu.
 {% copyright %}
 
 **Cover**
-**Marion Wenzel (German, b. 1958).** Untitled (Winter landscape), 1980/81, gelatin silver print, 15 × 15 cm. From Wolfgang Henne et al., *Landschaft als Zeichen, messbar-vermessbar* (Leipzig: self-published, 1983), n.p. Los Angeles, Getty Research Institute, 93-B10567. © Marion Wenzel, VG Bild Kunst. Courtesy of the artist.
+**Felipe Baeza (Mexican, b. 1987, active in the US).** *to shape, shape self*, 2023, ink, acrylic, graphite, varnish, and cut paper on panel, 40.6 × 30.5 cm. © Felipe Baeza. Courtesy Maureen Paley, London; kurimanzutto, Mexico City / New York. Photograph by Brad Farwell.
 
 ISSN {{ publication.identifier.issn }}
 E-ISSN {{ publication.identifier.e_issn }} {.small-caps}
