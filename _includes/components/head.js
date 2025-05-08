@@ -1,7 +1,7 @@
 //
 // CUSTOMIZED FILE
-// Add apple icon and configure as mobile app
 // Update and clean-up handling for social sharing
+// Remove noindex no follow tag
 //
 const path = require('path')
 /**
@@ -51,7 +51,6 @@ module.exports = function(eleventyConfig) {
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-        <meta name="robots" content="noindex, nofollow"/>
 
         <meta name="generator" content="${application.name} ${application.version}" />
 
@@ -78,9 +77,6 @@ module.exports = function(eleventyConfig) {
 
         <script type="application/ld+json">${jsonld({ canonicalURL, page })}</script>
 
-        <meta name="apple-mobile-web-app-title" content="${publication.title}">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <link rel="apple-touch-icon" sizes="180x180" href="/_assets/images/icons/apple-touch-icon-180x180.png">
         <link rel="icon" href="/_assets/images/icons/favicon.ico" />
         <!--
           styles are already imported in _assets/javascript/application/index.js
