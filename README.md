@@ -150,7 +150,11 @@ Added page-tools include to display PDF download, DOI, abstract, and Cite
 **_layouts/cover.liquid**
 Add journal issue info and publisher, remove contributor
 
+**_layouts/pdf.liquid**
+Update to fix accessibility issues and add cc icons
+
 **_plugins/markdown/index.js**
+**_plugins/transforms/outputs/pdf/write.js**
 Changed `allowedAttributes` on elements to allow any attribute
 
 **_plugins/shortcodes/contributors.js**
