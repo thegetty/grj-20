@@ -26,7 +26,7 @@ description:
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2025-06-17 # YYYY-MM-DD
+pub_date: 2025-05-13 # YYYY-MM-DD
 language: en
 pub_type: journal-periodical # book | journal-periodical | other
 
@@ -159,7 +159,7 @@ subject:
 
 
 revision_history:
-  - date: June 17, 2025
+  - date: May 13, 2025
     summary:
       - First edition
 
