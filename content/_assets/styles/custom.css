@@ -247,6 +247,11 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
 .quire-cover__overlay {
   background-position-y: 10%;
 }
+.quire-cover__hero {
+  background-image: none;
+  background-color: #c0b9ca;
+}
+
 .hero-body .container.is-fluid {
   right: 0;
   left: auto;
