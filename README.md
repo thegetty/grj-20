@@ -1,14 +1,12 @@
-This is the repository for *Getty Research Journal, No. 19*. This issue of the journal was first published Month DD, YYYYY, by the Getty Research Institute. It is available online at https://www.getty.edu/publications/grj/19/ and may be downloaded there free of charge in multiple formats.
+This is the repository for *Getty Research Journal, No. 20*. This issue of the journal was first published May 13, 2025, by the Getty Research Institute. It is available online at https://www.getty.edu/publications/getty-research-journal/20/ and may be downloaded there free of charge in multiple formats.
 
-## About the Journal
-
-TK
+The *Getty Research Journal* presents peer-reviewed articles on the visual arts of all cultures, regions, and time periods. Topics often relate to Getty collections, initiatives, and broad research interests. The journal welcomes a diversity of perspectives and methodological approaches, and seeks to include work that expands narratives on global culture. 
 
 ## Using this Repository
 
 This is one in series of multiformat publications using [Quire](http://quire.getty.edu)™, Getty’s multiformat publishing tool. 
 
-We are dedicated to maintaining this publication for years to come at the permanent URL, https://www.getty.edu/publications/grj/19/, and in its various formats and incarnations. For any updates to the journal, we will be following something between an app and traditional book publication model. Updates will only be made in regulated chunks as formal revisions and new editions and will always be thoroughly documented here in the repository, as well as in the revision history included with each of the journal’s many formats.
+We are dedicated to maintaining this publication for years to come at the permanent URL, https://www.getty.edu/publications/getty-research-journal/20/, and in its various formats and incarnations. For any updates to the journal, we will be following something between an app and traditional book publication model. Updates will only be made in regulated chunks as formal revisions and new editions and will always be thoroughly documented here in the repository, as well as in the revision history included with each of the journal’s many formats.
 
 The primary content pieces of the journal can be found in the `content` directory. The `main` branch represents the current, published edition at all times, and the `revisions` branch, when present, will show changes currently under consideration. We invite you to submit suggestions or corrections via pull request on the revisions branch, by posting an issue, or by emailing us at [pubsinfo@getty.edu](mailto:pubsinfo@getty.edu).
 
@@ -16,8 +14,8 @@ The primary content pieces of the journal can be found in the `content` director
 
 This project was last built with the following software versions:
 
-- Node 18.16.0
-- Quire CLI 1.0.0-rc.10
+- Node 18.20.5
+- Quire CLI 1.0.0-rc.15
 
 ### Branches
 
@@ -30,23 +28,23 @@ This project was last built with the following software versions:
 
 ### Figure Images Submodule
 
-Many of figure images for *Getty Research Journal, No. 19* are licensed from third parties for use exclusively in this publication. As such, they are kept in a separate, private repository, https://github.com/thegetty/grj-19-images/, which is linked to this main publication repository as a submodule in `content/_assets/images/figures/`. When cloning this repo for further development, you’ll permissions for the private repository and will need to clone recursively in order to clone both the main repo and the submodule.
+Many of figure images for *Getty Research Journal, No. 20* are licensed from third parties for use exclusively in this publication. As such, they are kept in a separate, private repository, https://github.com/thegetty/grj-20-images/, which is linked to this main publication repository as a submodule in `content/_assets/images/figures/`. When cloning this repo for further development, you’ll permissions for the private repository and will need to clone recursively in order to clone both the main repo and the submodule.
 
 ```
-git clone --recursive https://github.com/thegetty/grj-19.git
+git clone --recursive https://github.com/thegetty/grj-20.git
 ```
 
 ### Previewing the Online Edition Locally
 
-1. Install Node.js 18.16.0 and verify with with `node --version`
+1. Install Node.js 18.20.5 and verify with with `node --version`
 
-2. Install the Quire CLI with `npm install -g @thegetty/quire-cli@1.0.0-rc.10`
+2. Install the Quire CLI with `npm install -g @thegetty/quire-cli@1.0.0-rc.15`
 
 3. Clone this repository and select the appropriate branch
 
 4. Run `npm install` to install the project dependencies (this just needs to be done once when first cloning the project, or whenever the core template/code files are updated)
 
-5. Change the `url` in `content/_data/publication.yaml` to `http://localhost:8080/`
+5. Change the `url` in `content/_data/publication.yaml` to `http://localhost:8080`
 
 6. See the preview with `quire preview`
 
@@ -56,15 +54,13 @@ git clone --recursive https://github.com/thegetty/grj-19.git
 
 2. Run `quire build`
 
-3. Add missing `<svg>` Creative Commons icon elements to `<body>`.
-
-4. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
+3. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
 
     ```
     magick mogrify -profile bin/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
     ```
 
-5. With PrinceXML 15.3 installed, run `quire pdf --lib prince`
+4. With PrinceXML 15.3 installed, run `quire pdf --lib prince`
 
 ### Creating an EPUB Version
 
